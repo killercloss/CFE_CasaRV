@@ -1,0 +1,1798 @@
+﻿Log file open, 06/05/19 16:12:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CasaRV_CFE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 5.491996
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.816s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.049s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.05-21.12.14:810][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.05-21.12.14:810][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.05-21.12.14:810][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.05-21.12.14:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.05-21.12.14:811][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.05-21.12.14:811][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.05-21.12.14:898][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.05-21.12.14:898][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.05-21.12.14:899][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.05-21.12.14:900][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.05-21.12.14:916][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.05-21.12.14:917][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.05-21.12.15:214][  0]LogHAL: Display: Platform has ~ 7 GB [7455145984 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.05-21.12.15:245][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.05-21.12.15:245][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.05-21.12.15:259][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.15:259][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.06.05-21.12.15:259][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.06.05-21.12.15:259][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.15:259][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.06.05-21.12.15:259][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.15:259][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.05-21.12.15:259][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.06.05-21.12.15:259][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.06.05-21.12.15:259][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.05-21.12.15:260][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.06.05-21.12.15:261][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.05-21.12.15:291][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.05-21.12.15:291][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.05-21.12.15:364][  0]LogInit: Computer: DESKTOP-RTM83TK
+[2019.06.05-21.12.15:364][  0]LogInit: User: Samuel
+[2019.06.05-21.12.15:364][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.05-21.12.15:364][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.05-21.12.15:369][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2019.06.05-21.12.15:369][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.05-21.12.15:369][  0]LogMemory: Process Physical Memory: 103.02 MB used, 103.02 MB peak
+[2019.06.05-21.12.15:369][  0]LogMemory: Process Virtual Memory: 92.74 MB used, 92.74 MB peak
+[2019.06.05-21.12.15:369][  0]LogMemory: Physical Memory: 4162.53 MB used,  2947.25 MB free, 7109.78 MB total
+[2019.06.05-21.12.15:369][  0]LogMemory: Virtual Memory: 4638.51 MB used,  134213088.00 MB free, 134217728.00 MB total
+[2019.06.05-21.12.16:385][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.06.05-21.12.16:385][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.06.05-21.12.17:769][  0]LogStreaming: Display: Took  1.373s to InitEngineTextLocalization.
+[2019.06.05-21.12.17:800][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.05-21.12.18:622][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.05-21.12.18:622][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.05-21.12.28:303][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.05-21.12.28:303][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.05-21.12.28:645][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2019.06.05-21.12.28:645][  0]LogD3D11RHI:       1012/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.06.05-21.12.28:651][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.05-21.12.28:651][  0]LogD3D11RHI:       0/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.05-21.12.28:651][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.05-21.12.28:667][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.05-21.12.28:667][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.05-21.12.28:667][  0]LogWindows: EnumDisplayDevices:
+[2019.06.05-21.12.28:668][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2019.06.05-21.12.28:681][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.06.05-21.12.28:682][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.06.05-21.12.28:682][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.06.05-21.12.28:682][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2019.06.05-21.12.28:682][  0]LogD3D11RHI:   Driver Version: 15.201.1101.1002 (internal:15.201.1101.1002, unified:15.201.1101.1002)
+[2019.06.05-21.12.28:682][  0]LogD3D11RHI:      Driver Date: 8-21-2015
+[2019.06.05-21.12.28:683][  0]LogRHI: Texture pool is 708 MB (70% of 1012 MB)
+[2019.06.05-21.12.28:928][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.05-21.12.29:379][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 3)
+[2019.06.05-21.12.31:886][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.05-21.12.31:923][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.05-21.12.31:948][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.05-21.12.31:988][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.05-21.12.32:061][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.05-21.12.32:108][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.05-21.12.32:146][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.05-21.12.32:185][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.05-21.12.32:209][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:380][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.05-21.12.32:391][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.05-21.12.32:555][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.05-21.12.32:555][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.05-21.12.32:608][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.05-21.12.32:608][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.05-21.12.32:663][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.05-21.12.32:695][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.05-21.12.32:736][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.05-21.12.32:807][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.05-21.12.32:921][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.05-21.12.32:921][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.05-21.12.32:921][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.05-21.12.33:870][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Intermediate/Shaders/WorkingDirectory/11984/).
+[2019.06.05-21.12.33:870][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/23B96DA64BA7FC6D3F7696BCC0433984/'.
+[2019.06.05-21.12.33:893][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.05-21.12.33:893][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.05-21.12.33:894][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.05-21.12.33:894][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.05-21.12.41:845][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.05-21.12.43:029][  0]LogDerivedDataCache: Loaded boot cache 1.17s 72MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.05-21.12.43:030][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.05-21.12.43:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.05-21.12.43:030][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.05-21.12.43:030][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.05-21.12.43:030][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.05-21.12.43:147][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.05-21.12.43:147][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.05-21.12.43:147][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.05-21.12.43:178][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.05-21.12.43:178][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.05-21.12.43:178][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.05-21.12.43:333][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.05-21.12.43:450][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.05-21.12.43:667][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.05-21.12.46:236][  0]LogAssetRegistry: FAssetRegistry took 0.0480 seconds to start up
+[2019.06.05-21.12.54:485][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.05-21.13.18:452][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.05-21.13.19:268][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.05-21.13.19:279][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.05-21.13.19:329][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.05-21.13.19:329][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.05-21.13.22:862][  0]LogNetVersion: CasaRV_CFE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 735120185)
+[2019.06.05-21.14.05:057][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.507619 seconds
+[2019.06.05-21.14.05:125][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.05-21.14.05:125][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.05-21.14.05:125][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.05-21.14.34:199][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.05-21.14.34:246][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.05-21.14.39:204][  0]SourceControl: Source control is disabled
+[2019.06.05-21.14.44:599][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.05-21.14.44:934][  0]LogOcInput: OculusInput pre-init called
+[2019.06.05-21.14.47:328][  0]LogEngine: Initializing Engine...
+[2019.06.05-21.14.47:406][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.05-21.14.47:435][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.05-21.14.47:435][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.05-21.14.47:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.06.05-21.14.47:437][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.05-21.14.49:655][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.05-21.14.50:395][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.05-21.14.50:796][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-21.14.50:953][  0]LogInit: FAudioDevice initialized.
+[2019.06.05-21.14.50:964][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.05-21.14.51:153][  0]LogDerivedDataCache: Saved boot cache 0.19s 72MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.05-21.14.51:236][  0]LogInit: Texture streaming: Enabled
+[2019.06.05-21.14.51:450][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.05-21.14.52:550][  0]LogInit: Transaction tracking system initialized
+[2019.06.05-21.14.55:839][  0]BlueprintLog: New page: Editor Load
+[2019.06.05-21.15.00:946][  0]LocalizationService: Localization service is disabled
+[2019.06.05-21.15.19:440][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/' took 0.06s
+[2019.06.05-21.15.19:440][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.05-21.15.19:462][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.05-21.15.19:568][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.05-21.15.19:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.05-21.15.19:568][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.05-21.15.19:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.05-21.15.19:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.05-21.15.31:542][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.05-21.15.31:650][  0]LightingResults: New page: Lighting Build
+[2019.06.05-21.15.32:148][  0]MapCheck: New page: Map Check
+[2019.06.05-21.15.32:148][  0]LightingResults: New page: Lighting Build
+[2019.06.05-21.15.52:988][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] InputAction Event references unknown Action 'Encender' for  InputAction Encender
+[2019.06.05-21.15.53:000][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.15.53:000][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.15.53:001][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.15.53:007][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [0250.33] Compile of PersistentLevel.KitchenScene successful, but with 4 Warning(s) [in 88 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.05-21.16.14:095][  0]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.05-21.16.15:689][  0]LogEditorServer: Finished looking for orphan Actors (0.013 secs)
+[2019.06.05-21.16.16:085][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.05-21.16.16:099][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 8.169ms to complete.
+[2019.06.05-21.16.16:100][  0]LogFileHelpers: Loading map 'KitchenScene' took 44.584
+[2019.06.05-21.16.19:954][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-21.16.20:112][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-21.16.20:127][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-21.16.20:147][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-21.16.20:503][  0]LogCollectionManager: Loaded 0 collections in 0.003884 seconds
+[2019.06.05-21.16.20:747][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Collections/' took 0.01s
+[2019.06.05-21.16.20:747][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/Developers/Samuel/Collections/' took 0.01s
+[2019.06.05-21.16.20:747][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/Collections/' took 0.00s
+[2019.06.05-21.16.20:747][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.05-21.16.20:778][  0]LogContentBrowser: Native class hierarchy populated in 0.0233 seconds. Added 2651 classes and 620 folders.
+[2019.06.05-21.16.21:088][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.06.05-21.16.21:227][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:414][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:447][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:516][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:529][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:544][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:557][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:579][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:593][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:605][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:642][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:680][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:719][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:733][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:796][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:811][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:825][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:840][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.21:865][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.05-21.16.22:995][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.06.05-21.16.23:208][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2019.06.05-21.16.25:415][  0]LogSlate: Took 0.023419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.05-21.16.25:473][  0]LogSlate: Took 0.028710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.05-21.16.25:662][  0]LogSlate: Took 0.026830 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.05-21.16.27:024][  0]LogRenderer: Reallocating scene render targets to support 776x300 Format 26 NumSamples 1 (Frame:1).
+[2019.06.05-21.16.27:671][  0]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.06.05-21.16.28:429][  0]LogSlate: Took 0.025634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.05-21.16.28:985][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.05-21.16.28:985][  0]LogLoad: (Engine Initialization) Total time: 286.31 seconds
+[2019.06.05-21.16.28:985][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.05-21.16.30:297][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.06.05-21.16.32:524][  6]LogAssetRegistry: Asset discovery search completed in 226.3143 seconds
+[2019.06.05-21.16.32:610][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.05-21.16.32:610][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.045633 seconds (updated 0 objects)
+[2019.06.05-21.16.34:753][ 13]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.16.50:127][564]LogSlate: Took 0.000637 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.05-21.16.52:132][564]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Tostadora1CCB53CD4B26DC8F32162CBE8A06F286.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Meshes/Tostadora/Tostadora.uasset'
+[2019.06.05-21.16.57:352][564]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Tostadora07DEDBD74C5EB9C0B0BAEAA2229344E7.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Meshes/Tostadora.uasset'
+[2019.06.05-21.17.12:417][ 90]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Samuel/Desktop/Cafetera.fbx)
+[2019.06.05-21.17.12:603][ 90]LogFbx: Loading FBX Scene from ../../../../../../Users/Samuel/Desktop/Cafetera.fbx
+[2019.06.05-21.17.12:702][ 90]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.05-21.17.14:265][ 90]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.05-21.17.14:935][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/Black'
+[2019.06.05-21.17.14:936][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/Black'
+[2019.06.05-21.17.14:937][ 90]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Jerson/Downloads/fbx(445)/fbx/textures/textures/Black.jpg
+[2019.06.05-21.17.14:937][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/Black_nor'
+[2019.06.05-21.17.14:938][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/Black_nor'
+[2019.06.05-21.17.14:938][ 90]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Jerson/Downloads/fbx(445)/fbx/textures/textures/Black_nor.png
+[2019.06.05-21.17.14:980][ 90]LogMaterial: Display: Missing cached shader map for material M_Cafetera_Plastic, compiling. 
+[2019.06.05-21.17.15:200][ 90]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.05-21.17.15:226][ 90]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.05-21.17.15:226][ 90]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.05-21.17.15:228][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/steel_DH'
+[2019.06.05-21.17.15:229][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/steel_DH'
+[2019.06.05-21.17.15:229][ 90]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Jerson/Downloads/fbx(445)/fbx/textures/textures/steel_DH.jpg
+[2019.06.05-21.17.15:230][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/steel_DH_nor'
+[2019.06.05-21.17.15:230][ 90]LogLinker: Can't find file '/Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/steel_DH_nor'
+[2019.06.05-21.17.15:230][ 90]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Jerson/Downloads/fbx(445)/fbx/textures/textures/steel_DH_nor.png
+[2019.06.05-21.17.15:236][ 90]LogMaterial: Display: Missing cached shader map for material M_Cafetera_Steel, compiling. 
+[2019.06.05-21.17.15:281][ 90]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2019.06.05-21.17.16:846][ 90]LogStaticMesh: Building static mesh Cafetera...
+[2019.06.05-21.17.18:077][ 90]LogStaticMesh: Built static mesh [1.25s] /Game/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/Cafetera.Cafetera
+[2019.06.05-21.17.18:338][ 90]LogStaticMesh: Warning: Cafetera has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2019.06.05-21.17.18:338][ 90]LogStaticMesh: Warning: Cafetera has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2019.06.05-21.17.18:956][ 90]LogShaderCompilers: Display: Shaders left to compile 44
+[2019.06.05-21.17.18:972][ 90]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.05-21.17.18:973][ 90]FBXImport: Warning: Cafetera has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2019.06.05-21.17.18:974][ 90]FBXImport: Warning: Cafetera has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2019.06.05-21.17.24:204][238]LogSlate: Window 'Message Log' being destroyed
+[2019.06.05-21.17.24:217][238]LogSlate: Window 'Message Log' being destroyed
+[2019.06.05-21.17.28:433][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafetera)
+[2019.06.05-21.17.29:905][423]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.06.05-21.17.30:939][431]LogHttp: Warning: 000001AF89AE74C0: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.06.05-21.17.30:939][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 0 (  Trying 34.200.58.248...)
+[2019.06.05-21.17.30:939][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 1 (TCP_NODELAY set)
+[2019.06.05-21.17.30:939][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.200.58.248) port 443 (#0))
+[2019.06.05-21.17.30:939][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 3 (ALPN, offering http/1.1)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 4 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 5 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 7 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 9 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 10 (SSL certificate problem: unable to get local issuer certificate)
+[2019.06.05-21.17.30:940][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 11 (Closing connection 0)
+[2019.06.05-21.17.30:941][431]LogHttp: Warning: 000001AF89AE74C0: libcurl info message cache 12 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.06.05-21.17.30:960][432]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE12289EE-4C52-CE26-D7FD-F3B404297522%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=34b3586e4a633e0d90f680967c10b65a%7C5817b15a57bb4b6dba2f996d373837f5%7C216417f5-3d98-4c9e-a9c4-0049c7a7195e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.05-21.17.30:979][432]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (CounterTop_CabinetDoor9)
+[2019.06.05-21.17.31:398][432]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.17.32:184][461]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.06.05-21.17.48:350][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.17.56:073][411]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.06.05-21.17.56:074][411]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.06.05-21.17.56:148][411]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.05-21.18.12:521][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cafetera)
+[2019.06.05-21.18.13:918][214]Cmd: DELETE
+[2019.06.05-21.18.13:919][214]Cmd: ACTOR DELETE
+[2019.06.05-21.18.14:258][214]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.05-21.18.14:424][214]LogEditorActor: Deleted 1 Actors (0.246 secs)
+[2019.06.05-21.18.20:527][542]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.18.37:479][393]LogEditorViewport: Clicking on Actor (LMB): TomaDeCorriente_C (TomaDeCorriente)
+[2019.06.05-21.18.42:654][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.18.54:816][196]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.18.59:430][382]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.19.03:025][527]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.05-21.19.06:571][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.19.22:349][486]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 1 (  Trying 23.20.51.18...)
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (23.20.51.18) port 443 (#1))
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.05-21.19.31:156][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 11 (SSL certificate problem: unable to get local issuer certificate)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 12 (Closing connection 1)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: 000001AF89ADEE80: libcurl info message cache 13 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.06.05-21.19.31:157][826]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE12289EE-4C52-CE26-D7FD-F3B404297522%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=34b3586e4a633e0d90f680967c10b65a%7C5817b15a57bb4b6dba2f996d373837f5%7C216417f5-3d98-4c9e-a9c4-0049c7a7195e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.05-21.19.39:424][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VirtualRealityBP/contacto" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/contacto.uasset" SILENT=true
+[2019.06.05-21.19.39:461][ 97]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contacto491829BF4243A56C3EC145B4F88C5337.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/contacto.uasset'
+[2019.06.05-21.19.40:090][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/contacto" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset" SILENT=true
+[2019.06.05-21.19.40:131][ 97]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contacto4CA6BE714E81D9A7469769B0D4BF1574.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset'
+[2019.06.05-21.20.01:207][ 21]LogMaterial: Display: Missing cached shader map for material M_Basic_Floor, compiling. 
+[2019.06.05-21.20.01:405][ 21]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.05-21.20.01:405][ 21]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.05-21.20.01:405][ 21]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.05-21.20.01:405][ 21]LogMaterial: Display: Missing cached shader map for material M_Basic_Wall, compiling. 
+[2019.06.05-21.20.01:479][ 21]LogActorFactory: Actor Factory created SM_Stairs
+[2019.06.05-21.20.02:060][ 36]LogActorFactory: Actor Factory created SM_Stairs
+[2019.06.05-21.20.03:220][ 81]Cmd: DELETE
+[2019.06.05-21.20.03:220][ 81]Cmd: ACTOR DELETE
+[2019.06.05-21.20.03:249][ 81]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.05-21.20.03:375][ 81]LogEditorActor: Deleted 1 Actors (0.154 secs)
+[2019.06.05-21.20.04:494][124]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.20.16:935][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.20.44:889][666]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contactoB9E8C9394E2D5A487060888892DC19C5.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/contacto.uasset'
+[2019.06.05-21.20.46:804][666]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.06.05-21.20.48:057][666]SourceControl: rm 'CasaCFE/Content/VirtualRealityBP/contacto.uasset'
+[2019.06.05-21.20.48:278][666]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.06.05-21.20.48:435][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/contacto" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset" SILENT=true
+[2019.06.05-21.20.48:479][666]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contacto5365F9E04202EBE9C2EE23BE5288DFC9.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset'
+[2019.06.05-21.20.54:128][879]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.06.05-21.20.59:912][992]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contacto5170B1AF4E078AD9A4A73A8DBC64881D.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/contacto.uasset'
+[2019.06.05-21.21.01:736][992]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.06.05-21.21.02:837][992]SourceControl: rm 'CasaCFE/Content/VirtualRealityBP/Blueprints/contacto.uasset'
+[2019.06.05-21.21.03:225][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/contacto" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset" SILENT=true
+[2019.06.05-21.21.03:273][992]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contacto957F7D3A4D3A6FD58E06DEB818F40269.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset'
+[2019.06.05-21.21.10:300][119]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contacto97650BEA4E6282EA95F1BFA8F5A18D44.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Meshes/contacto.uasset'
+[2019.06.05-21.21.13:405][119]SourceControl: rm 'CasaCFE/Content/VirtualRealityBP/Blueprints/Item/contacto.uasset'
+[2019.06.05-21.21.13:767][119]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/contacto" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset" SILENT=true
+[2019.06.05-21.21.13:809][119]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/contactoF12235F6463203BBC3BB129E8E1E9C3C.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/contacto.uasset'
+[2019.06.05-21.21.14:864][148]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Item/Tostadora.Tostadora
+[2019.06.05-21.21.18:699][148]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 117 classes and 0 folders.
+[2019.06.05-21.21.24:274][255]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Item/Tostadora.Tostadora
+[2019.06.05-21.21.29:682][453]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Item/Cafetera.Cafetera
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 1 (  Trying 52.22.91.178...)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (52.22.91.178) port 443 (#2))
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.06.05-21.21.31:365][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.06.05-21.21.31:366][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 11 (SSL certificate problem: unable to get local issuer certificate)
+[2019.06.05-21.21.31:366][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 12 (Closing connection 2)
+[2019.06.05-21.21.31:366][469]LogHttp: Warning: 000001B03FD99940: libcurl info message cache 13 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.06.05-21.21.31:406][470]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE12289EE-4C52-CE26-D7FD-F3B404297522%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=34b3586e4a633e0d90f680967c10b65a%7C5817b15a57bb4b6dba2f996d373837f5%7C216417f5-3d98-4c9e-a9c4-0049c7a7195e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2019.06.05-21.21.32:746][508]LogRenderer: Reallocating scene render targets to support 808x444 Format 26 NumSamples 1 (Frame:53).
+[2019.06.05-21.21.32:820][511]LogSlate: Window 'Cafetera*' being destroyed
+[2019.06.05-21.21.33:187][526]LogSlate: Took 0.020938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.05-21.21.41:902][  2]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.21.49:311][387]BlueprintLog: New page: Compile Tostadora
+[2019.06.05-21.21.50:481][387]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.21.50:619][387]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Tostadora8552C0414BCF25D6501C5CBEDF86988F.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Tostadora.uasset'
+[2019.06.05-21.21.50:675][388]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.21.51:046][392]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.21.51:113][392]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Tostadora23CFADA14827E9C5669977A00A3EAAF1.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Tostadora.uasset'
+[2019.06.05-21.21.51:656][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.21.54:300][565]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.21.59:426][840]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.21.59:526][846]BlueprintLog: New page: Compile Cafetera
+[2019.06.05-21.22.00:663][867]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.05-21.22.00:768][867]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/CafeteraAA492C794A595AB2201EF4A51E90CDC9.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Cafetera.uasset'
+[2019.06.05-21.22.07:717][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.22.07:799][138]LogTemp: Repeating last play command: Simulate
+[2019.06.05-21.22.07:898][138]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.05-21.22.07:907][138]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.06.05-21.22.07:916][138]LogPlayLevel: [PlayLevel] Compiling TomaDeCorriente before play...
+[2019.06.05-21.22.08:288][138]LogPlayLevel: [PlayLevel] Compiling KitchenScene before play...
+[2019.06.05-21.22.08:328][138]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] InputAction Event references unknown Action 'Encender' for  InputAction Encender
+[2019.06.05-21.22.08:338][138]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.22.08:338][138]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.22.08:338][138]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.22.08:344][138]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [0625.67] Compile of PersistentLevel.KitchenScene successful, but with 4 Warning(s) [in 57 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.05-21.22.08:716][138]LogPlayLevel: PlayLevel: Blueprint regeneration took 808 ms (2 blueprints)
+[2019.06.05-21.22.08:763][138]PIE: New page: SIE session: KitchenScene (Jun 5, 2019, 11:22:08 AM)
+[2019.06.05-21.22.08:930][138]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.05-21.22.08:999][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.068110s)
+[2019.06.05-21.22.09:000][138]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.05-21.22.09:016][138]LogPlayLevel: PIE: World Init took: (0.016885s)
+[2019.06.05-21.22.09:016][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.085936s)
+[2019.06.05-21.22.09:172][138]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.05-21.22.09:230][138]LogInit: FAudioDevice initialized.
+[2019.06.05-21.22.09:375][138]LogLoad: Game class is 'GameMode'
+[2019.06.05-21.22.09:467][138]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.05-16.22.09
+[2019.06.05-21.22.09:560][138]LogWorld: Bringing up level for play took: 0.101407
+[2019.06.05-21.22.09:812][138]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2019.06.05-21.22.09:822][138]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.05-21.22.09:849][138]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.05-21.22.09:850][138]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 1.294
+[2019.06.05-21.22.10:050][138]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.05-21.22.10:142][138]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.10:664][139]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.10:752][140]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.10:769][141]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.10:833][142]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.10:883][143]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.10:899][144]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.10:944][145]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:004][146]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:051][147]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:101][148]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:154][149]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:209][150]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:261][151]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:328][152]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:350][153]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:370][154]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:391][155]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:414][156]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:484][157]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:538][158]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:599][159]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:702][160]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:739][161]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:767][162]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:797][163]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:824][164]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:857][165]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:893][166]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:920][167]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:947][168]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.11:972][169]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:002][170]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:028][171]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:055][172]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:082][173]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:109][174]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:126][175]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:154][176]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:170][177]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:209][178]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:224][179]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:255][180]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:282][181]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:310][182]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:325][183]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:342][184]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:383][185]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:397][186]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:414][187]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:431][188]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:455][189]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:479][190]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:503][191]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:528][192]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:578][193]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:591][194]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:608][195]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:626][196]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:651][197]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:700][198]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:716][199]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:733][200]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:750][201]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:768][202]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:793][203]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:814][204]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:837][205]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:882][206]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:897][207]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:915][208]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:932][209]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:974][210]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.12:988][211]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:005][212]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:021][213]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:043][214]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:067][215]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:091][216]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:116][217]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:140][218]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:165][219]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:190][220]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:218][221]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:246][222]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:271][223]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:372][224]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:427][225]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:480][226]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:499][227]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:561][228]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:614][229]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:668][230]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:721][231]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:770][232]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:787][233]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:804][234]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:821][235]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:892][236]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:941][237]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:960][238]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:977][239]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.13:993][240]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:013][241]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:034][242]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:062][243]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:090][244]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:116][245]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:145][246]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:172][247]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:196][248]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:222][249]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:248][250]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:332][251]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:384][252]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:434][253]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:483][254]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:538][255]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:551][256]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:568][257]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.14:629][258]LogEditorViewport: Clicking on Actor (LMB): Tostadora_C (Tostadora)
+[2019.06.05-21.22.14:741][258]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:008][259]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:029][260]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:062][261]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:084][262]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:108][263]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:134][264]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:159][265]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:185][266]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:210][267]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:235][268]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:257][269]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:279][270]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:302][271]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:326][272]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:350][273]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:375][274]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:398][275]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:423][276]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:448][277]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:472][278]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:497][279]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:547][280]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:566][281]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:586][282]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:605][283]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:627][284]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:672][285]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:691][286]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:709][287]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:726][288]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:745][289]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:770][290]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:796][291]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:821][292]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:848][293]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:871][294]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:895][295]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:919][296]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:942][297]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:965][298]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.15:989][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:013][300]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:036][301]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:059][302]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:082][303]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:105][304]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:129][305]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:154][306]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:177][307]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:199][308]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:224][309]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:247][310]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:272][311]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:297][312]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:318][313]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:341][314]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:440][315]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:517][316]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:573][317]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:631][318]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:688][319]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:741][320]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:809][321]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:863][322]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:880][323]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:900][324]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.16:964][325]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:014][326]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:065][327]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:116][328]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:167][329]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:225][330]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:281][331]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:339][332]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:397][333]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:456][334]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:474][335]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:491][336]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:511][337]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:528][338]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:547][339]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:572][340]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:626][341]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:644][342]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:665][343]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:687][344]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:705][345]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:725][346]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:749][347]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:775][348]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:798][349]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:822][350]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:846][351]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:871][352]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:895][353]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:920][354]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:953][355]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.17:977][356]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:002][357]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:030][358]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:055][359]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:081][360]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:107][361]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:132][362]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:157][363]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:183][364]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:210][365]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:237][366]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:263][367]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:297][368]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:323][369]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:350][370]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:378][371]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:406][372]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:432][373]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:459][374]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:486][375]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:514][376]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:540][377]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:566][378]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:592][379]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:618][380]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:644][381]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:672][382]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:698][383]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:724][384]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:751][385]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:779][386]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:806][387]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:832][388]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:859][389]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:884][390]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:911][391]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:938][392]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:967][393]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.18:993][394]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:020][395]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:047][396]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:074][397]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:099][398]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:126][399]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:153][400]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:180][401]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:207][402]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:235][403]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:262][404]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:289][405]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:317][406]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:344][407]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:371][408]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:398][409]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:426][410]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:451][411]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:479][412]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:506][413]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:534][414]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:562][415]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:588][416]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:617][417]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:644][418]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:671][419]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:698][420]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:724][421]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:751][422]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:821][423]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:844][424]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:871][425]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:889][426]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:910][427]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:929][428]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:950][429]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.19:976][430]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:009][430]LogBlueprintUserMessages: [Tostadora_3] Se conecto
+[2019.06.05-21.22.20:040][431]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:056][432]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:077][433]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:097][434]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:115][435]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:141][436]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:167][437]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:192][438]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:218][439]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:244][440]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:270][441]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:297][442]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:323][443]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:348][444]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:374][445]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:399][446]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:425][447]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:449][448]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:557][449]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:627][450]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:685][451]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:704][452]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:726][453]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:752][454]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:773][455]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:797][456]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:818][457]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:842][458]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:923][459]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:947][460]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.20:967][461]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:040][462]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:105][463]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:162][464]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:226][465]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:283][466]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:350][467]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:369][468]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:394][469]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:415][470]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:437][471]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:462][472]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:486][473]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:510][474]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:534][475]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:553][476]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:577][477]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:600][478]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:619][479]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:645][480]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:671][481]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:696][482]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:723][483]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:748][484]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:801][485]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:821][486]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:838][487]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:855][488]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:878][489]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:904][490]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:957][491]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:975][492]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.21:992][493]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:009][494]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:035][495]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:059][496]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:170][497]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:227][498]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:280][499]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:334][500]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:386][501]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:440][502]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:494][503]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:552][504]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:605][505]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:660][506]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:711][507]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:762][508]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:814][509]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:866][510]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:919][511]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:973][512]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.22:990][513]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:007][514]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:027][515]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:044][516]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:064][517]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:090][518]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:115][519]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:141][520]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:167][521]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:193][522]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:219][523]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:275][524]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:295][525]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:315][526]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:331][527]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:352][528]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:379][529]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:406][530]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:434][531]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:460][532]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:486][533]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:514][534]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:541][535]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:568][536]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:596][537]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:624][538]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:651][539]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:677][540]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:704][541]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:730][542]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:758][543]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:785][544]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:811][545]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:837][546]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:866][547]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:891][548]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:918][549]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.23:943][550]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:063][551]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:132][552]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:154][553]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:171][554]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:192][555]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:212][556]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:232][557]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:252][558]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:279][559]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:306][560]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:332][561]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:359][562]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:386][563]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:413][564]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:440][565]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:550][566]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:613][567]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:667][568]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:720][569]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:773][570]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:790][571]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:808][572]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:827][573]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:844][574]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:865][575]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:891][576]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:918][577]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:945][578]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:972][579]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.24:999][580]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:027][581]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:054][582]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:081][583]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:108][584]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:135][585]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:164][586]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:258][587]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:319][588]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:374][589]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:432][590]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:490][591]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:511][592]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:529][593]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:548][594]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:566][595]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:586][596]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:613][597]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:640][598]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:667][599]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:694][600]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:720][601]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:747][602]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:773][603]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:800][604]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:826][605]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:853][606]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:879][607]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.25:906][608]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:017][609]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:085][610]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:149][611]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:171][612]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:193][613]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:215][614]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:239][615]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:258][616]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:275][617]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:296][618]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:323][619]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:350][620]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:376][621]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:403][622]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:429][623]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:455][624]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:481][625]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:508][626]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:534][627]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:561][628]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:586][629]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:614][630]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:640][631]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:666][632]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:692][633]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:719][634]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:745][635]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:772][636]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:798][637]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:825][638]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:851][639]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:877][640]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:903][641]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:930][642]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:957][643]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.26:982][644]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:009][645]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:035][646]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:062][647]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:088][648]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:115][649]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:141][650]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:167][651]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:194][652]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:220][653]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:247][654]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:273][655]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:299][656]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:325][657]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:352][658]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:378][659]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:405][660]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:431][661]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:457][662]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:484][663]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:510][664]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:536][665]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:566][666]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:597][667]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:624][668]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:650][669]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:676][670]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:704][671]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:729][672]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:755][673]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:782][674]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:808][675]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:835][676]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:861][677]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:887][678]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:914][679]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:940][680]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:967][681]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.27:993][682]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:019][683]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:045][684]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:071][685]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:098][686]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:125][687]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:151][688]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:178][689]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:204][690]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:230][691]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:257][692]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:354][693]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:412][694]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:434][695]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:454][696]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:475][697]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:498][698]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:518][699]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:540][700]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:631][701]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:684][702]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:739][703]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:790][704]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:808][705]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:827][706]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:902][707]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.28:964][708]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:026][709]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:082][710]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:101][711]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:121][712]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:141][713]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:159][714]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:176][715]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:202][716]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:228][717]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:254][718]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:281][719]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:307][720]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:334][721]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:360][722]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:386][723]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:413][724]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:468][725]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:487][726]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:505][727]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:523][728]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:544][729]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:572][730]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:597][731]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:626][732]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:650][733]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:678][734]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:705][735]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:733][736]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:761][737]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:788][738]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:815][739]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:843][740]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:869][741]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:897][742]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:924][743]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:950][744]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.29:977][745]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:010][746]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:038][747]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:064][748]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:091][749]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:117][750]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:145][751]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:171][752]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:198][753]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:225][754]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:252][755]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:279][756]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:306][757]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:333][758]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:359][759]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:386][760]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:413][761]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:440][762]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:466][763]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:494][764]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:519][765]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:546][766]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:573][767]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:599][768]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:626][769]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:652][770]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:678][771]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:705][772]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:731][773]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:757][774]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:868][775]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.30:938][776]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:001][777]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:063][778]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:123][779]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:139][780]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:156][781]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:178][782]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:256][783]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:314][784]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:330][785]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:350][786]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:369][787]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:385][788]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:405][789]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:432][790]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:459][791]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:486][792]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:512][793]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:539][794]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:566][795]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:593][796]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:620][797]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:715][798]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:777][799]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:797][800]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:818][801]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:841][802]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:861][803]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:886][804]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:915][805]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:947][806]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.31:978][807]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:010][808]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:040][809]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:072][810]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:104][811]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:135][812]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:164][813]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:196][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.05-21.22.32:197][814]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:259][816]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.05-21.22.32:261][816]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.05-21.22.32:303][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-21.22.32:400][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.05-21.22.32:422][816]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.05-21.22.32:586][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.05-21.22.32:762][817]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.05-21.22.40:579][117]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] InputAction Event references unknown Action 'Encender' for  InputAction Encender
+[2019.06.05-21.22.40:591][117]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.22.40:592][117]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.22.40:592][117]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.05-21.22.40:599][117]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [0657.93] Compile of PersistentLevel.KitchenScene successful, but with 4 Warning(s) [in 61 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.05-21.22.41:283][117]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene813410AC4D918F4BA9006295093224FC.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.05-21.22.41:388][117]LogFileHelpers: Saving map 'KitchenScene' took 1.032
+[2019.06.05-21.22.41:532][117]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TomaDeCorriente02497756405131CED606CAA8D313FAA3.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/TomaDeCorriente.uasset'
+[2019.06.05-21.22.41:653][117]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/CafeteraACA53460461C218794719D94FE9118F5.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/Cafetera.uasset'
+[2019.06.05-21.22.42:692][117]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/M_Cafetera_PlasticF081406F452C780C859919A1F962C324.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/M_Cafetera_Plastic.uasset'
+[2019.06.05-21.22.43:501][117]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/M_Cafetera_Steel4EB25A6E4804869A3AD4F194EB3EAD53.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/M_Cafetera_Steel.uasset'
+[2019.06.05-21.22.44:201][117]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Glass02C940B743E5F051C811059A1D8F1B69.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Meshes/Cafetera/Glass.uasset'
+[2019.06.05-21.22.46:215][142]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.05-21.22.46:334][142]LogSlate: Window 'CasaRV_CFE - Unreal Editor' being destroyed
+[2019.06.05-21.22.46:715][143]Cmd: QUIT_EDITOR
+[2019.06.05-21.22.47:100][143]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.05-21.22.47:160][143]LogExit: Preparing to exit.
+[2019.06.05-21.22.48:179][143]LogExit: Editor shut down
+[2019.06.05-21.22.48:180][143]LogExit: Transaction tracking system shut down
+[2019.06.05-21.22.52:130][143]LogExit: Object subsystem successfully closed.
+[2019.06.05-21.22.52:362][143]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.05-21.22.52:407][143]LogD3D11RHI: Shutdown
+[2019.06.05-21.22.52:407][143]LogD3D11RHI: CleanupD3DDevice
+[2019.06.05-21.22.52:553][143]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.05-21.22.56:512][143]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (632)
+[2019.06.05-21.22.56:512][143]LogModuleManager: Shutting down and abandoning module Voice (630)
+[2019.06.05-21.22.56:531][143]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.06.05-21.22.56:531][143]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (626)
+[2019.06.05-21.22.56:531][143]LogModuleManager: Shutting down and abandoning module MeshBuilder (624)
+[2019.06.05-21.22.56:531][143]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.06.05-21.22.56:531][143]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.06.05-21.22.56:531][143]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.06.05-21.22.56:559][143]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.06.05-21.22.56:559][143]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.06.05-21.22.56:559][143]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.06.05-21.22.56:568][143]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.05-21.22.56:580][143]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.05-21.22.56:596][143]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.05-21.22.56:614][143]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.05-21.22.56:620][143]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.05-21.22.56:620][143]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.05-21.22.56:620][143]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.05-21.22.56:620][143]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.05-21.22.56:620][143]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.05-21.22.56:621][143]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.05-21.22.56:631][143]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.05-21.22.56:646][143]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.05-21.22.56:646][143]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.05-21.22.56:646][143]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.05-21.22.56:646][143]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.05-21.22.56:678][143]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.05-21.22.56:678][143]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.05-21.22.56:707][143]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.05-21.22.56:707][143]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.05-21.22.56:707][143]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.05-21.22.56:707][143]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.05-21.22.56:707][143]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.05-21.22.56:713][143]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.05-21.22.56:781][143]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.05-21.22.56:871][143]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.05-21.22.56:872][143]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.05-21.22.56:873][143]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.05-21.22.56:885][143]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.05-21.22.56:903][143]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.05-21.22.56:927][143]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.05-21.22.56:960][143]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.05-21.22.56:971][143]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.05-21.22.56:971][143]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.05-21.22.56:971][143]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.05-21.22.56:971][143]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.05-21.22.56:971][143]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.05-21.22.58:231][143]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.05-21.22.58:231][143]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.05-21.22.58:231][143]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.05-21.22.58:231][143]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.05-21.22.58:231][143]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.05-21.22.58:231][143]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.05-21.22.58:280][143]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.05-21.22.58:383][143]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.05-21.22.58:516][143]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.05-21.22.58:592][143]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.05-21.22.58:592][143]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.05-21.22.58:620][143]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.05-21.22.58:658][143]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.05-21.22.58:658][143]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.05-21.22.58:658][143]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.05-21.22.58:658][143]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.05-21.22.58:659][143]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.05-21.22.58:659][143]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.05-21.22.58:737][143]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.05-21.22.58:763][143]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.05-21.22.58:798][143]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.05-21.22.58:818][143]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.05-21.22.58:891][143]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.05-21.22.58:979][143]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.05-21.22.59:102][143]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.05-21.22.59:169][143]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.05-21.22.59:359][143]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.05-21.22.59:360][143]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.05-21.22.59:360][143]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.05-21.22.59:360][143]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.05-21.22.59:551][143]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.05-21.22.59:551][143]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.05-21.22.59:551][143]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.05-21.22.59:571][143]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.05-21.22.59:572][143]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.05-21.22.59:572][143]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.05-21.22.59:572][143]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.05-21.22.59:606][143]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.05-21.22.59:606][143]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.05-21.22.59:606][143]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.05-21.22.59:629][143]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.05-21.22.59:629][143]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.05-21.22.59:629][143]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.05-21.22.59:655][143]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.05-21.22.59:685][143]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.05-21.22.59:685][143]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.05-21.22.59:685][143]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.05-21.22.59:685][143]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.05-21.22.59:685][143]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.05-21.22.59:685][143]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.05-21.22.59:711][143]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.05-21.22.59:711][143]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.05-21.22.59:739][143]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.05-21.22.59:739][143]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.05-21.22.59:858][143]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.05-21.22.59:865][143]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.05-21.22.59:893][143]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.05-21.23.00:037][143]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.05-21.23.00:037][143]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.05-21.23.00:037][143]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.05-21.23.00:111][143]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.05-21.23.00:112][143]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.05-21.23.00:143][143]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.05-21.23.00:255][143]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.05-21.23.00:255][143]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.05-21.23.00:255][143]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.05-21.23.00:264][143]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.05-21.23.00:264][143]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.05-21.23.00:264][143]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.05-21.23.00:264][143]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.05-21.23.00:288][143]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.05-21.23.00:342][143]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.05-21.23.00:343][143]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.05-21.23.00:535][143]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.05-21.23.00:580][143]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.05-21.23.00:580][143]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.05-21.23.00:666][143]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.05-21.23.00:682][143]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.05-21.23.00:682][143]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.05-21.23.00:682][143]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.05-21.23.00:682][143]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.05-21.23.00:682][143]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.05-21.23.00:737][143]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.05-21.23.00:949][143]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.05-21.23.00:949][143]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.05-21.23.00:949][143]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.05-21.23.01:007][143]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.05-21.23.01:007][143]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.05-21.23.01:007][143]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.05-21.23.01:007][143]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.05-21.23.01:007][143]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.05-21.23.01:007][143]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.05-21.23.01:100][143]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.05-21.23.01:135][143]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.05-21.23.01:135][143]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.05-21.23.01:135][143]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.05-21.23.01:135][143]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.05-21.23.01:158][143]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.05-21.23.01:159][143]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.05-21.23.01:159][143]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.05-21.23.01:260][143]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.05-21.23.01:385][143]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.05-21.23.01:385][143]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.05-21.23.01:396][143]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.05-21.23.01:396][143]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.05-21.23.01:396][143]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.05-21.23.01:396][143]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.05-21.23.01:517][143]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.05-21.23.01:537][143]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.05-21.23.01:634][143]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.05-21.23.01:634][143]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.05-21.23.01:634][143]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.05-21.23.01:713][143]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.05-21.23.01:715][143]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.05-21.23.01:760][143]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.05-21.23.01:761][143]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.05-21.23.01:761][143]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.05-21.23.01:775][143]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.05-21.23.01:821][143]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.05-21.23.01:821][143]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.05-21.23.01:850][143]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.05-21.23.01:859][143]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.05-21.23.01:859][143]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.05-21.23.01:859][143]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.05-21.23.01:903][143]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.05-21.23.01:903][143]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.05-21.23.01:903][143]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.05-21.23.01:903][143]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.05-21.23.01:947][143]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.05-21.23.01:974][143]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.05-21.23.01:974][143]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.05-21.23.02:061][143]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.05-21.23.02:061][143]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.05-21.23.02:126][143]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.05-21.23.02:126][143]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.05-21.23.02:195][143]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.05-21.23.02:349][143]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.05-21.23.02:553][143]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.05-21.23.02:553][143]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.05-21.23.02:773][143]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.05-21.23.02:773][143]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.05-21.23.02:776][143]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.05-21.23.02:816][143]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.05-21.23.02:893][143]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.05-21.23.02:980][143]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.05-21.23.02:981][143]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.05-21.23.03:073][143]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.05-21.23.03:186][143]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.05-21.23.03:186][143]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.05-21.23.03:231][143]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.05-21.23.03:268][143]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.05-21.23.03:269][143]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.05-21.23.03:281][143]LogDerivedDataCache: Shutdown
+[2019.06.05-21.23.03:282][143]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.05-21.23.03:320][143]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.05-21.23.03:321][143]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.05-21.23.03:325][143]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.05-21.23.03:361][143]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.05-21.23.03:387][143]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.05-21.23.03:424][143]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.05-21.23.03:424][143]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.05-21.23.03:531][143]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.05-21.23.03:531][143]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.05-21.23.03:532][143]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.05-21.23.03:574][143]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.05-21.23.03:582][143]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.05-21.23.03:582][143]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.05-21.23.03:582][143]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.05-21.23.03:582][143]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.05-21.23.03:582][143]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.05-21.23.03:582][143]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.05-21.23.03:582][143]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.05-21.23.03:633][143]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.05-21.23.03:633][143]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.05-21.23.03:633][143]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.05-21.23.03:633][143]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.05-21.23.03:633][143]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.05-21.23.03:654][143]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.05-21.23.03:655][143]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.05-21.23.03:656][143]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.05-21.23.03:657][143]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.05-21.23.03:673][143]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.05-21.23.03:673][143]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.05-21.23.03:673][143]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.05-21.23.03:673][143]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.05-21.23.03:673][143]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.05-21.23.03:673][143]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.05-21.23.03:674][143]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.05-21.23.03:674][143]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.05-21.23.03:674][143]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.05-21.23.03:674][143]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.05-21.23.03:674][143]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.05-21.23.03:674][143]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.05-21.23.03:674][143]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.05-21.23.03:695][143]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.05-21.23.03:696][143]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.05-21.23.03:696][143]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.05-21.23.03:696][143]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.05-21.23.03:696][143]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.05-21.23.03:696][143]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.05-21.23.03:744][143]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.05-21.23.03:893][143]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.05-21.23.04:055][143]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.05-21.23.04:055][143]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.05-21.23.04:055][143]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE12289EE-4C52-CE26-D7FD-F3B404297522%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=34b3586e4a633e0d90f680967c10b65a%7C5817b15a57bb4b6dba2f996d373837f5%7C216417f5-3d98-4c9e-a9c4-0049c7a7195e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.05-21.23.04:055][143]LogHttp: Warning: 000001AFC76539C0: request failed, libcurl error: 60 (Peer certificate cannot be authenticated with given CA certificates)
+[2019.06.05-21.23.04:055][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2019.06.05-21.23.04:055][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 1 (  Trying 54.83.181.125...)
+[2019.06.05-21.23.04:055][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 2 (TCP_NODELAY set)
+[2019.06.05-21.23.04:055][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 3 (Connected to datarouter.ol.epicgames.com (54.83.181.125) port 443 (#3))
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 4 (ALPN, offering http/1.1)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 5 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 6 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 7 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 8 (TLSv1.2 (IN), TLS handshake, Server hello (2):)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 9 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 10 (TLSv1.2 (OUT), TLS alert, Server hello (2):)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 11 (SSL certificate problem: unable to get local issuer certificate)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 12 (Closing connection 3)
+[2019.06.05-21.23.04:056][143]LogHttp: Warning: 000001AFC76539C0: libcurl info message cache 13 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2019.06.05-21.23.04:070][143]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.05-21.23.04:077][143]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.05-21.23.04:077][143]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.05-21.23.04:118][143]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.05-21.23.04:119][143]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.05-21.23.04:189][143]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.05-21.23.04:189][143]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.05-21.23.04:198][143]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.05-21.23.04:292][143]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.05-21.23.04:292][143]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.05-21.23.04:292][143]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.05-21.23.04:336][143]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.05-21.23.04:379][143]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.05-21.23.04:380][143]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.05-21.23.04:419][143]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.05-21.23.04:419][143]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.05-21.23.04:419][143]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.05-21.23.04:419][143]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.05-21.23.04:453][143]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.05-21.23.04:454][143]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.05-21.23.04:479][143]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.05-21.23.04:479][143]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.05-21.23.04:589][143]LogExit: Exiting.
+[2019.06.05-21.23.04:640][143]Log file closed, 06/05/19 16:23:04
