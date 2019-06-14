@@ -1,0 +1,1348 @@
+﻿Log file open, 06/11/19 20:38:50
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CasaRV_CFE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.375643
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.455s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.12-01.38.52:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.12-01.38.52:674][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.12-01.38.52:675][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.12-01.38.52:675][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.12-01.38.52:681][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.12-01.38.52:681][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.12-01.38.52:682][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.12-01.38.52:683][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.12-01.38.52:683][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.12-01.38.52:683][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.12-01.38.52:769][  0]LogHAL: Display: Platform has ~ 7 GB [7455145984 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.12-01.38.52:769][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.12-01.38.52:769][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.12-01.38.52:770][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.06.12-01.38.52:770][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.06.12-01.38.52:771][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.12-01.38.52:772][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.06.12-01.38.52:772][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.06.12-01.38.52:772][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.12-01.38.52:772][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.06.12-01.38.52:772][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.06.12-01.38.52:772][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.12-01.38.52:795][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.12-01.38.52:795][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.12-01.38.52:796][  0]LogInit: Computer: DESKTOP-RTM83TK
+[2019.06.12-01.38.52:796][  0]LogInit: User: Samuel
+[2019.06.12-01.38.52:796][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.12-01.38.52:796][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.06.12-01.38.52:796][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2019.06.12-01.38.52:796][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.12-01.38.52:796][  0]LogMemory: Process Physical Memory: 102.73 MB used, 102.73 MB peak
+[2019.06.12-01.38.52:796][  0]LogMemory: Process Virtual Memory: 88.89 MB used, 88.89 MB peak
+[2019.06.12-01.38.52:796][  0]LogMemory: Physical Memory: 3186.45 MB used,  3923.33 MB free, 7109.78 MB total
+[2019.06.12-01.38.52:796][  0]LogMemory: Virtual Memory: 4634.51 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.06.12-01.38.53:424][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.06.12-01.38.53:424][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.06.12-01.38.54:921][  0]LogStreaming: Display: Took  1.497s to InitEngineTextLocalization.
+[2019.06.12-01.38.54:922][  0]LogInit: Setting process to per monitor DPI aware
+[2019.06.12-01.38.55:495][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.12-01.38.55:495][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.12-01.39.07:670][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.12-01.39.07:671][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.12-01.39.07:978][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2019.06.12-01.39.07:978][  0]LogD3D11RHI:       1015/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.06.12-01.39.07:982][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.12-01.39.07:982][  0]LogD3D11RHI:       0/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.12-01.39.07:982][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.12-01.39.07:997][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.12-01.39.07:997][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2019.06.12-01.39.07:997][  0]LogWindows: EnumDisplayDevices:
+[2019.06.12-01.39.07:997][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2019.06.12-01.39.07:998][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.06.12-01.39.07:998][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.06.12-01.39.07:999][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.06.12-01.39.07:999][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2019.06.12-01.39.07:999][  0]LogD3D11RHI:   Driver Version: Adrenalin 2019 19.5.2 (internal:15.201.1101.1002, unified:15.201.1101.1002)
+[2019.06.12-01.39.07:999][  0]LogD3D11RHI:      Driver Date: 8-21-2015
+[2019.06.12-01.39.07:999][  0]LogRHI: Texture pool is 711 MB (70% of 1015 MB)
+[2019.06.12-01.39.08:136][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.12-01.39.08:168][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2019.06.12-01.39.09:672][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.06.12-01.39.09:700][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.06.12-01.39.09:730][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.06.12-01.39.09:758][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.06.12-01.39.09:815][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.06.12-01.39.09:847][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.12-01.39.09:880][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.12-01.39.09:926][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.12-01.39.09:961][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:162][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.06.12-01.39.10:216][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.06.12-01.39.10:340][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.12-01.39.10:340][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.06.12-01.39.10:407][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.12-01.39.10:407][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.06.12-01.39.10:446][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.06.12-01.39.10:474][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.06.12-01.39.10:502][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.06.12-01.39.10:556][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.06.12-01.39.10:667][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.12-01.39.10:667][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.06.12-01.39.10:667][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.12-01.39.11:322][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Intermediate/Shaders/WorkingDirectory/4844/).
+[2019.06.12-01.39.11:322][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/737DC57C41829E56231B1C80331FE9DB/'.
+[2019.06.12-01.39.11:335][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.12-01.39.11:336][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.12-01.39.11:336][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.12-01.39.11:336][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.12-01.39.18:302][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.12-01.39.20:184][  0]LogDerivedDataCache: Loaded boot cache 1.88s 72MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.12-01.39.20:184][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.12-01.39.20:185][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.12-01.39.20:185][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.12-01.39.20:185][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.12-01.39.20:185][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.12-01.39.20:490][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.12-01.39.20:490][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.12-01.39.20:490][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.12-01.39.20:505][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.12-01.39.20:505][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.12-01.39.20:505][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.12-01.39.20:560][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.12-01.39.20:562][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.12-01.39.20:624][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.12-01.39.22:995][  0]LogAssetRegistry: FAssetRegistry took 0.0503 seconds to start up
+[2019.06.12-01.39.24:307][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.12-01.39.25:850][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.12-01.39.26:006][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.12-01.39.26:007][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.12-01.39.26:007][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.12-01.39.26:007][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.12-01.39.26:229][  0]LogNetVersion: CasaRV_CFE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 735120185)
+[2019.06.12-01.39.31:692][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.174917 seconds
+[2019.06.12-01.39.31:710][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.06.12-01.39.31:710][  0]LogUObjectAllocator: 6914656 out of 0 bytes used by permanent object pool.
+[2019.06.12-01.39.31:710][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.12-01.40.00:985][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.12-01.40.01:003][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.12-01.40.04:353][  0]SourceControl: Source control is disabled
+[2019.06.12-01.40.09:309][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.12-01.40.09:546][  0]LogOcInput: OculusInput pre-init called
+[2019.06.12-01.40.10:064][  0]LogEngine: Initializing Engine...
+[2019.06.12-01.40.10:065][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.12-01.40.10:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.12-01.40.10:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.12-01.40.10:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.12-01.40.10:069][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.12-01.40.11:548][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.12-01.40.11:595][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.06.12-01.40.11:624][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-01.40.11:740][  0]LogInit: FAudioDevice initialized.
+[2019.06.12-01.40.11:740][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.12-01.40.12:005][  0]LogDerivedDataCache: Saved boot cache 0.26s 72MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.12-01.40.12:047][  0]LogInit: Texture streaming: Enabled
+[2019.06.12-01.40.12:612][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.06.12-01.40.13:838][  0]LogInit: Transaction tracking system initialized
+[2019.06.12-01.40.14:306][  0]BlueprintLog: New page: Editor Load
+[2019.06.12-01.40.19:384][  0]LocalizationService: Localization service is disabled
+[2019.06.12-01.40.31:656][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/' took 0.04s
+[2019.06.12-01.40.31:656][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.06.12-01.40.31:656][  0]LogCook: Display: Mobile HDR setting 1
+[2019.06.12-01.40.31:656][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.12-01.40.31:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.12-01.40.31:656][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.12-01.40.31:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.12-01.40.31:657][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.12-01.40.37:743][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.06.12-01.40.37:744][  0]LightingResults: New page: Lighting Build
+[2019.06.12-01.40.37:751][  0]MapCheck: New page: Map Check
+[2019.06.12-01.40.37:751][  0]LightingResults: New page: Lighting Build
+[2019.06.12-01.40.54:080][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-01.40.54:081][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-01.40.54:081][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-01.40.54:083][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [0143.72] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 43 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-01.41.16:464][  0]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-01.41.16:566][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.06.12-01.41.16:684][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.06.12-01.41.16:685][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.625ms to complete.
+[2019.06.12-01.41.16:685][  0]LogFileHelpers: Loading map 'KitchenScene' took 38.943
+[2019.06.12-01.41.17:152][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-01.41.17:176][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-01.41.17:196][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-01.41.17:220][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-01.41.17:414][  0]LogCollectionManager: Loaded 0 collections in 0.004966 seconds
+[2019.06.12-01.41.17:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Collections/' took 0.01s
+[2019.06.12-01.41.17:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/Developers/Samuel/Collections/' took 0.01s
+[2019.06.12-01.41.17:550][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/Collections/' took 0.01s
+[2019.06.12-01.41.17:550][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.06.12-01.41.17:572][  0]LogContentBrowser: Native class hierarchy populated in 0.0210 seconds. Added 2651 classes and 620 folders.
+[2019.06.12-01.41.17:865][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.06.12-01.41.18:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:236][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:341][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:367][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:492][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:520][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:538][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:563][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:580][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:669][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:731][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:773][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:786][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:813][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:867][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:893][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:962][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.18:986][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.19:202][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.19:241][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.19:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.19:277][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.19:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.19:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.06.12-01.41.20:715][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.06.12-01.41.20:751][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.06.12-01.41.21:015][  0]LogSlate: Took 0.022313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.06.12-01.41.21:038][  0]LogSlate: Took 0.019408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.06.12-01.41.21:074][  0]LogSlate: Took 0.027626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.06.12-01.41.21:670][  0]LogRenderer: Reallocating scene render targets to support 776x300 Format 26 NumSamples 1 (Frame:1).
+[2019.06.12-01.41.22:510][  0]LogSlate: Took 0.077184 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.12-01.41.22:791][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.06.12-01.41.22:791][  0]LogLoad: (Engine Initialization) Total time: 172.43 seconds
+[2019.06.12-01.41.22:791][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.12-01.41.23:004][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.06.12-01.41.25:318][  6]LogAssetRegistry: Asset discovery search completed in 122.3478 seconds
+[2019.06.12-01.41.25:323][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.06.12-01.41.25:323][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000226 seconds (updated 0 objects)
+[2019.06.12-02.03.12:086][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.03.27:141][623]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.06.12-02.03.48:805][665]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.06.12-02.03.58:311][145]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2019.06.12-02.04.05:090][470]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight5)
+[2019.06.12-02.04.27:871][896]LogSlate: Took 0.004075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.06.12-02.04.37:373][923]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.04.37:374][923]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.04.37:374][923]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.04.37:380][923]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [1567.02] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 71 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-02.04.38:140][923]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_Auto1740CCCAB4D0F015B8208FABA4A7B4564.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/ModernKitchen/Maps/KitchenScene_Auto1.umap'
+[2019.06.12-02.04.38:185][923]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ModernKitchen/Maps/KitchenScene' took 1.158
+[2019.06.12-02.04.38:185][923]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.158
+[2019.06.12-02.05.53:595][367]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.06.12-02.05.55:531][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.05.58:937][676]Cmd: CAMERA ALIGN
+[2019.06.12-02.06.04:695][998]Cmd: CAMERA ALIGN
+[2019.06.12-02.06.09:919][269]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.06.14:190][521]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.12-02.06.17:426][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.06.18:585][748]Cmd: CAMERA ALIGN
+[2019.06.12-02.06.23:693][ 23]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.06.33:001][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.06.42:871][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-02.06.44:408][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-02.06.44:602][143]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.06.44:602][143]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.06.44:602][143]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.06.44:605][143]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [1694.24] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 33 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-02.06.45:071][143]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene4A0E2ACE40DB10E356BCB6913CD90768.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.12-02.06.46:252][143]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltData7FE9D55C40552871B8E1EC9E5BA14584.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.06.12-02.06.47:778][227]MapCheck: New page: Map Check
+[2019.06.12-02.06.47:797][227]Cmd: MAP REBUILD ALLVISIBLE
+[2019.06.12-02.06.47:798][227]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2019.06.12-02.06.48:128][227]LightingResults: New page: Lighting Build - Jun 11, 2019, 4:06:48 PM
+[2019.06.12-02.06.48:362][227]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.06.12-02.06.48:564][227]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.06.12-02.06.48:701][227]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.06.12-02.06.50:878][227]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.06.12-02.06.50:878][227]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4844
+[2019.06.12-02.06.59:749][227]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2019.06.12-02.06.59:750][227]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.06.12-02.06.59:750][227]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.06.12-02.06.59:750][227]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.06.12-02.06.59:750][227]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.06.12-02.06.59:750][227]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.06.12-02.07.02:875][227]LogEditorBuildUtils: Build time 0:15
+[2019.06.12-02.07.50:024][276]LightingResults: Warning: lampara Object has overlapping UVs.
+[2019.06.12-02.07.50:024][276]LightingResults: lampara Lightmap UV are overlapping by 7.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.07.50:640][304]LightingResults: Warning: Persiana Object has overlapping UVs.
+[2019.06.12-02.07.50:640][304]LightingResults: Persiana Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.07.54:780][491]LightingResults: Warning: lampara Object has overlapping UVs.
+[2019.06.12-02.07.54:780][491]LightingResults: lampara Lightmap UV are overlapping by 7.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.07.58:390][637]LightingResults: Warning: Buró2 Object has overlapping UVs.
+[2019.06.12-02.07.58:390][637]LightingResults: Buró2 Lightmap UV are overlapping by 18.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.04:390][809]LightingResults: Warning: lampara Object has overlapping UVs.
+[2019.06.12-02.08.04:390][809]LightingResults: lampara Lightmap UV are overlapping by 7.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.04:621][816]LightingResults: Warning: Buró2 Object has overlapping UVs.
+[2019.06.12-02.08.04:621][816]LightingResults: Buró2 Lightmap UV are overlapping by 18.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.17:114][193]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.06.12-02.08.17:583][206]LightingResults: Warning: Mesita Object has overlapping UVs.
+[2019.06.12-02.08.17:583][206]LightingResults: Mesita Lightmap UV are overlapping by 59.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.18:867][262]LightingResults: Warning: Mesa_TV Object has overlapping UVs.
+[2019.06.12-02.08.18:867][262]LightingResults: Mesa_TV Lightmap UV are overlapping by 36.3%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.18:922][264]LightingResults: Warning: Radio Object has overlapping UVs.
+[2019.06.12-02.08.18:924][264]LightingResults: Radio Lightmap UV are overlapping by 12.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.21:519][351]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2019.06.12-02.08.25:429][487]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2019.06.12-02.08.28:975][642]LightingResults: Warning: Buró Object has overlapping UVs.
+[2019.06.12-02.08.28:975][642]LightingResults: Buró Lightmap UV are overlapping by 18.2%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.29:107][648]LightingResults: Warning: Mesita Object has overlapping UVs.
+[2019.06.12-02.08.29:107][648]LightingResults: Mesita Lightmap UV are overlapping by 59.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.31:297][745]LightingResults: Warning: Foco Object has overlapping UVs.
+[2019.06.12-02.08.31:297][745]LightingResults: Foco Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.32:509][798]LightingResults: Warning: Foco Object has overlapping UVs.
+[2019.06.12-02.08.32:509][798]LightingResults: Foco Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.33:168][827]LightingResults: Warning: PC Object has overlapping UVs.
+[2019.06.12-02.08.33:212][828]LightingResults: PC Lightmap UV are overlapping by 5.5%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.33:278][831]LightingResults: Warning: Foco Object has overlapping UVs.
+[2019.06.12-02.08.33:278][831]LightingResults: Foco Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.34:081][867]LightingResults: Warning: Persiana Object has overlapping UVs.
+[2019.06.12-02.08.34:082][867]LightingResults: Persiana Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.34:511][885]LightingResults: Warning: Foco Object has overlapping UVs.
+[2019.06.12-02.08.34:512][885]LightingResults: Foco Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.36:567][963]LightingResults: Warning: Persiana Object has overlapping UVs.
+[2019.06.12-02.08.36:567][963]LightingResults: Persiana Lightmap UV are overlapping by 3.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.38:019][  7]LightingResults: Warning: Mesita Object has overlapping UVs.
+[2019.06.12-02.08.38:019][  7]LightingResults: Mesita Lightmap UV are overlapping by 59.4%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.41:520][120]LightingResults: Warning: Peinador Object has overlapping UVs.
+[2019.06.12-02.08.41:520][120]LightingResults: Peinador Lightmap UV are overlapping by 19.9%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.42:686][173]LightingResults: Warning: Foco Object has overlapping UVs.
+[2019.06.12-02.08.42:686][173]LightingResults: Foco Lightmap UV are overlapping by 40.0%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.42:752][176]LightingResults: Warning: Cama Object has wrapping UVs.
+[2019.06.12-02.08.42:752][176]LightingResults: Warning: Cama Object has overlapping UVs.
+[2019.06.12-02.08.42:752][176]LightingResults: Cama Lightmap UV are overlapping by 22.7%. Please adjust content - Enable Error Coloring to visualize.
+[2019.06.12-02.08.49:973][504]Job is a success!
+[2019.06.12-02.08.50:022][506]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-02.08.50:142][506]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.021s
+[2019.06.12-02.08.50:142][506]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.06.12-02.08.50:142][506]LogVolumetricLightmapImport:      BrickData 90x5x5 = 0.1Mb
+[2019.06.12-02.08.50:142][506]LogVolumetricLightmapImport:      Bricks at Level
+[2019.06.12-02.08.50:142][506]LogVolumetricLightmapImport:          0: 5.6% covering 100.0% of volume
+[2019.06.12-02.08.50:142][506]LogVolumetricLightmapImport:          1: 5.6% covering 1.6% of volume
+[2019.06.12-02.08.50:142][506]LogVolumetricLightmapImport:          2: 88.9% covering 0.4% of volume
+[2019.06.12-02.08.50:672][506]LightingResults: Warning: PointLight2_17 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2019.06.12-02.08.55:766][506]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2019.06.12-02.08.56:167][506]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2019.06.12-02.08.56:451][506]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2019.06.12-02.08.56:566][506]Lightmass on DESKTOP-RTM83TK: 1:50 min total, 9.94 sec importing, 2.61 sec setup, 20.3 sec photons, 1:16 min processing, 0 ms extra exporting [218/218 mappings]. Threads: 5:06 min total, 3:14 min processing.
+[2019.06.12-02.08.56:745][506]LogStaticLightingSystem: Illumination: 2:08 min (5.09 sec encoding lightmaps, 680 ms encoding shadowmaps)
+[2019.06.12-02.08.56:745][506]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (2.7 MB streaming, 3.3 MB non-streaming), 6 textures
+[2019.06.12-02.08.56:745][506]LogStaticLightingSystem: Shadowmap texture memory: 8.0 MB (2.7 MB streaming, 5.3 MB non-streaming), 2 textures
+[2019.06.12-02.08.57:803][506]DumpUnbuiltLightIteractions
+[2019.06.12-02.08.57:803][506]Lights with unbuilt interactions: 0
+[2019.06.12-02.08.57:803][506]
+[2019.06.12-02.08.57:803][506]Primitives with unbuilt interactions: 0
+[2019.06.12-02.08.57:934][507]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.06.12-02.08.57:934][507]MapCheck: New page: KitchenScene - Jun 11, 2019, 4:08:57 PM
+[2019.06.12-02.08.57:942][507]MapCheck: Warning: TomaDeCorrienteCafetera Static mesh actor has NULL StaticMesh property 
+[2019.06.12-02.08.57:942][507]MapCheck: Warning: TomaDeCorrienteTostadora Static mesh actor has NULL StaticMesh property 
+[2019.06.12-02.08.57:943][507]MapCheck: Map check complete: 0 Error(s), 2 Warning(s), took 8.748ms to complete.
+[2019.06.12-02.09.01:205][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.09.01:340][631]LogSlate: Window 'Message Log' being destroyed
+[2019.06.12-02.09.01:350][631]LogSlate: Window 'Message Log' being destroyed
+[2019.06.12-02.09.19:678][492]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-02.09.20:269][498]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.09.20:269][498]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.09.20:270][498]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-02.09.20:273][498]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [1849.91] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 36 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-02.09.20:797][498]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenSceneC5D8625D4B8CF4E21A0EFEA737E20EFF.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.12-02.09.21:914][498]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltDataB764DEF94993B04AF76E0C94CC147574.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.06.12-03.11.13:723][ 20]LogEditorViewport: Clicking on Actor (LMB): Switch_C (Switch)
+[2019.06.12-03.11.23:399][458]Cmd: DELETE
+[2019.06.12-03.11.23:399][458]Cmd: ACTOR DELETE
+[2019.06.12-03.11.23:424][458]LogEditorActor: Deleted Actor: Switch_C
+[2019.06.12-03.11.23:507][458]LogEditorActor: Deleted 1 Actors (0.107 secs)
+[2019.06.12-03.11.27:972][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.11.38:793][204]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.12-03.11.41:919][340]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.11.59:425][283]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.12.05:944][644]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.12.15:696][192]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.12.15:697][192]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.12.15:697][192]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.12.15:700][192]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [5625.34] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 40 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-03.12.16:256][192]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenSceneD26C5F4B4E278838BCB680953FBD4236.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.12-03.12.17:445][192]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltDataC912EE8D47EE185B41592BB3706BD845.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.06.12-03.12.18:436][246]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.12-03.12.18:479][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.18:480][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-03.12.18:481][246]PIE: New page: PIE session: KitchenScene (Jun 11, 2019, 5:12:18 PM)
+[2019.06.12-03.12.18:497][246]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.12-03.12.18:537][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039300s)
+[2019.06.12-03.12.18:539][246]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-03.12.18:540][246]LogPlayLevel: PIE: World Init took: (0.002524s)
+[2019.06.12-03.12.18:541][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.043060s)
+[2019.06.12-03.12.18:623][246]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-03.12.18:685][246]LogInit: FAudioDevice initialized.
+[2019.06.12-03.12.18:695][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.12.18:751][246]LogLoad: Game class is 'GameMode'
+[2019.06.12-03.12.18:767][246]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.11-22.12.18
+[2019.06.12-03.12.18:770][246]LogWorld: Bringing up level for play took: 0.014858
+[2019.06.12-03.12.18:805][246]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2019.06.12-03.12.18:805][246]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.12.18:805][246]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.12.18:805][246]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.12.18:807][246]LogScript: Warning: Script Msg: Attempted to remove an item from an invalid index from array Electrodomesticos [0/0]!
+[2019.06.12-03.12.18:813][246]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.12.18:828][246]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 1.271
+[2019.06.12-03.12.18:829][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.18:900][246]LogRenderer: Reallocating scene render targets to support 916x536 Format 26 NumSamples 1 (Frame:1).
+[2019.06.12-03.12.23:712][439]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.23:713][439]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.12.23:765][439]LogSlate: Window 'CasaRV_CFE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.12-03.12.23:816][439]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-03.12.23:816][439]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.23:931][440]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.06.12-03.12.26:805][593]LogEditorViewport: Clicking on Actor (LMB): Switch_C (Switch)
+[2019.06.12-03.12.28:625][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.12.29:979][774]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.12-03.12.30:024][774]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.30:024][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-03.12.30:024][774]PIE: New page: PIE session: KitchenScene (Jun 11, 2019, 5:12:30 PM)
+[2019.06.12-03.12.30:025][774]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.12-03.12.30:067][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042014s)
+[2019.06.12-03.12.30:068][774]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-03.12.30:070][774]LogPlayLevel: PIE: World Init took: (0.002270s)
+[2019.06.12-03.12.30:070][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.044905s)
+[2019.06.12-03.12.30:154][774]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-03.12.30:210][774]LogInit: FAudioDevice initialized.
+[2019.06.12-03.12.30:220][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.12.30:262][774]LogLoad: Game class is 'GameMode'
+[2019.06.12-03.12.30:271][774]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.11-22.12.30
+[2019.06.12-03.12.30:272][774]LogWorld: Bringing up level for play took: 0.008561
+[2019.06.12-03.12.30:287][774]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.12.30:287][774]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.12.30:287][774]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.12.30:291][774]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.12.30:297][774]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 0.741
+[2019.06.12-03.12.30:298][774]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.32:922][868]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.32:923][868]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.12.32:981][868]LogSlate: Window 'CasaRV_CFE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.12-03.12.33:031][868]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-03.12.33:032][868]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.12.33:175][869]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.06.12-03.12.34:802][964]LogEditorViewport: Clicking on Actor (LMB): Switch_C (Switch)
+[2019.06.12-03.12.36:090][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.12.36:173][ 38]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Item/Switch.Switch
+[2019.06.12-03.12.37:798][ 38]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0023 seconds. Added 117 classes and 0 folders.
+[2019.06.12-03.12.40:069][ 38]LogSlate: Took 0.015104 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.06.12-03.12.40:566][ 39]LogSlate: Took 0.028599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.06.12-03.12.50:201][539]BlueprintLog: New page: Compile Switch
+[2019.06.12-03.12.51:772][563]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Switch0050C99D4912B2D647ACC3882AE186FC.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Switch.uasset'
+[2019.06.12-03.12.55:471][748]BlueprintLog: New page: Compile Switch
+[2019.06.12-03.12.57:085][773]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Switch07446101451F218ED52FE4A1594C3E2A.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Switch.uasset'
+[2019.06.12-03.13.01:214][ 15]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.12-03.13.01:269][ 15]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.13.01:269][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-03.13.01:269][ 15]PIE: New page: PIE session: KitchenScene (Jun 11, 2019, 5:13:01 PM)
+[2019.06.12-03.13.01:270][ 15]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.12-03.13.01:310][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040011s)
+[2019.06.12-03.13.01:311][ 15]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-03.13.01:312][ 15]LogPlayLevel: PIE: World Init took: (0.001717s)
+[2019.06.12-03.13.01:312][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.042099s)
+[2019.06.12-03.13.01:401][ 15]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-03.13.01:456][ 15]LogInit: FAudioDevice initialized.
+[2019.06.12-03.13.01:466][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.13.01:509][ 15]LogLoad: Game class is 'GameMode'
+[2019.06.12-03.13.01:519][ 15]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.11-22.13.01
+[2019.06.12-03.13.01:521][ 15]LogWorld: Bringing up level for play took: 0.009914
+[2019.06.12-03.13.01:536][ 15]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.13.01:536][ 15]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.13.01:536][ 15]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.13.01:541][ 15]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.13.01:545][ 15]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene -0.011
+[2019.06.12-03.13.01:546][ 15]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.13.29:711][945]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.13.29:712][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.13.29:779][945]LogSlate: Window 'CasaRV_CFE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.12-03.13.29:850][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-03.13.29:851][945]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.13.30:139][946]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.06.12-03.13.37:263][337]BlueprintLog: New page: Compile Switch
+[2019.06.12-03.13.38:511][345]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Switch87AF971E4F4D18E02F281B96303F0BA6.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Switch.uasset'
+[2019.06.12-03.13.42:092][529]LogEditorViewport: Clicking on Actor (LMB): Switch_C (Switch)
+[2019.06.12-03.14.00:807][372]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.12-03.14.27:373][726]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.14.32:546][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.14.41:175][513]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.14.41:175][513]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.14.41:175][513]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.14.41:178][513]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [5770.82] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 39 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-03.14.41:845][513]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene6B5BF2C94B29EA46E24256AA5224D2E4.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.12-03.14.43:025][513]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltData3ED37A244090FF18C81C3094D34316B3.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.06.12-03.14.44:155][576]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.06.12-03.14.44:212][576]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.14.44:212][576]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-03.14.44:212][576]PIE: New page: PIE session: KitchenScene (Jun 11, 2019, 5:14:44 PM)
+[2019.06.12-03.14.44:213][576]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.12-03.14.44:254][576]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040820s)
+[2019.06.12-03.14.44:255][576]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-03.14.44:256][576]LogPlayLevel: PIE: World Init took: (0.001761s)
+[2019.06.12-03.14.44:256][576]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.043076s)
+[2019.06.12-03.14.44:349][576]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-03.14.44:403][576]LogInit: FAudioDevice initialized.
+[2019.06.12-03.14.44:414][576]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.14.44:463][576]LogLoad: Game class is 'GameMode'
+[2019.06.12-03.14.44:473][576]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.11-22.14.44
+[2019.06.12-03.14.44:475][576]LogWorld: Bringing up level for play took: 0.009923
+[2019.06.12-03.14.44:490][576]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.14.44:490][576]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.14.44:490][576]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.14.44:496][576]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.12-03.14.44:505][576]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 0.949
+[2019.06.12-03.14.44:506][576]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.14.52:874][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.14.52:874][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.14.52:938][942]LogSlate: Window 'CasaRV_CFE Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.06.12-03.14.52:982][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-03.14.52:983][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.14.53:097][943]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.06.12-03.15.07:383][758]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.15.12:796][ 40]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.15.17:618][310]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.15.29:272][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.15.33:460][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.15.36:029][391]LogEditorViewport: Clicking on Actor (LMB): Brush (Linear Stair Brush)
+[2019.06.12-03.15.40:549][648]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.16.02:336][802]LogEditorViewport: Clicking on Actor (LMB): Switch_C (Switch2)
+[2019.06.12-03.16.11:020][216]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.12-03.16.13:469][335]Cmd: CAMERA ALIGN
+[2019.06.12-03.16.19:599][617]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.16.24:119][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.17.11:660][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.17.46:258][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.12-03.17.59:019][633]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.18.05:136][983]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.18.07:120][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.18.07:479][104]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.18.07:683][104]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.18.07:683][104]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.18.07:683][104]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.18.07:686][104]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [5977.32] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 40 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-03.18.08:382][104]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene9C31FE6947C210DC43A90CBC62B42E87.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.12-03.18.09:815][104]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltData265932E44B9046425E9BFBADE3A0C3CB.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.06.12-03.18.11:607][196]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TazaDeBano)
+[2019.06.12-03.18.16:250][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.18.22:472][700]LogMaterial: Display: Missing cached shader map for material M_Metal_Copper, compiling. 
+[2019.06.12-03.18.22:639][700]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.06.12-03.18.22:639][700]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.06.12-03.18.22:639][700]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.06.12-03.18.39:800][285]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.06.12-03.18.46:173][536]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.18.50:008][657]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lavamanos)
+[2019.06.12-03.18.54:716][851]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.19.08:348][329]LogMaterial: Warning: Material /Game/VR_Base/polySurface8Mat.polySurface8Mat needed to have new flag set bUsedWithStaticLighting !
+[2019.06.12-03.19.08:369][329]LogMaterial: Display: Missing cached shader map for material polySurface8Mat, compiling. 
+[2019.06.12-03.19.08:465][329]LogShaderCompilers: Display: Shaders left to compile 69
+[2019.06.12-03.19.08:465][329]LogShaderCompilers: Display: Shaders left to compile 59
+[2019.06.12-03.19.08:465][329]LogShaderCompilers: Display: Shaders left to compile 49
+[2019.06.12-03.19.17:058][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.19.27:161][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Persiana3)
+[2019.06.12-03.19.31:982][182]LogShaderCompilers: Display: Shaders left to compile 39
+[2019.06.12-03.19.32:289][193]LogShaderCompilers: Display: Shaders left to compile 29
+[2019.06.12-03.19.41:502][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lampara2)
+[2019.06.12-03.19.44:163][602]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.06.12-03.19.45:943][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cama)
+[2019.06.12-03.19.52:628][895]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.06.12-03.20.04:189][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.20.29:666][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.20.30:304][390]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.20.30:305][390]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.20.30:305][390]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.20.30:308][390]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [6119.95] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 47 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-03.20.31:022][390]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene14F1A014437921D050ABF49EDC46D7ED.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.12-03.20.32:201][390]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltData6152FC054FADE05C39871C87019674DB.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.06.12-03.20.37:126][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VR_Base/polySurface8Mat" FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VR_Base/polySurface8Mat.uasset" SILENT=true
+[2019.06.12-03.20.37:200][637]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/polySurface8MatB587D9734ADAB9B96CB91D8285E9DC85.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VR_Base/polySurface8Mat.uasset'
+[2019.06.12-03.20.47:450][ 66]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Cafetera)
+[2019.06.12-03.20.51:423][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.21.00:397][776]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.21.01:473][837]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.21.01:473][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-03.21.01:473][837]PIE: New page: SIE session: KitchenScene (Jun 11, 2019, 5:21:01 PM)
+[2019.06.12-03.21.01:474][837]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.12-03.21.01:520][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046134s)
+[2019.06.12-03.21.01:522][837]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-03.21.01:522][837]LogPlayLevel: PIE: World Init took: (0.001855s)
+[2019.06.12-03.21.01:522][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.048490s)
+[2019.06.12-03.21.01:621][837]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-03.21.01:677][837]LogInit: FAudioDevice initialized.
+[2019.06.12-03.21.01:677][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.21.01:724][837]LogLoad: Game class is 'GameMode'
+[2019.06.12-03.21.01:735][837]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.11-22.21.01
+[2019.06.12-03.21.01:738][837]LogWorld: Bringing up level for play took: 0.011407
+[2019.06.12-03.21.01:756][837]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.21.01:767][837]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.21.01:767][837]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 0.211
+[2019.06.12-03.21.01:959][837]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.21.03:530][870]LogEditorViewport: Clicking on Actor (LMB): Enchufe_C (EnchufeCafetera_Blueprint)
+[2019.06.12-03.21.11:505][184]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Cafetera)
+[2019.06.12-03.21.15:664][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.21.15:743][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.21.15:746][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.21.15:798][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-03.21.15:798][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.21.15:903][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.21.15:975][342]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.06.12-03.21.23:666][771]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Cafetera)
+[2019.06.12-03.21.27:528][987]LogEditorViewport: Clicking on Actor (LMB): Enchufe_C (EnchufeCafetera_Blueprint)
+[2019.06.12-03.21.29:498][ 95]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.21.29:580][ 99]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Item/Enchufe.Enchufe
+[2019.06.12-03.21.35:173][351]BlueprintLog: New page: Compile Enchufe
+[2019.06.12-03.21.36:409][354]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Enchufe3098587A4A64A30A4C410AB7318378E4.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Enchufe.uasset'
+[2019.06.12-03.21.37:689][422]LogTemp: Repeating last play command: Simulate
+[2019.06.12-03.21.37:744][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.21.37:744][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-03.21.37:744][422]PIE: New page: SIE session: KitchenScene (Jun 11, 2019, 5:21:37 PM)
+[2019.06.12-03.21.37:745][422]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.12-03.21.37:788][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042666s)
+[2019.06.12-03.21.37:790][422]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-03.21.37:791][422]LogPlayLevel: PIE: World Init took: (0.002218s)
+[2019.06.12-03.21.37:791][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.045725s)
+[2019.06.12-03.21.37:871][422]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-03.21.37:926][422]LogInit: FAudioDevice initialized.
+[2019.06.12-03.21.37:969][422]LogLoad: Game class is 'GameMode'
+[2019.06.12-03.21.37:981][422]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.11-22.21.37
+[2019.06.12-03.21.37:983][422]LogWorld: Bringing up level for play took: 0.011388
+[2019.06.12-03.21.38:000][422]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.21.38:007][422]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.21.38:007][422]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 0.451
+[2019.06.12-03.21.38:053][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.21.44:279][639]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Cafetera)
+[2019.06.12-03.21.56:160][ 49]LogEditorViewport: Clicking on Actor (LMB): Enchufe_C (EnchufeTostadora_Blueprint)
+[2019.06.12-03.22.05:015][295]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Tostadora)
+[2019.06.12-03.22.24:262][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.22.24:361][682]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Item/Electrodomestico.Electrodomestico
+[2019.06.12-03.22.27:619][798]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.22.27:621][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.22.27:689][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-03.22.27:690][798]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.22.27:788][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.22.27:975][799]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.06.12-03.22.46:023][740]BlueprintLog: New page: Compile Electrodomestico
+[2019.06.12-03.22.47:326][748]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ElectrodomesticoFDBF3BCA430696DBA9CAAF86D754AB21.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Electrodomestico.uasset'
+[2019.06.12-03.22.48:915][839]LogTemp: Repeating last play command: Simulate
+[2019.06.12-03.22.48:973][839]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.22.48:974][839]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.06.12-03.22.48:974][839]PIE: New page: SIE session: KitchenScene (Jun 11, 2019, 5:22:48 PM)
+[2019.06.12-03.22.48:975][839]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.06.12-03.22.49:022][839]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047413s)
+[2019.06.12-03.22.49:023][839]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.12-03.22.49:024][839]LogPlayLevel: PIE: World Init took: (0.001829s)
+[2019.06.12-03.22.49:024][839]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.049689s)
+[2019.06.12-03.22.49:104][839]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.12-03.22.49:157][839]LogInit: FAudioDevice initialized.
+[2019.06.12-03.22.49:202][839]LogLoad: Game class is 'GameMode'
+[2019.06.12-03.22.49:213][839]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.06.11-22.22.49
+[2019.06.12-03.22.49:215][839]LogWorld: Bringing up level for play took: 0.010833
+[2019.06.12-03.22.49:232][839]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.22.49:238][839]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.12-03.22.49:238][839]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene -0.319
+[2019.06.12-03.22.49:243][839]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.22.50:633][857]LogEditorViewport: Clicking on Actor (LMB): Enchufe_C (EnchufeTostadora_Blueprint)
+[2019.06.12-03.22.55:471][944]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Tostadora)
+[2019.06.12-03.23.02:017][ 70]LogEditorViewport: Clicking on Actor (LMB): Enchufe_C (EnchufeTostadora_Blueprint)
+[2019.06.12-03.23.10:105][233]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Tostadora)
+[2019.06.12-03.23.15:781][335]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.23.15:893][337]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.23.15:895][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.23.15:993][337]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.06.12-03.23.15:994][337]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.06.12-03.23.16:103][337]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.12-03.23.16:161][338]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.06.12-03.23.22:595][610]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.12-03.23.32:038][ 88]BlueprintLog: New page: Compile Electrodomestico
+[2019.06.12-03.23.33:225][ 89]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ElectrodomesticoA728978142F6FF48385271A030474A5C.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Item/Electrodomestico.uasset'
+[2019.06.12-03.23.35:818][223]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.06.12-03.23.37:187][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.12-03.23.37:389][275]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.23.37:390][275]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.23.37:390][275]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.12-03.23.37:393][275]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [6307.03] Compile of PersistentLevel.KitchenScene successful, but with 3 Warning(s) [in 40 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.12-03.23.38:152][275]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene13CB28064622B9D1AC48C6879E0EE3A9.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.06.12-03.23.39:280][275]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltData9D027DE34B61AE79C4C8C7B01DE108EB.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.06.12-03.23.40:917][342]LogSlate: Window 'CasaRV_CFE - Unreal Editor' being destroyed
+[2019.06.12-03.23.41:348][343]Cmd: QUIT_EDITOR
+[2019.06.12-03.23.42:146][343]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.12-03.23.42:213][343]LogExit: Preparing to exit.
+[2019.06.12-03.23.43:526][343]LogExit: Editor shut down
+[2019.06.12-03.23.43:529][343]LogExit: Transaction tracking system shut down
+[2019.06.12-03.23.47:747][343]LogExit: Object subsystem successfully closed.
+[2019.06.12-03.23.47:949][343]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.12-03.23.47:998][343]LogD3D11RHI: Shutdown
+[2019.06.12-03.23.47:998][343]LogD3D11RHI: CleanupD3DDevice
+[2019.06.12-03.23.48:135][343]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.12-03.23.52:287][343]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (630)
+[2019.06.12-03.23.52:287][343]LogModuleManager: Shutting down and abandoning module BlueprintGraph (628)
+[2019.06.12-03.23.52:287][343]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2019.06.12-03.23.52:287][343]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2019.06.12-03.23.52:287][343]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (622)
+[2019.06.12-03.23.52:287][343]LogModuleManager: Shutting down and abandoning module SceneOutliner (620)
+[2019.06.12-03.23.52:300][343]LogModuleManager: Shutting down and abandoning module AddContentDialog (618)
+[2019.06.12-03.23.52:339][343]LogModuleManager: Shutting down and abandoning module WidgetCarousel (617)
+[2019.06.12-03.23.52:339][343]LogModuleManager: Shutting down and abandoning module EditorWidgets (614)
+[2019.06.12-03.23.52:339][343]LogModuleManager: Shutting down and abandoning module CollectionManager (612)
+[2019.06.12-03.23.52:358][343]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.06.12-03.23.52:380][343]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.06.12-03.23.52:398][343]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.06.12-03.23.52:446][343]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.06.12-03.23.52:462][343]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.06.12-03.23.52:463][343]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.06.12-03.23.52:463][343]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.06.12-03.23.52:463][343]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.06.12-03.23.52:463][343]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.06.12-03.23.52:463][343]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.06.12-03.23.52:511][343]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.06.12-03.23.52:511][343]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.06.12-03.23.52:511][343]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.06.12-03.23.52:511][343]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.06.12-03.23.52:511][343]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.06.12-03.23.52:546][343]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.06.12-03.23.52:546][343]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.06.12-03.23.52:597][343]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.06.12-03.23.52:598][343]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.06.12-03.23.52:598][343]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.06.12-03.23.52:598][343]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.06.12-03.23.52:598][343]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.06.12-03.23.52:599][343]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.06.12-03.23.52:607][343]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.06.12-03.23.52:618][343]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.06.12-03.23.52:618][343]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.06.12-03.23.52:618][343]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.06.12-03.23.52:619][343]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.06.12-03.23.52:643][343]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.06.12-03.23.52:661][343]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.06.12-03.23.52:679][343]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.06.12-03.23.52:718][343]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.06.12-03.23.52:728][343]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.06.12-03.23.52:728][343]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.06.12-03.23.52:729][343]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.06.12-03.23.52:729][343]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.06.12-03.23.52:729][343]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.06.12-03.23.53:754][343]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.06.12-03.23.53:754][343]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.06.12-03.23.53:754][343]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.06.12-03.23.53:754][343]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.06.12-03.23.53:754][343]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.06.12-03.23.53:754][343]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.06.12-03.23.53:791][343]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.06.12-03.23.53:890][343]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.06.12-03.23.54:007][343]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.06.12-03.23.54:027][343]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.06.12-03.23.54:027][343]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.06.12-03.23.54:048][343]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.06.12-03.23.54:070][343]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.06.12-03.23.54:070][343]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.06.12-03.23.54:070][343]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.06.12-03.23.54:070][343]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.06.12-03.23.54:072][343]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.06.12-03.23.54:072][343]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.06.12-03.23.54:425][343]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.06.12-03.23.54:453][343]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.06.12-03.23.54:465][343]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.06.12-03.23.54:487][343]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.06.12-03.23.54:487][343]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.06.12-03.23.54:544][343]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.06.12-03.23.54:553][343]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.06.12-03.23.54:590][343]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.06.12-03.23.54:725][343]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.06.12-03.23.54:726][343]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.06.12-03.23.54:741][343]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.06.12-03.23.54:743][343]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.06.12-03.23.54:764][343]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.06.12-03.23.54:764][343]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.06.12-03.23.54:764][343]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.06.12-03.23.54:794][343]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.06.12-03.23.54:795][343]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.06.12-03.23.54:795][343]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.06.12-03.23.54:795][343]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.06.12-03.23.54:869][343]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.06.12-03.23.54:869][343]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.06.12-03.23.54:869][343]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.06.12-03.23.54:930][343]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.06.12-03.23.54:931][343]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.06.12-03.23.54:931][343]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.06.12-03.23.54:962][343]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.06.12-03.23.54:962][343]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.06.12-03.23.54:962][343]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.06.12-03.23.54:962][343]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.06.12-03.23.54:962][343]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.06.12-03.23.54:962][343]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.06.12-03.23.54:962][343]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.06.12-03.23.55:013][343]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.06.12-03.23.55:013][343]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.06.12-03.23.55:013][343]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.06.12-03.23.55:013][343]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.06.12-03.23.55:048][343]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.06.12-03.23.55:058][343]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.06.12-03.23.55:128][343]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.06.12-03.23.55:192][343]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.06.12-03.23.55:192][343]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.06.12-03.23.55:192][343]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.06.12-03.23.55:237][343]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.06.12-03.23.55:238][343]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.06.12-03.23.55:238][343]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.06.12-03.23.55:288][343]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.06.12-03.23.55:288][343]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.06.12-03.23.55:288][343]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.06.12-03.23.55:288][343]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.06.12-03.23.55:288][343]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.06.12-03.23.55:288][343]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.06.12-03.23.55:390][343]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.06.12-03.23.55:428][343]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.06.12-03.23.55:428][343]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.06.12-03.23.55:428][343]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.06.12-03.23.55:500][343]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.06.12-03.23.55:500][343]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.06.12-03.23.55:500][343]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.06.12-03.23.55:500][343]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.06.12-03.23.55:626][343]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.06.12-03.23.55:626][343]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.06.12-03.23.55:626][343]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.06.12-03.23.55:626][343]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.06.12-03.23.55:626][343]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.06.12-03.23.55:627][343]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.06.12-03.23.55:627][343]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.06.12-03.23.55:627][343]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.06.12-03.23.55:627][343]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.06.12-03.23.55:627][343]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.06.12-03.23.55:627][343]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.06.12-03.23.55:680][343]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.06.12-03.23.55:849][343]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.06.12-03.23.55:849][343]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.06.12-03.23.55:878][343]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.06.12-03.23.55:878][343]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.06.12-03.23.55:878][343]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.06.12-03.23.55:878][343]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.06.12-03.23.55:878][343]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.06.12-03.23.55:878][343]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.06.12-03.23.55:921][343]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.06.12-03.23.55:944][343]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.06.12-03.23.56:128][343]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.06.12-03.23.56:164][343]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.06.12-03.23.56:164][343]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.06.12-03.23.56:164][343]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.06.12-03.23.56:164][343]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.06.12-03.23.56:183][343]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.06.12-03.23.56:183][343]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.06.12-03.23.56:183][343]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.06.12-03.23.56:284][343]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.06.12-03.23.56:444][343]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.06.12-03.23.56:444][343]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.06.12-03.23.56:453][343]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.06.12-03.23.56:453][343]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.06.12-03.23.56:453][343]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.06.12-03.23.56:453][343]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.06.12-03.23.56:525][343]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.06.12-03.23.56:796][343]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.06.12-03.23.56:857][343]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.06.12-03.23.56:858][343]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.06.12-03.23.56:858][343]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.06.12-03.23.56:882][343]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.06.12-03.23.56:885][343]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.06.12-03.23.56:907][343]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.06.12-03.23.56:907][343]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.06.12-03.23.56:907][343]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.06.12-03.23.56:966][343]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.06.12-03.23.56:966][343]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.06.12-03.23.56:966][343]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.06.12-03.23.57:008][343]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.06.12-03.23.57:016][343]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.06.12-03.23.57:016][343]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.06.12-03.23.57:016][343]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.06.12-03.23.57:083][343]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.06.12-03.23.57:083][343]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.06.12-03.23.57:083][343]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.06.12-03.23.57:083][343]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.06.12-03.23.57:160][343]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.06.12-03.23.57:240][343]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.06.12-03.23.57:240][343]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.06.12-03.23.57:363][343]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.06.12-03.23.57:363][343]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.06.12-03.23.57:438][343]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.06.12-03.23.57:438][343]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.06.12-03.23.57:438][343]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.06.12-03.23.57:472][343]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.06.12-03.23.57:810][343]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.06.12-03.23.57:810][343]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.06.12-03.23.58:165][343]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.06.12-03.23.58:165][343]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.06.12-03.23.58:169][343]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.06.12-03.23.58:170][343]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.06.12-03.23.58:710][343]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.06.12-03.23.58:711][343]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.06.12-03.23.58:863][343]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.06.12-03.23.59:075][343]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.06.12-03.23.59:075][343]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.06.12-03.23.59:075][343]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.06.12-03.23.59:105][343]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.06.12-03.23.59:452][343]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.06.12-03.23.59:501][343]LogDerivedDataCache: Shutdown
+[2019.06.12-03.23.59:501][343]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.06.12-03.23.59:554][343]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.06.12-03.23.59:555][343]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.06.12-03.23.59:555][343]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.06.12-03.23.59:576][343]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.06.12-03.23.59:576][343]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.06.12-03.23.59:594][343]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.06.12-03.23.59:594][343]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.06.12-03.23.59:688][343]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.06.12-03.23.59:688][343]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.06.12-03.23.59:688][343]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.06.12-03.23.59:688][343]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.06.12-03.23.59:688][343]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.06.12-03.23.59:689][343]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.06.12-03.23.59:689][343]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.06.12-03.23.59:689][343]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.06.12-03.23.59:689][343]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.06.12-03.23.59:689][343]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.06.12-03.23.59:689][343]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.06.12-03.23.59:798][343]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.06.12-03.23.59:798][343]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.06.12-03.23.59:798][343]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.06.12-03.23.59:799][343]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.06.12-03.23.59:799][343]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.06.12-03.23.59:863][343]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.06.12-03.23.59:863][343]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.06.12-03.23.59:871][343]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.06.12-03.23.59:871][343]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.06.12-03.23.59:938][343]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.06.12-03.23.59:938][343]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.06.12-03.23.59:938][343]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.06.12-03.23.59:939][343]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.06.12-03.23.59:939][343]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.06.12-03.23.59:939][343]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.06.12-03.23.59:939][343]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.06.12-03.23.59:942][343]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.06.12-03.23.59:942][343]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.06.12-03.23.59:942][343]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.12-03.23.59:942][343]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.12-03.23.59:943][343]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.12-03.23.59:943][343]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.12-03.23.59:974][343]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.12-03.23.59:974][343]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.12-03.24.00:013][343]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.12-03.24.00:013][343]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.12-03.24.00:013][343]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.12-03.24.00:013][343]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.12-03.24.00:048][343]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.12-03.24.00:194][343]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.12-03.24.00:393][343]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.12-03.24.00:393][343]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.06.12-03.24.00:393][343]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5C8FE0C1-48F7-25D6-0112-429257F6EBEF%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=34b3586e4a633e0d90f680967c10b65a%7C5817b15a57bb4b6dba2f996d373837f5%7C216417f5-3d98-4c9e-a9c4-0049c7a7195e&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.06.12-03.24.00:428][343]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.12-03.24.00:432][343]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.12-03.24.00:432][343]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.12-03.24.00:432][343]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.12-03.24.00:432][343]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.12-03.24.00:432][343]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.12-03.24.00:432][343]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.12-03.24.00:433][343]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.12-03.24.00:433][343]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.12-03.24.00:433][343]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.12-03.24.00:495][343]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.12-03.24.00:496][343]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.12-03.24.00:581][343]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.12-03.24.00:581][343]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.12-03.24.00:641][343]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.12-03.24.00:641][343]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.12-03.24.00:641][343]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.12-03.24.00:641][343]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.12-03.24.00:776][343]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.12-03.24.00:847][343]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.12-03.24.00:847][343]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.12-03.24.00:904][343]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.12-03.24.00:904][343]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.12-03.24.00:904][343]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.12-03.24.00:904][343]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.12-03.24.00:953][343]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.12-03.24.00:953][343]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.12-03.24.00:978][343]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.12-03.24.00:978][343]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.12-03.24.01:118][343]LogExit: Exiting.
+[2019.06.12-03.24.01:218][343]Log file closed, 06/11/19 22:24:01
