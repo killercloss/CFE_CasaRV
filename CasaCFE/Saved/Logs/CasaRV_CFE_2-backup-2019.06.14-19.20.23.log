@@ -1,0 +1,1453 @@
+﻿Log file open, 06/03/19 15:31:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CasaRV_CFE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.311091
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.069s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line:  /Game/ModernKitchen/Maps/KitchenScene -game -PIEVIACONSOLE -ResX=1280 -ResY=720 -Multiprocess -messaging -SessionName="Play in Standalone Game" -windowed
+LogInit: Base Directory: D:/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.03-20.31.21:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.06.03-20.31.21:922][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.03-20.31.21:922][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.03-20.31.21:926][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.03-20.31.21:926][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.03-20.31.21:927][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.03-20.31.21:928][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.03-20.31.21:928][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.03-20.31.21:928][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:928][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.03-20.31.21:928][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.03-20.31.21:928][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-20.31.21:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.06.03-20.31.21:934][  0]LogHAL: Display: Platform has ~ 12 GB [12778500096 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.06.03-20.31.21:934][  0]LogInit: Going up to parent DeviceProfile []
+[2019.06.03-20.31.21:934][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.06.03-20.31.21:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.06.03-20.31.21:934][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.06.03-20.31.21:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.06.03-20.31.21:935][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.06.03-20.31.21:936][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.06.03-20.31.21:936][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.06.03-20.31.21:936][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.06.03-20.31.21:936][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.06.03-20.31.21:936][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.06.03-20.31.21:936][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.06.03-20.31.21:936][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.06.03-20.31.21:936][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.06.03-20.31.21:940][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.06.03-20.31.21:940][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.06.03-20.31.21:941][  0]LogInit: Computer: DESKTOP-991SPGQ
+[2019.06.03-20.31.21:941][  0]LogInit: User: diego
+[2019.06.03-20.31.21:941][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.06.03-20.31.21:941][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2019.06.03-20.31.21:941][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2019.06.03-20.31.21:941][  0]LogMemory: Platform Memory Stats for Windows
+[2019.06.03-20.31.21:941][  0]LogMemory: Process Physical Memory: 103.00 MB used, 103.00 MB peak
+[2019.06.03-20.31.21:941][  0]LogMemory: Process Virtual Memory: 90.13 MB used, 90.13 MB peak
+[2019.06.03-20.31.21:941][  0]LogMemory: Physical Memory: 6341.57 MB used,  5844.95 MB free, 12186.53 MB total
+[2019.06.03-20.31.21:941][  0]LogMemory: Virtual Memory: 4646.35 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2019.06.03-20.31.22:014][  0]LogInit: Using OS detected language (es-ES).
+[2019.06.03-20.31.22:015][  0]LogInit: Using OS detected locale (es-MX).
+[2019.06.03-20.31.22:015][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2019.06.03-20.31.23:100][  0]LogStreaming: Display: Took  1.085s to InitEngineTextLocalization.
+[2019.06.03-20.31.23:257][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.06.03-20.31.23:258][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.06.03-20.31.23:318][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.03-20.31.23:318][  0]LogD3D11RHI: D3D11 adapters:
+[2019.06.03-20.31.23:446][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 960M' (Feature Level 11_0)
+[2019.06.03-20.31.23:446][  0]LogD3D11RHI:       2010/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.06.03-20.31.23:460][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2019.06.03-20.31.23:460][  0]LogD3D11RHI:       128/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.06.03-20.31.23:464][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.06.03-20.31.23:464][  0]LogD3D11RHI:       0/0/6093 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.06.03-20.31.23:464][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.06.03-20.31.23:509][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.06.03-20.31.23:509][  0]LogD3D11RHI:     GPU DeviceId: 0x139b (for the marketing name, search the web for "GPU Device Id")
+[2019.06.03-20.31.23:509][  0]LogWindows: EnumDisplayDevices:
+[2019.06.03-20.31.23:509][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2019.06.03-20.31.23:509][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.03-20.31.23:510][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2019.06.03-20.31.23:510][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.06.03-20.31.23:510][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 960M
+[2019.06.03-20.31.23:510][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.06.03-20.31.23:510][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.06.03-20.31.23:510][  0]LogRHI: Texture pool is 1407 MB (70% of 2010 MB)
+[2019.06.03-20.31.23:570][  0]LogD3D11RHI: Async texture creation enabled
+[2019.06.03-20.31.23:681][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.06.03-20.31.24:190][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.06.03-20.31.24:205][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.06.03-20.31.24:219][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.06.03-20.31.24:225][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.06.03-20.31.24:225][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.06.03-20.31.24:372][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/Intermediate/Shaders/WorkingDirectory/768/).
+[2019.06.03-20.31.24:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/diego/AppData/Local/Temp/UnrealShaderWorkingDir/AEF5AD3949A75FE8826DD09764BC24D3/'.
+[2019.06.03-20.31.24:374][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.06.03-20.31.24:374][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.06.03-20.31.24:374][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.06.03-20.31.26:104][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.06.03-20.31.26:162][  0]LogDerivedDataCache: Loaded boot cache 0.06s 72MB C:/Users/diego/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.06.03-20.31.26:162][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/diego/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.06.03-20.31.26:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.06.03-20.31.26:162][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.06.03-20.31.26:162][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/diego/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.03-20.31.26:162][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.06.03-20.31.26:180][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.06.03-20.31.26:180][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.06.03-20.31.26:180][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.06.03-20.31.26:216][  0]LogDerivedDataCache: Using Local data cache path C:/Users/diego/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.06.03-20.31.26:216][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.06.03-20.31.26:216][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.06.03-20.31.26:242][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.06.03-20.31.26:273][  0]LogSlate: Using FreeType 2.6.0
+[2019.06.03-20.31.26:294][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.06.03-20.31.26:521][  0]LogInit: Using OS detected language (es-ES).
+[2019.06.03-20.31.26:521][  0]LogInit: Using OS detected locale (es-MX).
+[2019.06.03-20.31.26:521][  0]LogTextLocalizationManager: No localization for 'es-ES' exists, so 'en' will be used for the language.
+[2019.06.03-20.31.26:521][  0]LogTextLocalizationManager: No localization for 'es-MX' exists, so 'en' will be used for the locale.
+[2019.06.03-20.31.26:521][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.06.03-20.31.26:521][  0]LogSlate: FontCache flush requested. Reason: Culture for localization was changed
+[2019.06.03-20.31.27:053][  0]LogStreaming: Display: Took  0.532s to InitGameTextLocalization.
+[2019.06.03-20.31.27:061][  0]LogAssetRegistry: FAssetRegistry took 0.0050 seconds to start up
+[2019.06.03-20.31.27:295][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.021477 seconds
+[2019.06.03-20.31.27:434][  0]LogInit: Selected Device Profile: [Windows]
+[2019.06.03-20.31.27:537][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.06.03-20.31.27:542][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.06.03-20.31.27:542][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.06.03-20.31.27:543][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.06.03-20.31.27:543][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.06.03-20.31.27:647][  0]LogNetVersion: CasaRV_CFE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 735120185)
+[2019.06.03-20.31.28:368][  0]LogMoviePlayer: Initializing movie player
+[2019.06.03-20.31.28:519][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.06.03-20.31.28:532][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.06.03-20.31.28:642][  0]SourceControl: Source control is disabled
+[2019.06.03-20.31.28:642][  0]SourceControl: Source control is disabled
+[2019.06.03-20.31.28:645][  0]SourceControl: Source control is disabled
+[2019.06.03-20.31.28:795][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.06.03-20.31.28:935][  0]LogOcInput: OculusInput pre-init called
+[2019.06.03-20.31.28:945][  0]LogUObjectArray: 43226 objects as part of root set at end of initial load.
+[2019.06.03-20.31.28:945][  0]LogUObjectAllocator: 7590216 out of 0 bytes used by permanent object pool.
+[2019.06.03-20.31.28:945][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.06.03-20.31.29:099][  0]LogEngine: Initializing Engine...
+[2019.06.03-20.31.29:100][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.06.03-20.31.29:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.03-20.31.29:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.03-20.31.29:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.03-20.31.29:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.03-20.31.29:321][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.06.03-20.31.29:330][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.06.03-20.31.29:398][  0]LogInit: FAudioDevice initialized.
+[2019.06.03-20.31.29:410][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.06.03-20.31.29:416][  0]LogInit: Texture streaming: Enabled
+[2019.06.03-20.31.30:200][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-20.31.30:200][  0]LogInit: Display: Game Engine Initialized.
+[2019.06.03-20.31.30:200][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.06.03-20.31.30:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.06.03-20.31.30:200][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.06.03-20.31.30:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.06.03-20.31.30:201][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.06.03-20.31.30:220][  0]LogInit: Display: Starting Game.
+[2019.06.03-20.31.30:220][  0]LogNet: Browse: /Game/ModernKitchen/Maps/KitchenScene?Name=Player
+[2019.06.03-20.31.30:238][  0]LogLoad: LoadMap: /Game/ModernKitchen/Maps/KitchenScene?Name=Player
+[2019.06.03-20.31.30:572][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] InputAction Event references unknown Action 'Encender' for  InputAction Encender
+[2019.06.03-20.31.30:576][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.03-20.31.30:577][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.03-20.31.30:577][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] Node  Unknown  is not referencing a valid level actor
+[2019.06.03-20.31.30:579][  0]LogBlueprint: Warning: [Compiler PersistentLevel.KitchenScene] [0011.00] Compile of PersistentLevel.KitchenScene successful, but with 4 Warning(s) [in 11 ms] (/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene)
+[2019.06.03-20.31.31:836][  0]LogAIModule: Creating AISystem for world KitchenScene
+[2019.06.03-20.31.31:837][  0]LogLoad: Game class is 'GameMode'
+[2019.06.03-20.31.31:868][  0]LogWorld: Bringing World /Game/ModernKitchen/Maps/KitchenScene.KitchenScene up for play (max tick rate 0) at 2019.06.03-15.31.31
+[2019.06.03-20.31.31:868][  0]LogWorld: Bringing up level for play took: 0.004362
+[2019.06.03-20.31.31:871][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.03-20.31.31:871][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.06.03-20.31.31:871][  0]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.06.03-20.31.31:875][  0]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.06.03-20.31.31:909][  0]LogLoad: Took 1.671130 seconds to LoadMap(/Game/ModernKitchen/Maps/KitchenScene)
+[2019.06.03-20.31.32:060][  0]LogRenderer: Reallocating scene render targets to support 1280x720 Format 26 NumSamples 1 (Frame:1).
+[2019.06.03-20.31.32:060][  0]LogLoad: (Engine Initialization) Total time: 12.48 seconds
+[2019.06.03-20.31.32:060][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.06.03-20.31.32:192][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-20.31.32:209][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.06.03-20.31.32:547][  1]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:563][  2]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:579][  3]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:595][  4]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:611][  5]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:627][  6]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:644][  7]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:663][  8]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:679][  9]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:695][ 10]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:711][ 11]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:727][ 12]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:743][ 13]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:759][ 14]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:775][ 15]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:791][ 16]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:808][ 17]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:823][ 18]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:839][ 19]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:855][ 20]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:871][ 21]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:887][ 22]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:904][ 23]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:920][ 24]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:936][ 25]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:952][ 26]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:968][ 27]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.32:984][ 28]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:002][ 29]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:018][ 30]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:034][ 31]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:049][ 32]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:065][ 33]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:081][ 34]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:097][ 35]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:113][ 36]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:130][ 37]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:146][ 38]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:162][ 39]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:178][ 40]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:195][ 41]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:211][ 42]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:227][ 43]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:243][ 44]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:259][ 45]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:275][ 46]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:291][ 47]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:308][ 48]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:324][ 49]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:340][ 50]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:357][ 51]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:373][ 52]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:388][ 53]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:404][ 54]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:420][ 55]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:436][ 56]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:452][ 57]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:468][ 58]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:485][ 59]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:501][ 60]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:517][ 61]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:533][ 62]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:549][ 63]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:565][ 64]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:581][ 65]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:597][ 66]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:613][ 67]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:629][ 68]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:645][ 69]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:662][ 70]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:678][ 71]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:695][ 72]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:711][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:727][ 74]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:743][ 75]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:758][ 76]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:775][ 77]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:791][ 78]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:807][ 79]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:823][ 80]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:839][ 81]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:855][ 82]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:871][ 83]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:887][ 84]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:904][ 85]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:920][ 86]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:936][ 87]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:952][ 88]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:968][ 89]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.33:985][ 90]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:001][ 91]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:017][ 92]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:033][ 93]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:049][ 94]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:065][ 95]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:082][ 96]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:097][ 97]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:114][ 98]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:130][ 99]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:146][100]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:162][101]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:178][102]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:194][103]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:210][104]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:226][105]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:243][106]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:259][107]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:274][108]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:291][109]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:307][110]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:323][111]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:339][112]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:355][113]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:371][114]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:387][115]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:404][116]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:419][117]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:437][118]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:452][119]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:468][120]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:484][121]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:500][122]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:516][123]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:533][124]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:549][125]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:565][126]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:582][127]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:598][128]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:613][129]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:629][130]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:646][131]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:662][132]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:678][133]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:694][134]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:710][135]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:727][136]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:743][137]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:758][138]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:775][139]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:791][140]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:807][141]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:823][142]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:839][143]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:856][144]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:872][145]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:887][146]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:904][147]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:920][148]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:936][149]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:952][150]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:968][151]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.34:984][152]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:001][153]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:017][154]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:032][155]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:049][156]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:065][157]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:082][158]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:098][159]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:114][160]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:130][161]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:146][162]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:162][163]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:178][164]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:198][165]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:216][166]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:232][167]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:247][168]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:264][169]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:281][170]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:296][171]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:312][172]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:329][173]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:345][174]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:361][175]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:378][176]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:394][177]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:410][178]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:427][179]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:443][180]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:459][181]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:476][182]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:495][183]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:513][184]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:529][185]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:546][186]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:562][187]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:577][188]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:595][189]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:610][190]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:626][191]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:642][192]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:658][193]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:674][194]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:691][195]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:706][196]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:724][197]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:739][198]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:755][199]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:772][200]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:788][201]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:804][202]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:820][203]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:836][204]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:854][205]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:874][206]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:892][207]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:907][208]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:924][209]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:939][210]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:957][211]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:973][212]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.35:989][213]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:005][214]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:022][215]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:037][216]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:054][217]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:070][218]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:086][219]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:102][220]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:118][221]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:134][222]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:150][223]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:167][224]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:185][225]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:204][226]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:221][227]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:238][228]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:254][229]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:270][230]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:286][231]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:303][232]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:319][233]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:335][234]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:352][235]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:369][236]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:385][237]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:400][238]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:418][239]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:434][240]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:450][241]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:466][242]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:483][243]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:499][244]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:516][245]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:536][246]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:556][247]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:572][248]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:588][249]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:604][250]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:620][251]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:636][252]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:652][253]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:668][254]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:684][255]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:701][256]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:716][257]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:732][258]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:748][259]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:765][260]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:781][261]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:797][262]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:813][263]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:829][264]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:847][265]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:866][266]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:884][267]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:900][268]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:916][269]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:932][270]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:948][271]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:965][272]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:981][273]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.36:997][274]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:013][275]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:029][276]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:046][277]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:061][278]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:078][279]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:094][280]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:110][281]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:126][282]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:142][283]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:158][284]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:179][285]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:197][286]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:213][287]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:229][288]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:245][289]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:261][290]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:277][291]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:294][292]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:310][293]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:326][294]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:345][295]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:360][296]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:375][297]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:392][298]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:408][299]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:424][300]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:441][301]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:456][302]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:472][303]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:489][304]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:505][305]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:522][306]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:541][307]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:559][308]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:577][309]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:592][310]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:609][311]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:625][312]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:641][313]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:657][314]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:673][315]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:689][316]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:706][317]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:723][318]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:740][319]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:756][320]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:772][321]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:788][322]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:804][323]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:821][324]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:838][325]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:856][326]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:876][327]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:893][328]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:911][329]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:927][330]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:943][331]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:960][332]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:976][333]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.37:992][334]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:009][335]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:026][336]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:042][337]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:059][338]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:075][339]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:091][340]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:108][341]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:124][342]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:142][343]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:157][344]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:174][345]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:194][346]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:213][347]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:230][348]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:245][349]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:263][350]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:279][351]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:295][352]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:312][353]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:327][354]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:344][355]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:360][356]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:379][357]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:394][358]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:412][359]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:428][360]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:446][361]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:462][362]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:478][363]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:495][364]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:511][365]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:530][366]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:550][367]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:568][368]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:585][369]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:601][370]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:617][371]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:634][372]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:651][373]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:667][374]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:683][375]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:699][376]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:716][377]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:733][378]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:749][379]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:765][380]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:782][381]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:799][382]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:815][383]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:832][384]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:849][385]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:867][386]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:888][387]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:906][388]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:922][389]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:938][390]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:955][391]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:971][392]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.38:987][393]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:003][394]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:021][395]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:037][396]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:054][397]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:071][398]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:087][399]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:104][400]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:120][401]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:137][402]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:154][403]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:170][404]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:187][405]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:208][406]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:226][407]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:243][408]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:259][409]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:275][410]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:291][411]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:308][412]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:324][413]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:341][414]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:358][415]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:373][416]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:391][417]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:407][418]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:423][419]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:440][420]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:456][421]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:473][422]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:489][423]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:506][424]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:522][425]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:541][426]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:560][427]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:577][428]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:595][429]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:611][430]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:628][431]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:645][432]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:661][433]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:678][434]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:695][435]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:710][436]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:728][437]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:744][438]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:761][439]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:778][440]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:794][441]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:810][442]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:827][443]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:844][444]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:861][445]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:879][446]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:900][447]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:917][448]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:933][449]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:949][450]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:965][451]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:983][452]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.39:998][453]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:015][454]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:032][455]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:048][456]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:065][457]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:082][458]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:098][459]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:115][460]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:131][461]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:148][462]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:165][463]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:181][464]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:198][465]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:218][466]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:235][467]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:253][468]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:269][469]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:285][470]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:302][471]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:318][472]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:334][473]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:351][474]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:368][475]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:384][476]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:401][477]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:417][478]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:434][479]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:451][480]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:467][481]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:484][482]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:501][483]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:517][484]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:534][485]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:553][486]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:573][487]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:590][488]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:608][489]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:624][490]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:639][491]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:655][492]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:672][493]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:689][494]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:705][495]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:722][496]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:738][497]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:755][498]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:772][499]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:788][500]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:805][501]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:821][502]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:838][503]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:854][504]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:872][505]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:890][506]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:910][507]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:928][508]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:944][509]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:960][510]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:977][511]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.40:993][512]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:010][513]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:027][514]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:044][515]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:061][516]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:078][517]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:093][518]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:110][519]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:127][520]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:144][521]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:161][522]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:176][523]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:192][524]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:209][525]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:230][526]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:248][527]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:264][528]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:280][529]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:296][530]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:313][531]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:330][532]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:345][533]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:363][534]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:379][535]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:396][536]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:412][537]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:428][538]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:445][539]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:461][540]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:478][541]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:494][542]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:510][543]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:528][544]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:544][545]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:562][546]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:582][547]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:600][548]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:617][549]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:633][550]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:649][551]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:666][552]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:683][553]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:699][554]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:716][555]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:732][556]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:749][557]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:766][558]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:782][559]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:798][560]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:816][561]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:832][562]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:849][563]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:866][564]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:882][565]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:900][566]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:920][567]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:938][568]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:954][569]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:971][570]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.41:987][571]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:006][572]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:021][573]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:038][574]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:054][575]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:071][576]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:087][577]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:103][578]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:120][579]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:137][580]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:153][581]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:170][582]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:187][583]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:203][584]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:220][585]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:240][586]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:258][587]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:275][588]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:291][589]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:308][590]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:324][591]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:341][592]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:357][593]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:373][594]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:390][595]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:407][596]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:423][597]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:440][598]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:456][599]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:474][600]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:490][601]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:506][602]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:522][603]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:539][604]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:556][605]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:575][606]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:594][607]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:614][608]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:630][609]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:646][610]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:662][611]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:679][612]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:697][613]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:715][614]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:731][615]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:749][616]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:765][617]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:781][618]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:798][619]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:814][620]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:832][621]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:848][622]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:865][623]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:882][624]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:900][625]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:920][626]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:938][627]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:955][628]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:972][629]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.42:989][630]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:005][631]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:022][632]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:039][633]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:056][634]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:072][635]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:089][636]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:106][637]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:122][638]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:139][639]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:156][640]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:172][641]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:189][642]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:205][643]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:223][644]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:244][645]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:261][646]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:278][647]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:294][648]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:310][649]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:327][650]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:343][651]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:360][652]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:377][653]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:393][654]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:410][655]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:426][656]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:442][657]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:459][658]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:476][659]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:492][660]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:508][661]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:526][662]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:542][663]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:558][664]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:577][665]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:597][666]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:615][667]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:631][668]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:648][669]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:663][670]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:681][671]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:697][672]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:714][673]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:731][674]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:747][675]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:764][676]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:780][677]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:796][678]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:813][679]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:830][680]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:849][681]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:872][682]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:896][683]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:913][684]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:929][685]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:944][686]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:961][687]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.43:981][688]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:004][689]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:022][690]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:038][691]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:054][692]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:071][693]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:087][694]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:112][695]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:132][696]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:149][697]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:165][698]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:181][699]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:198][700]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:218][701]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:236][702]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:251][703]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:268][704]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:294][705]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:318][706]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:339][707]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:355][708]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:371][709]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:388][710]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:405][711]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:421][712]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:438][713]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:454][714]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:471][715]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:488][716]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:504][717]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:520][718]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:537][719]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:639][720]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:782][721]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.44:897][722]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:011][723]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:155][724]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:250][725]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:365][726]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:480][727]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:597][728]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:739][729]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:853][730]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.45:967][731]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:081][732]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:194][733]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:318][734]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:436][735]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:528][736]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:623][737]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:766][738]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.46:910][739]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:007][740]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:099][741]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:223][742]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:248][743]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:284][744]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:321][745]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:347][746]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:370][747]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:393][748]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2019.06.03-20.31.47:436][748]LogSlate: Window 'CasaRV_CFE (64-bit Development PCD3D_SM5) ' being destroyed
+[2019.06.03-20.31.47:436][748]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.06.03-20.31.47:441][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-20.31.47:441][749]LogEngine: All Windows Closed
+[2019.06.03-20.31.47:441][749]LogWindows: FPlatformMisc::RequestExit(0)
+[2019.06.03-20.31.48:157][750]LogExit: Preparing to exit.
+[2019.06.03-20.31.48:157][750]LogMoviePlayer: Shutting down movie player
+[2019.06.03-20.31.48:835][750]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.06.03-20.31.48:922][750]LogExit: Game engine shut down
+[2019.06.03-20.31.49:649][750]LogExit: Object subsystem successfully closed.
+[2019.06.03-20.31.49:842][750]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.06.03-20.31.49:858][750]LogD3D11RHI: Shutdown
+[2019.06.03-20.31.49:858][750]LogD3D11RHI: CleanupD3DDevice
+[2019.06.03-20.31.49:930][750]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.06.03-20.31.50:407][750]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (382)
+[2019.06.03-20.31.50:411][750]LogModuleManager: Shutting down and abandoning module SequenceRecorder (380)
+[2019.06.03-20.31.50:424][750]LogModuleManager: Shutting down and abandoning module AutomationController (378)
+[2019.06.03-20.31.50:438][750]LogModuleManager: Shutting down and abandoning module AutomationWorker (376)
+[2019.06.03-20.31.50:438][750]LogModuleManager: Shutting down and abandoning module Voice (374)
+[2019.06.03-20.31.50:448][750]LogModuleManager: Shutting down and abandoning module AIModule (372)
+[2019.06.03-20.31.50:448][750]LogModuleManager: Shutting down and abandoning module GameplayDebugger (371)
+[2019.06.03-20.31.50:460][750]LogModuleManager: Shutting down and abandoning module AITestSuite (369)
+[2019.06.03-20.31.50:473][750]LogModuleManager: Shutting down and abandoning module NavigationSystem (367)
+[2019.06.03-20.31.50:473][750]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (364)
+[2019.06.03-20.31.50:473][750]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (362)
+[2019.06.03-20.31.50:473][750]LogModuleManager: Shutting down and abandoning module WebMMedia (360)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (358)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (356)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (354)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (352)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (350)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module CharacterAI (348)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module SessionServices (346)
+[2019.06.03-20.31.50:486][750]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (344)
+[2019.06.03-20.31.50:491][750]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (342)
+[2019.06.03-20.31.50:492][750]LogModuleManager: Shutting down and abandoning module MovieScene (340)
+[2019.06.03-20.31.50:535][750]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (338)
+[2019.06.03-20.31.50:547][750]LogModuleManager: Shutting down and abandoning module PortalServices (336)
+[2019.06.03-20.31.50:547][750]LogModuleManager: Shutting down and abandoning module PortalRpc (334)
+[2019.06.03-20.31.50:547][750]LogModuleManager: Shutting down and abandoning module MessagingRpc (332)
+[2019.06.03-20.31.50:547][750]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (330)
+[2019.06.03-20.31.50:549][750]LogModuleManager: Shutting down and abandoning module ProfilerService (328)
+[2019.06.03-20.31.50:748][750]LogModuleManager: Shutting down and abandoning module TaskGraph (326)
+[2019.06.03-20.31.50:766][750]LogModuleManager: Shutting down and abandoning module SteamVRController (324)
+[2019.06.03-20.31.50:766][750]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2019.06.03-20.31.50:778][750]LogModuleManager: Shutting down and abandoning module OculusInput (320)
+[2019.06.03-20.31.50:778][750]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (318)
+[2019.06.03-20.31.50:778][750]LogModuleManager: Shutting down and abandoning module EditableMesh (316)
+[2019.06.03-20.31.50:783][750]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2019.06.03-20.31.50:783][750]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module AudioCapture (310)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (308)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module AndroidPermission (306)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (304)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (302)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module MediaCompositing (300)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module LinearTimecode (298)
+[2019.06.03-20.31.50:793][750]LogModuleManager: Shutting down and abandoning module ImgMedia (296)
+[2019.06.03-20.31.50:796][750]LogModuleManager: Shutting down and abandoning module HTML5Networking (294)
+[2019.06.03-20.31.50:796][750]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (292)
+[2019.06.03-20.31.50:796][750]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (291)
+[2019.06.03-20.31.50:796][750]LogModuleManager: Shutting down and abandoning module GeometryCache (288)
+[2019.06.03-20.31.50:796][750]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (287)
+[2019.06.03-20.31.50:796][750]LogModuleManager: Shutting down and abandoning module BackChannel (284)
+[2019.06.03-20.31.50:805][750]LogModuleManager: Shutting down and abandoning module AppleVision (282)
+[2019.06.03-20.31.50:805][750]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (280)
+[2019.06.03-20.31.50:805][750]LogModuleManager: Shutting down and abandoning module AppleImageUtils (278)
+[2019.06.03-20.31.50:805][750]LogModuleManager: Shutting down and abandoning module VariantManagerContent (276)
+[2019.06.03-20.31.50:805][750]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (274)
+[2019.06.03-20.31.50:818][750]LogModuleManager: Shutting down and abandoning module CryptoKeys (272)
+[2019.06.03-20.31.50:818][750]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (270)
+[2019.06.03-20.31.50:818][750]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2019.06.03-20.31.50:823][750]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (268)
+[2019.06.03-20.31.50:823][750]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (264)
+[2019.06.03-20.31.50:823][750]LogModuleManager: Shutting down and abandoning module UObjectPlugin (262)
+[2019.06.03-20.31.50:823][750]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (260)
+[2019.06.03-20.31.50:831][750]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (258)
+[2019.06.03-20.31.50:869][750]LogModuleManager: Shutting down and abandoning module SourceControl (257)
+[2019.06.03-20.31.50:869][750]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (254)
+[2019.06.03-20.31.50:880][750]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (252)
+[2019.06.03-20.31.50:880][750]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (250)
+[2019.06.03-20.31.50:880][750]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (248)
+[2019.06.03-20.31.50:880][750]LogModuleManager: Shutting down and abandoning module PhysXVehicles (246)
+[2019.06.03-20.31.50:880][750]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (244)
+[2019.06.03-20.31.50:880][750]LogModuleManager: Shutting down and abandoning module ActorSequence (242)
+[2019.06.03-20.31.50:880][750]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2019.06.03-20.31.50:980][750]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2019.06.03-20.31.51:086][750]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (236)
+[2019.06.03-20.31.51:086][750]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2019.06.03-20.31.51:093][750]LogModuleManager: Shutting down and abandoning module FacialAnimation (232)
+[2019.06.03-20.31.51:093][750]LogModuleManager: Shutting down and abandoning module DataValidation (230)
+[2019.06.03-20.31.51:093][750]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2019.06.03-20.31.51:104][750]LogModuleManager: Shutting down and abandoning module TreeMap (227)
+[2019.06.03-20.31.51:109][750]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (224)
+[2019.06.03-20.31.51:109][750]LogModuleManager: Shutting down and abandoning module AISupportModule (222)
+[2019.06.03-20.31.51:109][750]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2019.06.03-20.31.51:118][750]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (218)
+[2019.06.03-20.31.51:118][750]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (216)
+[2019.06.03-20.31.51:118][750]LogModuleManager: Shutting down and abandoning module WmfMedia (214)
+[2019.06.03-20.31.51:129][750]LogModuleManager: Shutting down and abandoning module Media (213)
+[2019.06.03-20.31.51:135][750]LogModuleManager: Shutting down and abandoning module PacketHandler (210)
+[2019.06.03-20.31.51:135][750]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (208)
+[2019.06.03-20.31.51:135][750]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (206)
+[2019.06.03-20.31.51:145][750]LogModuleManager: Shutting down and abandoning module MediaAssets (204)
+[2019.06.03-20.31.51:145][750]LogModuleManager: Shutting down and abandoning module Overlay (202)
+[2019.06.03-20.31.51:145][750]LogModuleManager: Shutting down and abandoning module OverlayEditor (201)
+[2019.06.03-20.31.51:145][750]LogModuleManager: Shutting down and abandoning module VREditor (198)
+[2019.06.03-20.31.51:158][750]LogModuleManager: Shutting down and abandoning module StringTableEditor (196)
+[2019.06.03-20.31.51:171][750]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (194)
+[2019.06.03-20.31.51:171][750]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (192)
+[2019.06.03-20.31.51:199][750]LogModuleManager: Shutting down and abandoning module FunctionalTesting (190)
+[2019.06.03-20.31.51:199][750]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (188)
+[2019.06.03-20.31.51:209][750]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (187)
+[2019.06.03-20.31.51:209][750]LogModuleManager: Shutting down and abandoning module UMG (184)
+[2019.06.03-20.31.51:216][750]LogModuleManager: Shutting down and abandoning module UMGEditor (183)
+[2019.06.03-20.31.51:235][750]LogModuleManager: Shutting down and abandoning module Sequencer (182)
+[2019.06.03-20.31.51:256][750]LogModuleManager: Shutting down and abandoning module MessageLog (179)
+[2019.06.03-20.31.51:256][750]LogModuleManager: Shutting down and abandoning module SlateReflector (174)
+[2019.06.03-20.31.51:285][750]LogModuleManager: Shutting down and abandoning module Slate (172)
+[2019.06.03-20.31.51:285][750]LogModuleManager: Shutting down and abandoning module EditorStyle (170)
+[2019.06.03-20.31.51:286][750]LogModuleManager: Shutting down and abandoning module MRMesh (168)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module Messaging (166)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (164)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (162)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module XAudio2 (160)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module Networking (158)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module Core (156)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module KismetCompiler (152)
+[2019.06.03-20.31.51:295][750]LogModuleManager: Shutting down and abandoning module MeshUtilities (150)
+[2019.06.03-20.31.51:306][750]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (149)
+[2019.06.03-20.31.51:320][750]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (148)
+[2019.06.03-20.31.51:320][750]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (147)
+[2019.06.03-20.31.51:326][750]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (145)
+[2019.06.03-20.31.51:340][750]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (143)
+[2019.06.03-20.31.51:340][750]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (141)
+[2019.06.03-20.31.51:351][750]LogModuleManager: Shutting down and abandoning module MaterialBaking (137)
+[2019.06.03-20.31.51:358][750]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (132)
+[2019.06.03-20.31.51:378][750]LogModuleManager: Shutting down and abandoning module DerivedDataCache (130)
+[2019.06.03-20.31.51:777][750]LogDerivedDataCache: Shutdown
+[2019.06.03-20.31.51:777][750]LogModuleManager: Shutting down and abandoning module XGEController (128)
+[2019.06.03-20.31.51:801][750]LogModuleManager: Shutting down and abandoning module TargetPlatform (126)
+[2019.06.03-20.31.51:801][750]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (125)
+[2019.06.03-20.31.51:815][750]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (123)
+[2019.06.03-20.31.51:829][750]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (121)
+[2019.06.03-20.31.51:830][750]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (119)
+[2019.06.03-20.31.51:830][750]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (117)
+[2019.06.03-20.31.51:847][750]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (115)
+[2019.06.03-20.31.51:847][750]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (113)
+[2019.06.03-20.31.51:847][750]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (111)
+[2019.06.03-20.31.51:847][750]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (109)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (107)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module ImageWrapper (106)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (103)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (101)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (99)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (97)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (95)
+[2019.06.03-20.31.51:852][750]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (93)
+[2019.06.03-20.31.51:853][750]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (91)
+[2019.06.03-20.31.51:853][750]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (89)
+[2019.06.03-20.31.51:853][750]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.06.03-20.31.51:853][750]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.06.03-20.31.51:853][750]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.06.03-20.31.51:853][750]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.06.03-20.31.51:861][750]LogHMD: Freeing OpenVRDLLHandle.
+[2019.06.03-20.31.51:861][750]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.06.03-20.31.51:871][750]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.06.03-20.31.51:871][750]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.06.03-20.31.51:871][750]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.06.03-20.31.51:871][750]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.06.03-20.31.51:884][750]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.06.03-20.31.51:931][750]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.06.03-20.31.51:996][750]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.06.03-20.31.52:020][750]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.06.03-20.31.52:021][750]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.06.03-20.31.52:021][750]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.06.03-20.31.52:021][750]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.06.03-20.31.52:021][750]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.06.03-20.31.52:021][750]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.06.03-20.31.52:022][750]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.06.03-20.31.52:022][750]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.06.03-20.31.52:022][750]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.06.03-20.31.52:022][750]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.06.03-20.31.52:039][750]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.06.03-20.31.52:041][750]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.06.03-20.31.52:060][750]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.06.03-20.31.52:071][750]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.06.03-20.31.52:085][750]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.06.03-20.31.52:085][750]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.06.03-20.31.52:085][750]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.06.03-20.31.52:085][750]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.06.03-20.31.52:093][750]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.06.03-20.31.52:109][750]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.06.03-20.31.52:109][750]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.06.03-20.31.52:109][750]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.06.03-20.31.52:109][750]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.06.03-20.31.52:109][750]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.06.03-20.31.52:109][750]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.06.03-20.31.52:120][750]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.06.03-20.31.52:120][750]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.06.03-20.31.52:122][750]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.06.03-20.31.52:122][750]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.06.03-20.31.52:145][750]LogExit: Exiting.
+[2019.06.03-20.31.52:154][750]Log file closed, 06/03/19 15:31:52
