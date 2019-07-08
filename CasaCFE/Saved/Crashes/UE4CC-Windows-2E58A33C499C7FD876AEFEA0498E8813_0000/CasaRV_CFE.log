@@ -1,0 +1,956 @@
+﻿Log file open, 07/06/19 14:12:07
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: CasaRV_CFE
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.369138
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.365s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.21-CL-4753647
+LogInit: Engine Version: 4.21.2-4753647+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: AMD A10-8700P Radeon R6, 10 Compute Cores 4C+6G, GPU: AMD Radeon(TM) R6 Graphics
+LogInit: Compiled (64-bit): Jan 19 2019 02:07:31
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.006s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.07.06-19.12.08:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.07.06-19.12.08:705][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.07.06-19.12.08:706][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.07.06-19.12.08:706][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.07.06-19.12.08:712][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.07.06-19.12.08:712][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.07.06-19.12.08:713][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.07.06-19.12.08:714][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.07.06-19.12.08:714][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.06-19.12.08:714][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.07.06-19.12.08:793][  0]LogHAL: Display: Platform has ~ 7 GB [7455145984 / 8589934592 / 7], which maps to Smaller [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2019.07.06-19.12.08:793][  0]LogInit: Going up to parent DeviceProfile []
+[2019.07.06-19.12.08:793][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:1]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.6]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:2]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.ShadowQuality:3]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:1]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:1024]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.05]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.7]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.25]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:0]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:0]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.VolumetricFog:0]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:.5]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.07.06-19.12.08:793][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:793][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:1.0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:60]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:350]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.LightShaftQuality:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.7]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:2]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:3                 ; low number of samples when gathering]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:0    ; no foreground scattering]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:0    ; no foreground scattering]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.006   ; required because low gathering and no scattering and not looking great at 1080p]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Applying CVar settings from Section [TextureQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:1]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:2]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:600]]
+[2019.07.06-19.12.08:794][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.RefractionQuality:0]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.DetailMode:1]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:2 ; Medium quality]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.SSS.Scale:0.75]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:0]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.SSS.Quality:0]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:0.25]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:0]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@1] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[foliage.DensityScale:0.4]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Setting CVar [[grass.DensityScale:0.4]]
+[2019.07.06-19.12.08:795][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.07.06-19.12.08:810][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.07.06-19.12.08:810][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2019.07.06-19.12.08:810][  0]LogInit: Computer: DESKTOP-RTM83TK
+[2019.07.06-19.12.08:810][  0]LogInit: User: Samuel
+[2019.07.06-19.12.08:810][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.07.06-19.12.08:810][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.07.06-19.12.08:811][  0]LogMemory: Memory total: Physical=6.9GB (7GB approx)
+[2019.07.06-19.12.08:811][  0]LogMemory: Platform Memory Stats for Windows
+[2019.07.06-19.12.08:811][  0]LogMemory: Process Physical Memory: 104.72 MB used, 104.72 MB peak
+[2019.07.06-19.12.08:811][  0]LogMemory: Process Virtual Memory: 97.56 MB used, 97.56 MB peak
+[2019.07.06-19.12.08:811][  0]LogMemory: Physical Memory: 3936.33 MB used,  3173.45 MB free, 7109.78 MB total
+[2019.07.06-19.12.08:811][  0]LogMemory: Virtual Memory: 4628.92 MB used,  134213096.00 MB free, 134217728.00 MB total
+[2019.07.06-19.12.08:884][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.07.06-19.12.08:884][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.07.06-19.12.09:878][  0]LogStreaming: Display: Took  0.993s to InitEngineTextLocalization.
+[2019.07.06-19.12.09:878][  0]LogInit: Setting process to per monitor DPI aware
+[2019.07.06-19.12.10:028][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.07.06-19.12.10:028][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.07.06-19.12.15:346][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.06-19.12.15:347][  0]LogD3D11RHI: D3D11 adapters:
+[2019.07.06-19.12.15:664][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) R6 Graphics' (Feature Level 11_0)
+[2019.07.06-19.12.15:664][  0]LogD3D11RHI:       1012/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.07.06-19.12.15:671][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.07.06-19.12.15:671][  0]LogD3D11RHI:       0/0/3554 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.07.06-19.12.15:671][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.07.06-19.12.15:690][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.07.06-19.12.15:691][  0]LogD3D11RHI:     GPU DeviceId: 0x9874 (for the marketing name, search the web for "GPU Device Id")
+[2019.07.06-19.12.15:691][  0]LogWindows: EnumDisplayDevices:
+[2019.07.06-19.12.15:691][  0]LogWindows:    0. 'AMD Radeon(TM) R6 Graphics' (P:1 D:1)
+[2019.07.06-19.12.15:692][  0]LogWindows:    1. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.07.06-19.12.15:693][  0]LogWindows:    2. 'AMD Radeon(TM) R6 Graphics' (P:0 D:0)
+[2019.07.06-19.12.15:693][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2019.07.06-19.12.15:693][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) R6 Graphics
+[2019.07.06-19.12.15:693][  0]LogD3D11RHI:   Driver Version: 15.201.1101.1002 (internal:15.201.1101.1002, unified:15.201.1101.1002)
+[2019.07.06-19.12.15:693][  0]LogD3D11RHI:      Driver Date: 8-21-2015
+[2019.07.06-19.12.15:694][  0]LogRHI: Texture pool is 708 MB (70% of 1012 MB)
+[2019.07.06-19.12.15:884][  0]LogD3D11RHI: Async texture creation enabled
+[2019.07.06-19.12.15:919][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2019.07.06-19.12.17:254][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.07.06-19.12.17:282][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.07.06-19.12.17:313][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.07.06-19.12.17:341][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.07.06-19.12.17:385][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.07.06-19.12.17:413][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.07.06-19.12.17:442][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.07.06-19.12.17:471][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.07.06-19.12.17:485][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.07.06-19.12.17:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:667][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:668][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.07.06-19.12.17:671][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.07.06-19.12.17:766][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.06-19.12.17:766][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.07.06-19.12.17:816][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.06-19.12.17:816][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.07.06-19.12.17:842][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.07.06-19.12.17:869][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.07.06-19.12.17:895][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.07.06-19.12.17:924][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.07.06-19.12.18:020][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.06-19.12.18:020][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.07.06-19.12.18:021][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.07.06-19.12.18:150][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Intermediate/Shaders/WorkingDirectory/14448/).
+[2019.07.06-19.12.18:151][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samuel/AppData/Local/Temp/UnrealShaderWorkingDir/86504558419F2F34EB84988FF9F9FCAA/'.
+[2019.07.06-19.12.18:155][  0]LogXGEController: Cleaning working directory: C:/Users/Samuel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.06-19.12.18:155][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.07.06-19.12.18:156][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.07.06-19.12.18:156][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.07.06-19.12.21:730][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.07.06-19.12.22:724][  0]LogDerivedDataCache: Loaded boot cache 0.99s 72MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.07.06-19.12.22:724][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2019.07.06-19.12.22:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.07.06-19.12.22:724][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.07.06-19.12.22:724][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.06-19.12.22:724][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.07.06-19.12.22:767][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.07.06-19.12.22:767][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.07.06-19.12.22:767][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.07.06-19.12.22:781][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samuel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.07.06-19.12.22:781][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.07.06-19.12.22:781][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.07.06-19.12.22:837][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.07.06-19.12.22:839][  0]LogSlate: Using FreeType 2.6.0
+[2019.07.06-19.12.22:860][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.07.06-19.12.24:692][  0]LogAssetRegistry: FAssetRegistry took 0.0494 seconds to start up
+[2019.07.06-19.12.25:526][  0]LogInit: Selected Device Profile: [Windows]
+[2019.07.06-19.12.25:995][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.07.06-19.12.26:003][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.07.06-19.12.26:003][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.07.06-19.12.26:003][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.07.06-19.12.26:003][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.07.06-19.12.26:040][  0]LogNetVersion: CasaRV_CFE 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 735120185)
+[2019.07.06-19.12.27:410][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 1 prioritized culture(s) in 0.188767 seconds
+[2019.07.06-19.12.27:427][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2019.07.06-19.12.27:427][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2019.07.06-19.12.27:427][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.07.06-19.12.49:550][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.07.06-19.12.49:568][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.07.06-19.12.51:430][  0]SourceControl: Source control is disabled
+[2019.07.06-19.12.56:161][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.07.06-19.12.56:297][  0]LogOcInput: OculusInput pre-init called
+[2019.07.06-19.12.56:574][  0]LogEngine: Initializing Engine...
+[2019.07.06-19.12.56:576][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.07.06-19.12.56:579][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.06-19.12.56:579][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.06-19.12.56:580][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.06-19.12.56:580][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.06-19.12.57:160][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.07.06-19.12.57:190][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.07.06-19.12.57:212][  0]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-19.12.57:345][  0]LogInit: FAudioDevice initialized.
+[2019.07.06-19.12.57:346][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.07.06-19.12.57:619][  0]LogDerivedDataCache: Saved boot cache 0.27s 72MB C:/Users/Samuel/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2019.07.06-19.12.57:653][  0]LogInit: Texture streaming: Enabled
+[2019.07.06-19.12.57:695][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.07.06-19.12.58:346][  0]LogInit: Transaction tracking system initialized
+[2019.07.06-19.12.58:404][  0]BlueprintLog: New page: Editor Load
+[2019.07.06-19.12.58:633][  0]LocalizationService: Localization service is disabled
+[2019.07.06-19.13.04:980][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/' took 0.03s
+[2019.07.06-19.13.04:980][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.07.06-19.13.04:980][  0]LogCook: Display: Mobile HDR setting 1
+[2019.07.06-19.13.04:980][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.07.06-19.13.04:980][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.07.06-19.13.04:980][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.07.06-19.13.04:981][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.07.06-19.13.04:981][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.07.06-19.13.06:949][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.07.06-19.13.06:950][  0]LightingResults: New page: Lighting Build
+[2019.07.06-19.13.06:956][  0]MapCheck: New page: Map Check
+[2019.07.06-19.13.06:956][  0]LightingResults: New page: Lighting Build
+[2019.07.06-19.13.46:414][  0]LogAIModule: Creating AISystem for world KitchenScene
+[2019.07.06-19.13.46:672][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.07.06-19.13.46:822][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.07.06-19.13.46:823][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.542ms to complete.
+[2019.07.06-19.13.46:823][  0]LogFileHelpers: Loading map 'KitchenScene' took 39.875
+[2019.07.06-19.13.47:483][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.13.47:500][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.13.47:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.13.47:531][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.13.48:115][  0]LogCollectionManager: Loaded 0 collections in 0.004329 seconds
+[2019.07.06-19.13.48:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Collections/' took 0.01s
+[2019.07.06-19.13.48:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/Developers/Samuel/Collections/' took 0.01s
+[2019.07.06-19.13.48:254][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/Collections/' took 0.01s
+[2019.07.06-19.13.48:254][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.07.06-19.13.48:274][  0]LogContentBrowser: Native class hierarchy populated in 0.0195 seconds. Added 2651 classes and 620 folders.
+[2019.07.06-19.13.48:465][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.07.06-19.13.48:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:052][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:236][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:318][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:508][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:707][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:810][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.49:894][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.50:131][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.50:249][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.50:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.50:467][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.50:658][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.50:759][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.50:861][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.51:012][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.51:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.51:305][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.51:374][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.51:568][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.51:702][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.51:904][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.52:019][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.52:170][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.52:299][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.07.06-19.13.59:916][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.07.06-19.14.00:582][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.07.06-19.14.01:423][  0]LogSlate: Took 0.070036 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.07.06-19.14.01:674][  0]LogSlate: Took 0.246753 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.07.06-19.14.01:938][  0]LogSlate: Took 0.209696 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.07.06-19.14.03:139][  0]LogRenderer: Reallocating scene render targets to support 832x348 Format 26 NumSamples 1 (Frame:1).
+[2019.07.06-19.14.04:102][  0]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.07.06-19.14.05:048][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.07.06-19.14.05:048][  0]LogLoad: (Engine Initialization) Total time: 129.55 seconds
+[2019.07.06-19.14.05:048][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.07.06-19.14.05:319][  0]LogContentStreaming: Texture pool size now 600 MB
+[2019.07.06-19.14.05:502][  0]LogSlate: Took 0.059893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.06-19.14.07:212][  3]LogSlate: Took 0.000639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.07.06-19.14.07:398][  5]LogAssetRegistry: Asset discovery search completed in 102.7308 seconds
+[2019.07.06-19.14.07:470][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2019.07.06-19.14.07:470][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.067361 seconds (updated 0 objects)
+[2019.07.06-19.14.29:911][ 89]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.14.31:764][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.16.10:487][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Samuel/Desktop/casaCFE/a.png)
+[2019.07.06-19.16.10:609][275]LogTexture: Display: Building textures: a (AutoDXT, 512X512)
+[2019.07.06-19.16.11:889][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Samuel/Desktop/casaCFE/b.png)
+[2019.07.06-19.16.11:913][275]LogTexture: Display: Building textures: b (AutoDXT, 512X512)
+[2019.07.06-19.16.12:739][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Samuel/Desktop/casaCFE/off.png)
+[2019.07.06-19.16.12:762][275]LogTexture: Display: Building textures: off (BGRA8, 550X550)
+[2019.07.06-19.16.13:346][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Samuel/Desktop/casaCFE/on.png)
+[2019.07.06-19.16.13:367][275]LogTexture: Display: Building textures: on (BGRA8, 550X550)
+[2019.07.06-19.16.14:281][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Samuel/Desktop/casaCFE/x.png)
+[2019.07.06-19.16.14:308][275]LogTexture: Display: Building textures: x (AutoDXT, 512X512)
+[2019.07.06-19.16.15:330][275]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Samuel/Desktop/casaCFE/y.png)
+[2019.07.06-19.16.15:368][275]LogTexture: Display: Building textures: y (AutoDXT, 512X512)
+[2019.07.06-19.16.21:577][552]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.Electrodomestico
+[2019.07.06-19.16.25:777][552]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 117 classes and 0 folders.
+[2019.07.06-19.16.35:462][552]LogSlate: Took 0.027292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.07.06-19.16.42:392][576]LogSlate: Took 0.033692 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.07.06-19.16.43:071][587]LogRenderer: Reallocating scene render targets to support 832x444 Format 26 NumSamples 1 (Frame:1).
+[2019.07.06-19.17.01:029][124]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.BPW_Interact
+[2019.07.06-19.17.05:136][175]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (49.050 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.07.06-19.19.25:736][558]LogSlate: Warning: FSlateFontInfo property 'Font.FontObject' on object '/Engine/Transient.World_6:BPW_Interact_C_6.WidgetTree_0.TextBlock_84' was set to use a null UFont. Slate will be forced to use the fallback font path which may be slower.
+[2019.07.06-19.19.25:841][558]LogSlate: Took 0.095327 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2019.07.06-19.20.08:015][ 58]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.20.10:027][ 77]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_Interact02E9810A4108197BC6B7F8A415333081.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.20.42:881][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.20.54:765][373]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.21.08:119][152]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.21.09:772][165]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_Interact74A26F05470FDCD19F6F1A9C307C47F8.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.21.15:387][492]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.21.16:658][520]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_Interact49DCCBCD40B597DF6814F8B7DCB279DD.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.21.34:403][462]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.06-19.21.42:179][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.06-19.22.27:137][400]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.22.28:289][417]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_Interact1CD5176C4CAC71096A8F30850B6508DA.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.22.35:100][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.23.23:590][562]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.23.24:578][564]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_Interact0F3B6AD142527DF3B77FA294C422152F.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.23.26:920][685]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.23.28:531][708]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ElectrodomesticoF82EC528427FCDBF9FCAADBBCBD78740.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.23.41:255][412]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.23.51:796][ 30]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.23.52:995][ 31]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_InteractB710CEAB4C81CCBB5C6CA08133691BDA.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.23.54:608][110]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.23.56:801][176]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ElectrodomesticoD69120F940D30C2A27D12F954495160B.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.24.29:772][502]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_Auto1CC7CE69344A58E9D52960D82F5E0B902.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/ModernKitchen/Maps/KitchenScene_Auto1.umap'
+[2019.07.06-19.24.29:857][502]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ModernKitchen/Maps/KitchenScene' took 2.373
+[2019.07.06-19.24.29:860][502]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.373
+[2019.07.06-19.24.29:965][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/a] ([1] browsable assets)...
+[2019.07.06-19.24.29:988][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/a.a]
+[2019.07.06-19.24.29:988][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/a]
+[2019.07.06-19.24.30:043][502]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/a_Auto192CFA010440D719F8748DE945330270D.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/a_Auto1.uasset'
+[2019.07.06-19.24.30:048][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/b] ([1] browsable assets)...
+[2019.07.06-19.24.30:071][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/b.b]
+[2019.07.06-19.24.30:071][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/b]
+[2019.07.06-19.24.30:170][502]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/b_Auto188D383B944087B23E03F8881F6CABA69.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/b_Auto1.uasset'
+[2019.07.06-19.24.30:175][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/off] ([1] browsable assets)...
+[2019.07.06-19.24.30:200][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/off.off]
+[2019.07.06-19.24.30:200][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/off]
+[2019.07.06-19.24.30:253][502]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/off_Auto1FA8D478D4E934827A9A0EFB530B4CAE8.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/off_Auto1.uasset'
+[2019.07.06-19.24.30:260][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/on] ([1] browsable assets)...
+[2019.07.06-19.24.30:283][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/on.on]
+[2019.07.06-19.24.30:283][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/on]
+[2019.07.06-19.24.30:338][502]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/on_Auto1F891B3A84822D1325DBF3EB361B6687C.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/on_Auto1.uasset'
+[2019.07.06-19.24.30:343][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/x] ([1] browsable assets)...
+[2019.07.06-19.24.30:367][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/x.x]
+[2019.07.06-19.24.30:367][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/x]
+[2019.07.06-19.24.30:493][502]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/x_Auto1AA02B8134024423AEB3350B441DC1810.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/x_Auto1.uasset'
+[2019.07.06-19.24.30:499][502]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/y] ([1] browsable assets)...
+[2019.07.06-19.24.30:523][502]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/y.y]
+[2019.07.06-19.24.30:524][502]OBJ SavePackage: Finished generating thumbnails for package [/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/y]
+[2019.07.06-19.24.30:559][502]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/y_Auto19BCC4DDB4830178195BC53B59CCEC243.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/VirtualRealityBP/Blueprints/Electrodomestico/WidgetTextures/y_Auto1.uasset'
+[2019.07.06-19.24.30:563][502]LogFileHelpers: Auto-saving content packages took 0.663
+[2019.07.06-19.25.05:075][230]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.25.06:398][247]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_InteractAA34262E482842810F325DB9B78FBE93.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.25.07:347][297]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.25.09:266][349]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico70333C2B4294FDCA5C7BF5BA2632AF37.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.25.12:833][545]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.25.14:113][552]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_InteractD1218D884FE5045154177187F8B1E850.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.25.15:523][617]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.25.17:987][700]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico66A0D4A741C486D2B08DDF9DF97ADE66.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.26.41:109][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.27.16:662][674]BlueprintLog: New page: Compile BPW_Interact
+[2019.07.06-19.27.18:166][688]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_Interact0F41019A40C119236308DF8029520769.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_Interact.uasset'
+[2019.07.06-19.27.19:541][763]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.27.21:450][820]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico7BB2337D46501709ED06228F2ED0AD4F.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.27.39:378][  7]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.27.40:786][ 12]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene09E61CC9413952A6DEE166956AB2AA4A.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.07.06-19.27.43:188][ 12]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltDataC4EDFBEB4B6F436DA16754BC33F5DEEB.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.07.06-19.27.49:430][226]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.28.27:695][368]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.28.40:843][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.28.50:748][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.28.56:187][738]LogEditorTransaction: Undo Modify Component(s)
+[2019.07.06-19.28.57:489][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.29.14:772][677]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.29.14:859][682]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.29.16:272][702]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico7D008DEC401CC0CCC655B7A01A9822C7.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.29.21:860][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.29.22:225][939]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.06-19.29.22:360][939]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.22:419][939]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-19.29.22:486][939]PIE: New page: PIE session: KitchenScene (Jul 6, 2019, 9:29:22 AM)
+[2019.07.06-19.29.22:679][939]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.07.06-19.29.22:835][939]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154843s)
+[2019.07.06-19.29.22:836][939]LogAIModule: Creating AISystem for world KitchenScene
+[2019.07.06-19.29.22:846][939]LogPlayLevel: PIE: World Init took: (0.010647s)
+[2019.07.06-19.29.22:846][939]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.166416s)
+[2019.07.06-19.29.23:016][939]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-19.29.23:092][939]LogInit: FAudioDevice initialized.
+[2019.07.06-19.29.23:267][939]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.07.06-19.29.23:277][939]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.07.06-14.29.23
+[2019.07.06-19.29.23:346][939]LogWorld: Bringing up level for play took: 0.078264
+[2019.07.06-19.29.23:628][939]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 20 classes and 0 folders.
+[2019.07.06-19.29.24:290][939]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 1.579
+[2019.07.06-19.29.24:291][939]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.28:669][126]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.28:746][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.29.28:922][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.06-19.29.28:947][126]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.29:119][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.29.29:333][127]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.07.06-19.29.32:044][276]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.32:044][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-19.29.32:044][276]PIE: New page: SIE session: KitchenScene (Jul 6, 2019, 9:29:32 AM)
+[2019.07.06-19.29.32:045][276]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.07.06-19.29.32:095][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049432s)
+[2019.07.06-19.29.32:096][276]LogAIModule: Creating AISystem for world KitchenScene
+[2019.07.06-19.29.32:097][276]LogPlayLevel: PIE: World Init took: (0.002029s)
+[2019.07.06-19.29.32:097][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.051863s)
+[2019.07.06-19.29.32:190][276]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-19.29.32:254][276]LogInit: FAudioDevice initialized.
+[2019.07.06-19.29.32:324][276]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.07.06-19.29.32:336][276]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.07.06-14.29.32
+[2019.07.06-19.29.32:337][276]LogWorld: Bringing up level for play took: 0.011519
+[2019.07.06-19.29.32:359][276]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene -0.345
+[2019.07.06-19.29.32:544][276]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.45:962][749]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.45:963][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.29.46:067][749]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.06-19.29.46:067][749]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.29.46:179][749]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.29.46:229][750]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.07.06-19.29.52:672][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.06-19.29.56:233][968]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.31.00:566][395]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.31.02:725][451]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico87315D2B4E484BF6DE270C867EA6EFFF.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.31.13:782][ 93]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.31.15:066][117]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico0ED2F17A41E24F65D3AFC0A964FFB54B.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.31.48:882][ 43]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.31.58:652][580]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.31.59:939][597]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico667475A94A9D4C76DA9DC3BA7955FC69.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.32.10:446][201]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.10:446][201]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-19.32.10:446][201]PIE: New page: PIE session: KitchenScene (Jul 6, 2019, 9:32:10 AM)
+[2019.07.06-19.32.10:447][201]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.07.06-19.32.10:511][201]LogPlayLevel: PIE: StaticDuplicateObject took: (0.063608s)
+[2019.07.06-19.32.10:513][201]LogAIModule: Creating AISystem for world KitchenScene
+[2019.07.06-19.32.10:514][201]LogPlayLevel: PIE: World Init took: (0.002675s)
+[2019.07.06-19.32.10:514][201]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.066937s)
+[2019.07.06-19.32.10:628][201]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-19.32.10:696][201]LogInit: FAudioDevice initialized.
+[2019.07.06-19.32.10:741][201]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.07.06-19.32.10:751][201]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.07.06-14.32.10
+[2019.07.06-19.32.10:753][201]LogWorld: Bringing up level for play took: 0.010486
+[2019.07.06-19.32.10:780][201]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 0.075
+[2019.07.06-19.32.10:781][201]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.19:551][649]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.19:552][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.32.19:618][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.06-19.32.19:619][649]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.19:709][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.32.19:769][650]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.07.06-19.32.22:664][751]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2019.07.06-19.32.25:016][854]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.06-19.32.28:026][951]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.06-19.32.30:974][ 44]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.06-19.32.31:777][ 69]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.06-19.32.33:943][146]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2019.07.06-19.32.34:534][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.32.34:634][181]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.06-19.32.34:696][181]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.34:696][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-19.32.34:696][181]PIE: New page: PIE session: KitchenScene (Jul 6, 2019, 9:32:34 AM)
+[2019.07.06-19.32.34:697][181]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.07.06-19.32.34:747][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049264s)
+[2019.07.06-19.32.34:748][181]LogAIModule: Creating AISystem for world KitchenScene
+[2019.07.06-19.32.34:749][181]LogPlayLevel: PIE: World Init took: (0.001915s)
+[2019.07.06-19.32.34:750][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.052185s)
+[2019.07.06-19.32.34:840][181]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-19.32.34:900][181]LogInit: FAudioDevice initialized.
+[2019.07.06-19.32.34:941][181]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.07.06-19.32.34:950][181]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.07.06-14.32.34
+[2019.07.06-19.32.34:951][181]LogWorld: Bringing up level for play took: 0.008069
+[2019.07.06-19.32.34:992][181]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 0.287
+[2019.07.06-19.32.34:993][181]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.38:655][358]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.38:656][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.32.38:729][358]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.06-19.32.38:729][358]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.32.38:821][358]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.32.38:892][359]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.07.06-19.32.41:741][516]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.32.44:102][605]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/BPW_CFE.BPW_CFE
+[2019.07.06-19.32.58:008][262]BlueprintLog: New page: Compile BPW_CFE
+[2019.07.06-19.32.59:145][288]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_CFE1DB6B5FE4DF971E2B9C888BF5EFE5F15.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_CFE.uasset'
+[2019.07.06-19.33.01:632][421]LogTemp: Repeating last play command: Selected Viewport
+[2019.07.06-19.33.01:701][421]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.33.01:702][421]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.07.06-19.33.01:702][421]PIE: New page: PIE session: KitchenScene (Jul 6, 2019, 9:33:01 AM)
+[2019.07.06-19.33.01:703][421]LogPlayLevel: Creating play world package: /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene
+[2019.07.06-19.33.01:753][421]LogPlayLevel: PIE: StaticDuplicateObject took: (0.050087s)
+[2019.07.06-19.33.01:754][421]LogAIModule: Creating AISystem for world KitchenScene
+[2019.07.06-19.33.01:755][421]LogPlayLevel: PIE: World Init took: (0.001693s)
+[2019.07.06-19.33.01:755][421]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ModernKitchen/Maps/KitchenScene.KitchenScene to /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene (0.052374s)
+[2019.07.06-19.33.01:854][421]LogInit: XAudio2 using 'Altavoces (Conexant SmartAudio HD)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.07.06-19.33.01:916][421]LogInit: FAudioDevice initialized.
+[2019.07.06-19.33.01:957][421]LogLoad: Game class is 'CFE_GameMode_C'
+[2019.07.06-19.33.01:966][421]LogWorld: Bringing World /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene.KitchenScene up for play (max tick rate 60) at 2019.07.06-14.33.01
+[2019.07.06-19.33.01:967][421]LogWorld: Bringing up level for play took: 0.009161
+[2019.07.06-19.33.01:994][421]PIE: Play in editor start time for /Game/ModernKitchen/Maps/UEDPIE_0_KitchenScene 1.289
+[2019.07.06-19.33.01:995][421]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.33.04:122][519]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.33.04:123][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.33.04:189][519]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.07.06-19.33.04:190][519]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel' has LevelScriptBlueprint '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene' with GeneratedClass '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene_C' with ClassGeneratedBy '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.KitchenScene'
+[2019.07.06-19.33.04:304][519]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.07.06-19.33.04:359][520]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2019.07.06-19.33.09:925][837]BlueprintLog: New page: Compile BPW_CFE
+[2019.07.06-19.33.10:956][859]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BPW_CFE38C40FC047AD09055BE4B283506D44BE.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/BPW_CFE.uasset'
+[2019.07.06-19.34.29:827][493]LogEditorViewport: Clicking on Actor (LMB): Electrodomestico_C (Electrodomestico)
+[2019.07.06-19.34.30:932][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.34.44:095][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.35.10:706][739]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.35.12:228][748]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ElectrodomesticoABC76DC048FB5ADF1802EAA3FEAC567A.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.35.51:027][454]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ModernKitchen/StaticMeshes/Meshes/RefrigeradorViejo.RefrigeradorViejo
+[2019.07.06-19.35.53:728][455]LogRenderer: Reallocating scene render targets to support 1016x612 Format 26 NumSamples 1 (Frame:1).
+[2019.07.06-19.36.24:180][891]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.36.29:705][184]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.36.31:057][186]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico2342493947F4146AE288E4A262593EE4.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.37.07:230][606]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.37.18:377][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.37.21:410][155]LogEditorViewport: Clicking on Actor (LMB): TomaDeCorriente2Entradas_C (TomaDeCorriente)
+[2019.07.06-19.37.22:857][221]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.37.22:938][224]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente2Entradas.TomaDeCorriente2Entradas
+[2019.07.06-19.37.41:763][980]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.37.52:134][429]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.37.59:102][652]LogEditorTransaction: Undo Set Scale
+[2019.07.06-19.37.59:937][659]LogEditorTransaction: Undo Reset Scale
+[2019.07.06-19.38.05:930][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.38.13:318][209]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.39.19:432][916]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.39.21:676][960]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ElectrodomesticoC9A698844AF77BA9A8669A87179AE38C.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.39.35:287][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.39.49:144][213]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/VirtualRealityBP/Blueprints/Electrodomestico/Meshes/Enchufe.Enchufe
+[2019.07.06-19.39.53:597][302]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.07.06-19.40.02:282][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.40.02:840][705]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Enchufe2CECF71A41283FBFDA08E7BC049A15C5.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Meshes/Enchufe.uasset'
+[2019.07.06-19.40.17:482][470]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Enchufe0FAD8EBF4EC845371465EA8F0A2EFB6B.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Meshes/Enchufe.uasset'
+[2019.07.06-19.40.29:117][ 95]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.40.30:549][107]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico0C5488B14C12B8CE3F284493823AFE1E.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.40.35:107][326]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.40.35:199][331]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.40.36:587][341]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico186090544DEF1FEDB6F4EAB7B697E1AF.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.40.41:741][527]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenSceneCCFEBE3A49BAA0A265BA20B4B44C83F0.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene.umap'
+[2019.07.06-19.40.43:147][527]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/KitchenScene_BuiltDataB209A49E48AF06498FD4468D94055FC1.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/KitchenScene_BuiltData.uasset'
+[2019.07.06-19.40.50:315][848]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.41.03:708][553]LogSlate: Took 0.018442 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.07.06-19.41.09:266][864]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.41.10:385][865]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico7326603C4590BE21B1C032AE46ED0411.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.41.15:510][136]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.41.16:765][151]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico2DB67B564F21BA7625AF8DA7CBF8A19D.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.41.28:939][857]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.41.30:159][868]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ElectrodomesticoD62E28B747D371EAE260288B5BB04356.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.41.35:102][135]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente2Entradas.TomaDeCorriente2Entradas
+[2019.07.06-19.45.09:622][249]BlueprintLog: New page: Compile TomaDeCorriente2Entradas
+[2019.07.06-19.45.11:255][271]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TomaDeCorriente2EntradasE3834C2944F0D7CB6CE5238803F7EA7A.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente2Entradas.uasset'
+[2019.07.06-19.45.44:990][132]BlueprintLog: New page: Compile Electrodomestico
+[2019.07.06-19.45.46:439][137]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Electrodomestico1A0EAB3D407F8BEC7D2BE7B4C1C9C200.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/Electrodomestico.uasset'
+[2019.07.06-19.46.03:793][ 64]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/Switch.Switch
+[2019.07.06-19.46.16:077][509]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.06-19.46.49:037][245]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.07.06-19.47.02:532][984]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente1Entrada.TomaDeCorriente1Entrada
+[2019.07.06-19.47.09:882][333]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.06-19.47.20:880][924]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente2Entradas.TomaDeCorriente2Entradas from Actor to TomaDeCorrientePadre_C...
+[2019.07.06-19.47.20:919][924]BlueprintLog: New page: Compile TomaDeCorriente2Entradas
+[2019.07.06-19.47.20:961][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.20:963][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.20:980][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.20:980][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.20:982][924]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.20:983][924]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.20:986][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.20:986][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:343][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:343][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:504][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:505][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:508][924]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:509][924]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:513][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:513][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_1.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:515][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:515][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:523][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:524][924]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:528][924]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:529][924]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.21:532][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.21:533][924]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.24:698][ 95]BlueprintLog: New page: Compile TomaDeCorriente2Entradas
+[2019.07.06-19.47.24:728][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.24:729][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.24:745][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.24:745][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.24:747][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.24:747][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.24:749][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.24:749][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:075][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:076][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:169][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:169][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:172][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:173][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:176][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:177][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:179][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:180][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:192][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:193][ 95]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:196][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:197][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_14:PersistentLevel.TomaDeCorriente2Entradas_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.25:200][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.25:201][ 95]PIE: Warning: AttachTo: '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Engine/Transient.World_0:PersistentLevel.TomaDeCorriente2Entradas_C_3.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.26:038][115]LogSavePackage: Moving '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TomaDeCorriente2EntradasC0EDD1C1414DECB15EB1DE812A7F8399.tmp' to '../../../../../../Users/Samuel/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente2Entradas.uasset'
+[2019.07.06-19.47.31:373][419]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.06-19.47.34:789][605]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente1Entrada.TomaDeCorriente1Entrada from Actor to TomaDeCorriente2Entradas_C...
+[2019.07.06-19.47.34:838][605]LogBlueprint: Error: [Compiler TomaDeCorriente1Entrada] Internal Compiler Error: Tried to create a property Enchufe in scope SKEL_TomaDeCorriente1Entrada_C, but another object (ObjectProperty /Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente2Entradas.SKEL_TomaDeCorriente2Entradas_C:Enchufe) already exists there.
+[2019.07.06-19.47.34:839][605]LogBlueprint: Warning: [Compiler TomaDeCorriente1Entrada] Found a component variable with a conflicting name (Entrada01) - changed to Entrada01_0.
+[2019.07.06-19.47.34:840][605]LogBlueprint: Warning: [Compiler TomaDeCorriente1Entrada] Found a component variable with a conflicting name (TomaDeCorriente) - changed to TomaDeCorriente_0.
+[2019.07.06-19.47.34:841][605]LogBlueprint: Warning: [Compiler TomaDeCorriente1Entrada] [2139.35] Compile of TomaDeCorriente1Entrada failed. 1 Fatal Issue(s) 2 Warning(s) [in 45 ms] (/Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente1Entrada.TomaDeCorriente1Entrada)
+[2019.07.06-19.47.34:855][605]BlueprintLog: New page: Compile TomaDeCorriente1Entrada
+[2019.07.06-19.47.34:857][605]LogBlueprint: Warning: [Compiler TomaDeCorriente1Entrada] Found a member variable with a conflicting name (Enchufe) - changed to Enchufe_0.
+[2019.07.06-19.47.34:884][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.34:885][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.34:886][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.34:888][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.34:889][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.34:891][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.35:310][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.35:310][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.35:310][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.35:313][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.35:313][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.35:313][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.35:316][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.35:316][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.35:317][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.35:325][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.35:326][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.35:327][605]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.35:329][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.35:330][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.35:331][605]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.35:336][605]LogBlueprint: Warning: [Compiler TomaDeCorriente1Entrada] [2139.84] Compile of TomaDeCorriente1Entrada successful, but with 1 Warning(s) [in 481 ms] (/Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente1Entrada.TomaDeCorriente1Entrada)
+[2019.07.06-19.47.36:639][675]Cmd: TRANSACTION UNDO
+[2019.07.06-19.47.36:639][675]LogEditorTransaction: Undo Rename Variable
+[2019.07.06-19.47.36:641][675]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.36:641][675]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.36:642][675]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.36:642][675]PIE: Warning: AttachTo: '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente2Entradas"), cannot attach '/Game/ModernKitchen/Maps/KitchenScene.KitchenScene:PersistentLevel.TomaDeCorriente_2.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.42:132][985]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01' which is static to it. Aborting.
+[2019.07.06-19.47.42:133][985]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada02' which is static to it. Aborting.
+[2019.07.06-19.47.42:133][985]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.44:744][128]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.07.06-19.47.49:329][305]LogSlate: Window 'Reparent Blueprint' being destroyed
+[2019.07.06-19.47.49:338][305]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/VirtualRealityBP/Blueprints/Electrodomestico/TomaDeCorriente1Entrada.TomaDeCorriente1Entrada from TomaDeCorriente2Entradas_C to TomaDeCorrientePadre_C...
+[2019.07.06-19.47.49:339][305]BlueprintLog: New page: Compile TomaDeCorriente1Entrada
+[2019.07.06-19.47.49:352][305]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.49:356][305]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.49:781][305]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.49:784][305]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_1.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.49:786][305]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_2.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.49:792][305]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.49:795][305]PIE: Warning: AttachTo: '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_2.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_15:PersistentLevel.TomaDeCorriente1Entrada_C_2.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.47.49:845][305]PIE: Warning: AttachTo: '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.DefaultSceneRoot' is not static  (in blueprint "TomaDeCorriente1Entrada"), cannot attach '/Engine/Transient.World_17:PersistentLevel.TomaDeCorriente1Entrada_C_0.Entrada01_0' which is static to it. Aborting.
+[2019.07.06-19.48.00:328][919]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.06-19.48.03:111][ 38]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.07.06-19.48.03:141][ 38]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
