@@ -4158,3 +4158,418 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.07.12-20.18.38:453][664]LogEditorActor: Deleted Actor: StaticMeshActor
 [2019.07.12-20.18.38:486][664]LogEditorActor: Deleted 1 Actors (0.055 secs)
 [2019.07.12-20.18.56:666][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.07.12-20.24.30:147][728]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ComponentesNuevos_Auto6E15BF578466594FC23A322BCE1AB073F.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Autosaves/Game/ModernKitchen/Maps/ComponentesNuevos_Auto6.umap'
+[2019.07.12-20.24.30:156][728]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ModernKitchen/Maps/ComponentesNuevos' took 1.001
+[2019.07.12-20.24.30:156][728]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.001
+[2019.07.12-20.38.15:392][376]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ComponentesNuevos246AF8C4440AA81BE99B04AF78AC986D.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/ComponentesNuevos.umap'
+[2019.07.12-20.38.16:260][376]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/ComponentesNuevos_BuiltData1BED1B114F98B0195DB2C18AB2EBC710.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/ComponentesNuevos_BuiltData.uasset'
+[2019.07.12-20.38.20:220][525]LogSlate: Window 'Save Content' being destroyed
+[2019.07.12-20.38.21:002][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/blinn34E4D3E9F403E719687E0B59A4787F4EE.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/blinn3.uasset'
+[2019.07.12-20.38.21:290][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_blinn3_BaseColor39A6F8D64FBCD52F540B8A8687682244.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_blinn3_BaseColor.uasset'
+[2019.07.12-20.38.21:538][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_blinn3_HeightD6EEF5CC4F02455CFB910781EC6B51C4.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_blinn3_Height.uasset'
+[2019.07.12-20.38.21:790][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_blinn3_Metallic9BD08EE945EB5F1539A58FB978F9298D.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_blinn3_Metallic.uasset'
+[2019.07.12-20.38.22:150][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_blinn3_NormalC83B15274405DE43F98B60B52E0C4E45.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_blinn3_Normal.uasset'
+[2019.07.12-20.38.22:451][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_blinn3_Roughness4F25733845835BA50DD5DCA8E01279C4.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_blinn3_Roughness.uasset'
+[2019.07.12-20.38.22:745][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert1_BaseColor2F253C8348B0A81437D8E9973AAFE207.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert1_BaseColor.uasset'
+[2019.07.12-20.38.22:989][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert1_Height8194DC4A4F958658E7F540819212E62B.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert1_Height.uasset'
+[2019.07.12-20.38.23:212][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert1_Metallic951E2C7D42FA422F6C78A4AA5194D26B.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert1_Metallic.uasset'
+[2019.07.12-20.38.23:491][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert1_Normal412862574C44722B7E3816BA329083B9.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert1_Normal.uasset'
+[2019.07.12-20.38.23:734][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert1_Roughness7C5012F844BC3C10EF54B2BE7818FAEE.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert1_Roughness.uasset'
+[2019.07.12-20.38.24:012][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert2_BaseColor66981D074EFEB47394C8EDB9BA4EF9AE.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert2_BaseColor.uasset'
+[2019.07.12-20.38.24:279][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert2_Height6E8402DB439CE1B9FB6229A52F8F0ECD.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert2_Height.uasset'
+[2019.07.12-20.38.24:553][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert2_Metallic4024585A481B2A19B88596ACE5635EAA.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert2_Metallic.uasset'
+[2019.07.12-20.38.24:890][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert2_Normal67A7C4D74E0E5187BEAC029ABCE2CFA7.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert2_Normal.uasset'
+[2019.07.12-20.38.25:163][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/bocina_lambert2_RoughnessBBE742DD4934AA1F31A400987109B20D.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/bocina_lambert2_Roughness.uasset'
+[2019.07.12-20.38.25:420][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lambert13122A2544A7F707BE34C649C0EB1346F.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/lambert1.uasset'
+[2019.07.12-20.38.25:643][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lambert23339A8ED4039435B265C77920CB49A40.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Bocina/lambert2.uasset'
+[2019.07.12-20.38.25:878][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/BOTONESD240069D42D64283523BADBA52DB2E97.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/BOTONES.uasset'
+[2019.07.12-20.38.26:127][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/CARCASAD47C3BDD43C46FEC704DF58B9150BDAB.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/CARCASA.uasset'
+[2019.07.12-20.38.26:365][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_pasted__pasted__pasted__pCy1ACC835344DC0C58C64AF3B6CCEF7B5F.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_pasted__pasted__pasted__pCylinder1.uasset'
+[2019.07.12-20.38.26:603][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_pasted__pasted__pCylinder1349FD1CF48702EBA7FF977861C13ED2B.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_pasted__pasted__pCylinder1.uasset'
+[2019.07.12-20.38.26:871][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_pasted__pasted__pCylinder1_013E6F6A4184C6DB43E79CAC7FA8C8A4.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_pasted__pasted__pCylinder1_1.uasset'
+[2019.07.12-20.38.27:098][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_pasted__pasted__pCylinder1_099FDD074915193B308586A332BF818D.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_pasted__pasted__pCylinder1_2.uasset'
+[2019.07.12-20.38.27:327][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_pasted__pCylinder11A95B81D4B25542636D6508C917DA55A.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_pasted__pCylinder1.uasset'
+[2019.07.12-20.38.27:553][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_pCylinder1541116DB43B699E561D057B79E217B28.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_pCylinder1.uasset'
+[2019.07.12-20.38.27:799][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_polySurface1CF4C224E4E5C617735DFC783BB2F5ED8.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_polySurface1.uasset'
+[2019.07.12-20.38.28:039][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_polySurface2D0288B8D4806EC4231DEEABACF9E66B7.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/home_polySurface2.uasset'
+[2019.07.12-20.38.28:276][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/MALLA86198E5B4D38AF5449B2F8AE1E25365C.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/MALLA.uasset'
+[2019.07.12-20.38.28:566][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_BOTONES_BaseColor056E427248B46BFC5CF344A107324CAB.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_BOTONES_BaseColor.uasset'
+[2019.07.12-20.38.28:840][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_BOTONES_NormalE584D5FB40674A89FF55478827E7ADF2.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_BOTONES_Normal.uasset'
+[2019.07.12-20.38.29:114][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_BOTONES_OcclusionRoughnessM3D217046400803F2C4BB178F652637F0.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_BOTONES_OcclusionRoughnessMetallic.uasset'
+[2019.07.12-20.38.29:438][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_CARCASA_BaseColor01169BFC4FE56111D5C2D0B8754311C5.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_CARCASA_BaseColor.uasset'
+[2019.07.12-20.38.29:880][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_CARCASA_NormalBF5E9FF1491BF6B1988D88A5B459F054.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_CARCASA_Normal.uasset'
+[2019.07.12-20.38.30:288][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_CARCASA_OcclusionRoughnessM8F341F244C5081E40422A8BC697A69DF.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_CARCASA_OcclusionRoughnessMetallic.uasset'
+[2019.07.12-20.38.30:640][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_MALLA_BaseColor3DA6D64B4DCAC3ED1E03539D951D664F.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_MALLA_BaseColor.uasset'
+[2019.07.12-20.38.31:095][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_MALLA_NormalE40D0E6C4F46F6B247D520A5982FE93A.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_MALLA_Normal.uasset'
+[2019.07.12-20.38.31:496][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/home_MALLA_OcclusionRoughnessMet7DF536C148405929D4F0E38F270F6A30.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/Hometheather/Texturas/home_MALLA_OcclusionRoughnessMetallic.uasset'
+[2019.07.12-20.38.31:763][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/awaAB65BCEA404990E73A111C84790A838D.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/awa.uasset'
+[2019.07.12-20.38.32:015][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadoraCDCCC27540BCA0FDE388C3839BDD4AAB.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora.uasset'
+[2019.07.12-20.38.32:308][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_awa_BaseColor71D9CDAD4F551A51C46DB081E0E0CD49.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_awa_BaseColor.uasset'
+[2019.07.12-20.38.32:560][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_awa_Height60D10B9140B7AED267100F9D862D70FC.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_awa_Height.uasset'
+[2019.07.12-20.38.32:832][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_awa_MetallicB4D658E8452DB55257E0AAAE33085C10.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_awa_Metallic.uasset'
+[2019.07.12-20.38.33:104][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_awa_Normal480D346C45DA107431EF10BFC50200E9.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_awa_Normal.uasset'
+[2019.07.12-20.38.33:326][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_awa_Roughness747199674AAB02946AE87C9C3A5D3C40.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_awa_Roughness.uasset'
+[2019.07.12-20.38.33:599][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_blinn4_BaseColor193802144FDAB7EA8C5727BEED55E9F3.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_blinn4_BaseColor.uasset'
+[2019.07.12-20.38.33:855][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_blinn4_HeightADD9FEA94BB9ED64640B26BD6FDDFF11.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_blinn4_Height.uasset'
+[2019.07.12-20.38.34:090][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_blinn4_MetallicED68F9F5400DB1CA66E028A4E188029C.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_blinn4_Metallic.uasset'
+[2019.07.12-20.38.34:397][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_blinn4_Normal401392064418583D3A1AC6A5C081C573.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_blinn4_Normal.uasset'
+[2019.07.12-20.38.34:657][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_blinn4_RoughnessD3C4F0BA4ABDB1D72D797E914317A303.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_blinn4_Roughness.uasset'
+[2019.07.12-20.38.35:060][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert1_BaseColor32084402491946948A29AABD843891B8.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert1_BaseColor.uasset'
+[2019.07.12-20.38.35:448][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert1_Height259900264557F3FA9655E2AAD7BCF2E8.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert1_Height.uasset'
+[2019.07.12-20.38.35:772][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert1_Metallic6A4D74E0480DE742C67440A5C194F5A9.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert1_Metallic.uasset'
+[2019.07.12-20.38.36:250][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert1_NormalD67449C44A18214631882594E330F985.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert1_Normal.uasset'
+[2019.07.12-20.38.36:616][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert1_RoughnessB39C92FF44AE9F7823960FB00C98D257.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert1_Roughness.uasset'
+[2019.07.12-20.38.37:064][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert3_BaseColor12F0F0D344913CC3CF7CCE96D9A6BB95.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert3_BaseColor.uasset'
+[2019.07.12-20.38.37:383][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert3_HeightCEA53BA3480F7A394BDCF8A6D0A3DC73.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert3_Height.uasset'
+[2019.07.12-20.38.37:664][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert3_MetallicF429E5B146B0D5B9EBFD7A98C789E1C3.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert3_Metallic.uasset'
+[2019.07.12-20.38.38:090][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert3_NormalD13C5BF1409F19B56D76B69E2F8D5D56.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert3_Normal.uasset'
+[2019.07.12-20.38.38:417][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_lambert3_Roughness0876346E49844B72BBD2F5AB27748F71.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_lambert3_Roughness.uasset'
+[2019.07.12-20.38.38:794][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_patas_BaseColor16F043A14EAA7353AE4F63A96D85C600.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_patas_BaseColor.uasset'
+[2019.07.12-20.38.39:132][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_patas_Height386DAC594AEACAF92767B982BA8AD522.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_patas_Height.uasset'
+[2019.07.12-20.38.39:392][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_patas_MetallicFD3464EF4432F6F25019D38D3EDAFF16.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_patas_Metallic.uasset'
+[2019.07.12-20.38.39:748][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_patas_NormalDC84D8B248FC52A9A738859A142F66FB.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_patas_Normal.uasset'
+[2019.07.12-20.38.40:085][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/lavadora_patas_RoughnessEC8945C347336C3DE16C9FB028484B9F.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/lavadora/lavadora_patas_Roughness.uasset'
+[2019.07.12-20.38.40:355][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_polySurface1E0BAD01546431B2FF25DAEAAB8AE3C30.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Monitor_polySurface1.uasset'
+[2019.07.12-20.38.40:592][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_polySurface251B17C2641149793417E428EF0ADC81B.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Monitor_polySurface2.uasset'
+[2019.07.12-20.38.40:900][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_Panalla_BaseColor668C74334E67A89949AB88AC1BB9CC97.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Textures/Monitor_Panalla_BaseColor.uasset'
+[2019.07.12-20.38.41:178][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_Panalla_NormalA4020DDB4242D3379F0E35A256A77E63.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Textures/Monitor_Panalla_Normal.uasset'
+[2019.07.12-20.38.41:518][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_Panalla_OcclusionRoughne6948B6664249640765B725ACD63A5089.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Textures/Monitor_Panalla_OcclusionRoughnessMetallic.uasset'
+[2019.07.12-20.38.41:863][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_PantallaMarco_BaseColorC3819EEE4509FFA14823B88C63DDB224.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Textures/Monitor_PantallaMarco_BaseColor.uasset'
+[2019.07.12-20.38.42:143][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_PantallaMarco_Normal0DB3062D4525E4B07C923192C294F294.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Textures/Monitor_PantallaMarco_Normal.uasset'
+[2019.07.12-20.38.42:452][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/Monitor_PantallaMarco_OcclusionR09D9F92B49907BB4C01820A6C039E95F.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/MonitorViejo/Textures/Monitor_PantallaMarco_OcclusionRoughnessMetallic.uasset'
+[2019.07.12-20.38.42:697][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_polySurface11F86A63F44A82428DDE1DF90B9D4D60A.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/TB_polySurface1.uasset'
+[2019.07.12-20.38.42:935][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_polySurface23A22AC364EFE689BE602CE8DA88677C0.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/TB_polySurface2.uasset'
+[2019.07.12-20.38.43:216][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_Pantalla_BaseColor658357D54A1486A2A67D0B9C269C8877.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/Textures/TB_Pantalla_BaseColor.uasset'
+[2019.07.12-20.38.43:477][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_Pantalla_Normal6B36456449886E73F71A82813CE2D5D8.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/Textures/TB_Pantalla_Normal.uasset'
+[2019.07.12-20.38.43:751][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_Pantalla_OcclusionRoughnessMe4B3E83D4479463231C1ACA8EAB7D53CD.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/Textures/TB_Pantalla_OcclusionRoughnessMetallic.uasset'
+[2019.07.12-20.38.44:019][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_Platico_BaseColor65B4059644F78ED53D97A48F7EA91110.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/Textures/TB_Platico_BaseColor.uasset'
+[2019.07.12-20.38.44:288][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_Platico_Normal5F5BE7914C7868848A0CA2AD46CF3490.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/Textures/TB_Platico_Normal.uasset'
+[2019.07.12-20.38.44:558][525]LogSavePackage: Moving '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Saved/TB_Platico_OcclusionRoughnessMet3E62C62649571F877F22D1B6BB4919C9.tmp' to '../../../../../../Users/anguz/Documents/GitHub/CFE_CasaRV/CasaCFE/Content/ModernKitchen/StaticMeshes/Meshes/TV/Textures/TB_Platico_OcclusionRoughnessMetallic.uasset'
+[2019.07.12-20.38.45:144][525]LogSlate: Window 'CasaRV_CFE - Unreal Editor' being destroyed
+[2019.07.12-20.38.46:483][526]Cmd: QUIT_EDITOR
+[2019.07.12-20.38.46:592][526]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.07.12-20.38.46:630][526]LogExit: Preparing to exit.
+[2019.07.12-20.38.47:549][526]LogExit: Editor shut down
+[2019.07.12-20.38.47:557][526]LogExit: Transaction tracking system shut down
+[2019.07.12-20.38.50:848][526]LogExit: Object subsystem successfully closed.
+[2019.07.12-20.38.51:029][526]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.07.12-20.38.51:062][526]LogD3D11RHI: Shutdown
+[2019.07.12-20.38.51:062][526]LogD3D11RHI: CleanupD3DDevice
+[2019.07.12-20.38.51:173][526]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.07.12-20.38.51:317][526]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (628)
+[2019.07.12-20.38.51:317][526]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (626)
+[2019.07.12-20.38.51:317][526]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (624)
+[2019.07.12-20.38.51:319][526]LogModuleManager: Shutting down and abandoning module SceneOutliner (622)
+[2019.07.12-20.38.51:320][526]LogModuleManager: Shutting down and abandoning module AddContentDialog (620)
+[2019.07.12-20.38.51:397][526]LogModuleManager: Shutting down and abandoning module WidgetCarousel (619)
+[2019.07.12-20.38.51:397][526]LogModuleManager: Shutting down and abandoning module EditorWidgets (616)
+[2019.07.12-20.38.51:397][526]LogModuleManager: Shutting down and abandoning module CollectionManager (614)
+[2019.07.12-20.38.51:400][526]LogModuleManager: Shutting down and abandoning module MeshBuilder (612)
+[2019.07.12-20.38.51:400][526]LogModuleManager: Shutting down and abandoning module StatsViewer (610)
+[2019.07.12-20.38.51:403][526]LogModuleManager: Shutting down and abandoning module FoliageEdit (608)
+[2019.07.12-20.38.51:403][526]LogModuleManager: Shutting down and abandoning module LandscapeEditor (606)
+[2019.07.12-20.38.51:408][526]LogModuleManager: Shutting down and abandoning module MeshPaintMode (604)
+[2019.07.12-20.38.51:409][526]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (602)
+[2019.07.12-20.38.51:409][526]LogModuleManager: Shutting down and abandoning module ActorPickerMode (600)
+[2019.07.12-20.38.51:409][526]LogModuleManager: Shutting down and abandoning module GeometryMode (598)
+[2019.07.12-20.38.51:409][526]LogModuleManager: Shutting down and abandoning module TextureAlignMode (596)
+[2019.07.12-20.38.51:409][526]LogModuleManager: Shutting down and abandoning module BspMode (594)
+[2019.07.12-20.38.51:410][526]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (592)
+[2019.07.12-20.38.51:412][526]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (590)
+[2019.07.12-20.38.51:412][526]LogModuleManager: Shutting down and abandoning module AutomationWorker (588)
+[2019.07.12-20.38.51:413][526]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (586)
+[2019.07.12-20.38.51:414][526]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (584)
+[2019.07.12-20.38.51:416][526]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (582)
+[2019.07.12-20.38.51:424][526]LogModuleManager: Shutting down and abandoning module PlacementMode (581)
+[2019.07.12-20.38.51:424][526]LogModuleManager: Shutting down and abandoning module MaterialEditor (580)
+[2019.07.12-20.38.51:425][526]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (576)
+[2019.07.12-20.38.51:425][526]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (574)
+[2019.07.12-20.38.51:425][526]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (572)
+[2019.07.12-20.38.51:425][526]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (570)
+[2019.07.12-20.38.51:425][526]LogModuleManager: Shutting down and abandoning module WebMMedia (568)
+[2019.07.12-20.38.51:425][526]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2019.07.12-20.38.51:427][526]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (564)
+[2019.07.12-20.38.51:432][526]LogModuleManager: Shutting down and abandoning module SequenceRecorder (563)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (560)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (558)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (556)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (554)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (552)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (550)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (548)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (546)
+[2019.07.12-20.38.51:433][526]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (544)
+[2019.07.12-20.38.51:434][526]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (542)
+[2019.07.12-20.38.51:434][526]LogModuleManager: Shutting down and abandoning module CharacterAI (540)
+[2019.07.12-20.38.51:434][526]LogModuleManager: Shutting down and abandoning module SmartSnapping (538)
+[2019.07.12-20.38.51:434][526]LogModuleManager: Shutting down and abandoning module SessionServices (536)
+[2019.07.12-20.38.51:434][526]LogModuleManager: Shutting down and abandoning module ViewportSnapping (534)
+[2019.07.12-20.38.51:435][526]LogModuleManager: Shutting down and abandoning module ViewportInteraction (532)
+[2019.07.12-20.38.51:435][526]LogModuleManager: Shutting down and abandoning module ClothPainter (530)
+[2019.07.12-20.38.51:438][526]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (529)
+[2019.07.12-20.38.51:439][526]LogModuleManager: Shutting down and abandoning module LogVisualizer (526)
+[2019.07.12-20.38.51:445][526]LogModuleManager: Shutting down and abandoning module IntroTutorials (524)
+[2019.07.12-20.38.51:448][526]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (523)
+[2019.07.12-20.38.51:449][526]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (520)
+[2019.07.12-20.38.51:449][526]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (518)
+[2019.07.12-20.38.51:450][526]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (516)
+[2019.07.12-20.38.51:450][526]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (514)
+[2019.07.12-20.38.51:451][526]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (513)
+[2019.07.12-20.38.52:573][526]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (510)
+[2019.07.12-20.38.52:574][526]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (508)
+[2019.07.12-20.38.52:574][526]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (506)
+[2019.07.12-20.38.52:574][526]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (504)
+[2019.07.12-20.38.52:574][526]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (502)
+[2019.07.12-20.38.52:575][526]LogModuleManager: Shutting down and abandoning module InputBindingEditor (500)
+[2019.07.12-20.38.52:576][526]LogModuleManager: Shutting down and abandoning module MergeActors (498)
+[2019.07.12-20.38.52:578][526]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (496)
+[2019.07.12-20.38.52:581][526]LogModuleManager: Shutting down and abandoning module LocalizationService (495)
+[2019.07.12-20.38.52:582][526]LogModuleManager: Shutting down and abandoning module HardwareTargeting (492)
+[2019.07.12-20.38.52:583][526]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (490)
+[2019.07.12-20.38.52:583][526]LogModuleManager: Shutting down and abandoning module UndoHistory (488)
+[2019.07.12-20.38.52:584][526]LogModuleManager: Shutting down and abandoning module XmlParser (486)
+[2019.07.12-20.38.52:586][526]LogModuleManager: Shutting down and abandoning module Blutility (484)
+[2019.07.12-20.38.52:587][526]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (482)
+[2019.07.12-20.38.52:588][526]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (481)
+[2019.07.12-20.38.52:592][526]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (478)
+[2019.07.12-20.38.52:593][526]LogModuleManager: Shutting down and abandoning module SettingsEditor (476)
+[2019.07.12-20.38.52:595][526]LogModuleManager: Shutting down and abandoning module ProjectLauncher (474)
+[2019.07.12-20.38.52:597][526]LogModuleManager: Shutting down and abandoning module SessionFrontend (472)
+[2019.07.12-20.38.52:600][526]LogModuleManager: Shutting down and abandoning module ProfilerClient (470)
+[2019.07.12-20.38.52:601][526]LogModuleManager: Shutting down and abandoning module DeviceManager (468)
+[2019.07.12-20.38.52:602][526]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (467)
+[2019.07.12-20.38.52:650][526]LogModuleManager: Shutting down and abandoning module AutomationController (464)
+[2019.07.12-20.38.52:653][526]LogModuleManager: Shutting down and abandoning module AutomationWindow (462)
+[2019.07.12-20.38.52:654][526]LogModuleManager: Shutting down and abandoning module Layers (460)
+[2019.07.12-20.38.52:659][526]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (458)
+[2019.07.12-20.38.52:659][526]LogModuleManager: Shutting down and abandoning module DetailCustomizations (456)
+[2019.07.12-20.38.52:659][526]LogModuleManager: Shutting down and abandoning module PackagesDialog (454)
+[2019.07.12-20.38.52:663][526]LogModuleManager: Shutting down and abandoning module Persona (452)
+[2019.07.12-20.38.52:667][526]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (451)
+[2019.07.12-20.38.52:667][526]LogModuleManager: Shutting down and abandoning module AnimGraph (449)
+[2019.07.12-20.38.52:668][526]LogModuleManager: Shutting down and abandoning module Kismet (446)
+[2019.07.12-20.38.52:682][526]LogModuleManager: Shutting down and abandoning module GraphEditor (444)
+[2019.07.12-20.38.52:683][526]LogModuleManager: Shutting down and abandoning module ClassViewer (442)
+[2019.07.12-20.38.52:686][526]LogModuleManager: Shutting down and abandoning module Toolbox (440)
+[2019.07.12-20.38.52:686][526]LogModuleManager: Shutting down and abandoning module ModuleUI (438)
+[2019.07.12-20.38.52:687][526]LogModuleManager: Shutting down and abandoning module MovieSceneTools (436)
+[2019.07.12-20.38.52:690][526]LogModuleManager: Shutting down and abandoning module OutputLog (434)
+[2019.07.12-20.38.52:691][526]LogModuleManager: Shutting down and abandoning module GammaUI (432)
+[2019.07.12-20.38.52:691][526]LogModuleManager: Shutting down and abandoning module Documentation (430)
+[2019.07.12-20.38.52:692][526]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (428)
+[2019.07.12-20.38.52:692][526]LogModuleManager: Shutting down and abandoning module MovieScene (426)
+[2019.07.12-20.38.52:695][526]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (424)
+[2019.07.12-20.38.52:695][526]LogModuleManager: Shutting down and abandoning module LauncherPlatform (422)
+[2019.07.12-20.38.52:695][526]LogModuleManager: Shutting down and abandoning module AnalyticsET (420)
+[2019.07.12-20.38.52:695][526]LogModuleManager: Shutting down and abandoning module PortalServices (418)
+[2019.07.12-20.38.52:695][526]LogModuleManager: Shutting down and abandoning module PortalRpc (416)
+[2019.07.12-20.38.52:695][526]LogModuleManager: Shutting down and abandoning module MessagingRpc (414)
+[2019.07.12-20.38.52:695][526]LogModuleManager: Shutting down and abandoning module AIModule (412)
+[2019.07.12-20.38.52:701][526]LogModuleManager: Shutting down and abandoning module GameplayDebugger (411)
+[2019.07.12-20.38.52:702][526]LogModuleManager: Shutting down and abandoning module AITestSuite (409)
+[2019.07.12-20.38.52:703][526]LogModuleManager: Shutting down and abandoning module NavigationSystem (407)
+[2019.07.12-20.38.52:703][526]LogModuleManager: Shutting down and abandoning module DesktopPlatform (404)
+[2019.07.12-20.38.52:704][526]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (402)
+[2019.07.12-20.38.52:723][526]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2019.07.12-20.38.52:845][526]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2019.07.12-20.38.52:848][526]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2019.07.12-20.38.52:848][526]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2019.07.12-20.38.52:848][526]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2019.07.12-20.38.52:849][526]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2019.07.12-20.38.52:849][526]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2019.07.12-20.38.52:849][526]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2019.07.12-20.38.52:850][526]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2019.07.12-20.38.52:850][526]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2019.07.12-20.38.52:850][526]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2019.07.12-20.38.52:851][526]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2019.07.12-20.38.52:851][526]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2019.07.12-20.38.52:851][526]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2019.07.12-20.38.52:851][526]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2019.07.12-20.38.52:854][526]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2019.07.12-20.38.52:854][526]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2019.07.12-20.38.52:854][526]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2019.07.12-20.38.52:861][526]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2019.07.12-20.38.52:861][526]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2019.07.12-20.38.52:861][526]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2019.07.12-20.38.52:861][526]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (354)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module VariantManagerContent (342)
+[2019.07.12-20.38.52:862][526]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (340)
+[2019.07.12-20.38.52:863][526]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2019.07.12-20.38.52:863][526]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2019.07.12-20.38.52:867][526]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2019.07.12-20.38.52:868][526]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2019.07.12-20.38.52:868][526]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2019.07.12-20.38.52:869][526]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2019.07.12-20.38.52:870][526]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2019.07.12-20.38.52:870][526]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2019.07.12-20.38.52:871][526]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2019.07.12-20.38.52:871][526]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2019.07.12-20.38.52:871][526]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2019.07.12-20.38.52:873][526]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2019.07.12-20.38.52:876][526]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2019.07.12-20.38.52:878][526]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2019.07.12-20.38.52:878][526]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2019.07.12-20.38.52:879][526]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2019.07.12-20.38.52:880][526]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2019.07.12-20.38.52:880][526]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2019.07.12-20.38.52:880][526]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2019.07.12-20.38.52:880][526]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2019.07.12-20.38.52:881][526]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2019.07.12-20.38.52:884][526]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2019.07.12-20.38.52:885][526]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2019.07.12-20.38.52:885][526]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2019.07.12-20.38.52:886][526]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2019.07.12-20.38.52:886][526]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2019.07.12-20.38.52:887][526]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2019.07.12-20.38.52:887][526]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2019.07.12-20.38.52:887][526]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2019.07.12-20.38.52:988][526]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2019.07.12-20.38.53:089][526]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2019.07.12-20.38.53:089][526]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2019.07.12-20.38.53:091][526]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2019.07.12-20.38.53:091][526]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2019.07.12-20.38.53:091][526]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2019.07.12-20.38.53:092][526]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2019.07.12-20.38.53:095][526]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2019.07.12-20.38.53:104][526]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2019.07.12-20.38.53:105][526]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2019.07.12-20.38.53:106][526]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2019.07.12-20.38.53:108][526]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2019.07.12-20.38.53:109][526]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2019.07.12-20.38.53:120][526]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2019.07.12-20.38.53:121][526]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.07.12-20.38.53:121][526]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2019.07.12-20.38.53:121][526]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2019.07.12-20.38.53:122][526]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2019.07.12-20.38.53:123][526]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2019.07.12-20.38.53:123][526]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2019.07.12-20.38.53:125][526]LogModuleManager: Shutting down and abandoning module Media (241)
+[2019.07.12-20.38.53:132][526]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2019.07.12-20.38.53:133][526]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2019.07.12-20.38.53:133][526]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2019.07.12-20.38.53:134][526]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2019.07.12-20.38.53:135][526]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2019.07.12-20.38.53:135][526]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2019.07.12-20.38.53:135][526]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2019.07.12-20.38.53:136][526]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2019.07.12-20.38.53:137][526]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2019.07.12-20.38.53:137][526]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2019.07.12-20.38.53:139][526]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2019.07.12-20.38.53:140][526]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2019.07.12-20.38.53:141][526]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2019.07.12-20.38.53:144][526]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2019.07.12-20.38.53:144][526]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2019.07.12-20.38.53:146][526]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2019.07.12-20.38.53:150][526]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2019.07.12-20.38.53:150][526]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2019.07.12-20.38.53:154][526]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2019.07.12-20.38.53:154][526]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2019.07.12-20.38.53:164][526]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.07.12-20.38.53:164][526]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.07.12-20.38.53:165][526]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.07.12-20.38.53:165][526]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.07.12-20.38.53:165][526]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.07.12-20.38.53:166][526]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.07.12-20.38.53:166][526]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2019.07.12-20.38.53:166][526]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2019.07.12-20.38.53:166][526]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2019.07.12-20.38.53:167][526]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2019.07.12-20.38.53:169][526]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2019.07.12-20.38.53:169][526]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2019.07.12-20.38.53:170][526]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2019.07.12-20.38.53:174][526]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2019.07.12-20.38.53:175][526]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2019.07.12-20.38.53:176][526]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2019.07.12-20.38.53:177][526]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2019.07.12-20.38.53:181][526]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2019.07.12-20.38.53:261][526]LogDerivedDataCache: Shutdown
+[2019.07.12-20.38.53:261][526]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2019.07.12-20.38.53:262][526]LogXGEController: Cleaning working directory: C:/Users/anguz/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.07.12-20.38.53:266][526]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2019.07.12-20.38.53:268][526]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2019.07.12-20.38.53:269][526]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2019.07.12-20.38.53:271][526]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2019.07.12-20.38.53:272][526]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2019.07.12-20.38.53:272][526]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2019.07.12-20.38.53:274][526]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2019.07.12-20.38.53:274][526]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2019.07.12-20.38.53:275][526]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2019.07.12-20.38.53:275][526]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2019.07.12-20.38.53:277][526]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2019.07.12-20.38.53:278][526]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2019.07.12-20.38.53:278][526]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2019.07.12-20.38.53:279][526]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2019.07.12-20.38.53:280][526]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2019.07.12-20.38.53:280][526]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2019.07.12-20.38.53:280][526]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2019.07.12-20.38.53:358][526]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2019.07.12-20.38.53:358][526]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2019.07.12-20.38.53:358][526]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2019.07.12-20.38.53:359][526]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2019.07.12-20.38.53:359][526]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2019.07.12-20.38.53:375][526]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2019.07.12-20.38.53:375][526]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2019.07.12-20.38.53:386][526]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2019.07.12-20.38.53:387][526]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2019.07.12-20.38.53:486][526]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2019.07.12-20.38.53:486][526]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2019.07.12-20.38.53:487][526]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2019.07.12-20.38.53:487][526]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2019.07.12-20.38.53:488][526]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2019.07.12-20.38.53:488][526]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2019.07.12-20.38.53:488][526]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2019.07.12-20.38.53:488][526]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2019.07.12-20.38.53:489][526]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2019.07.12-20.38.53:489][526]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2019.07.12-20.38.53:490][526]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2019.07.12-20.38.53:491][526]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2019.07.12-20.38.53:491][526]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2019.07.12-20.38.53:491][526]LogHMD: Freeing OpenVRDLLHandle.
+[2019.07.12-20.38.53:492][526]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2019.07.12-20.38.53:492][526]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2019.07.12-20.38.53:492][526]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2019.07.12-20.38.53:492][526]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2019.07.12-20.38.53:492][526]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2019.07.12-20.38.53:499][526]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2019.07.12-20.38.53:501][526]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2019.07.12-20.38.53:535][526]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2019.07.12-20.38.53:536][526]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.07.12-20.38.53:536][526]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5283A7EA-4600-60CC-4280-F38D2B1F2531%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.2-4753647%2B%2B%2BUE4%2BRelease-4.21&UserID=ef694aed4682fef41e620887484757ef%7C5d3431ada93e42c2a072fd6f0c10d1f0%7Ce2ae6f1e-8de1-4994-bf84-079348da7030&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.07.12-20.38.53:567][526]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2019.07.12-20.38.53:586][526]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2019.07.12-20.38.53:586][526]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2019.07.12-20.38.53:586][526]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2019.07.12-20.38.53:587][526]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2019.07.12-20.38.53:587][526]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2019.07.12-20.38.53:589][526]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2019.07.12-20.38.53:590][526]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2019.07.12-20.38.53:593][526]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.07.12-20.38.53:595][526]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2019.07.12-20.38.53:597][526]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2019.07.12-20.38.53:599][526]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2019.07.12-20.38.53:601][526]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2019.07.12-20.38.53:605][526]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2019.07.12-20.38.53:607][526]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2019.07.12-20.38.53:607][526]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2019.07.12-20.38.53:607][526]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2019.07.12-20.38.53:607][526]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2019.07.12-20.38.53:623][526]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2019.07.12-20.38.53:624][526]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2019.07.12-20.38.53:624][526]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2019.07.12-20.38.53:624][526]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2019.07.12-20.38.53:624][526]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2019.07.12-20.38.53:624][526]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2019.07.12-20.38.53:624][526]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2019.07.12-20.38.53:625][526]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2019.07.12-20.38.53:625][526]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2019.07.12-20.38.53:626][526]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2019.07.12-20.38.53:626][526]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2019.07.12-20.38.53:650][526]LogExit: Exiting.
+[2019.07.12-20.38.53:739][526]Log file closed, 07/12/19 15:38:53
