@@ -1,0 +1,1360 @@
+﻿Log file open, 03/13/21 14:43:10
+LogInit: Display: Running engine for game: CasaRV_CFE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.460232
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.44.0
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.13-20.43.11:392][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.13-20.43.11:392][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.13-20.43.11:392][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2021.03.13-20.43.11:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.13-20.43.11:393][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2021.03.13-20.43.11:393][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.13-20.43.11:394][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2021.03.13-20.43.11:394][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2021.03.13-20.43.11:399][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.13-20.43.11:399][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.13-20.43.11:400][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.13-20.43.11:401][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.13-20.43.11:402][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.13-20.43.11:402][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.13-20.43.11:402][  0]LogHAL: Display: Platform has ~ 16 GB [17130356736 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.13-20.43.11:402][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.13-20.43.11:402][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@2] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:0.8]]
+[2021.03.13-20.43.11:402][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@2] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:402][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@2] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:4]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:1024]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.04]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:0.85]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:0.8]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:0.5]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.AOQuality:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:16]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:64]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@2] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.6]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.5]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2021.03.13-20.43.11:403][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Upscale.Quality:2]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:0.8]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:0        ; lower gathering accumulator quality]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:2          ; Max3x3 postfilering method]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:1    ; no background occlusion]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:0      ; no bokeh simulation when scattering]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.04        ; only a maximum of 4% of scattered bokeh]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:0                ; no slight out of focus]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:0                ; faster temporal accumulation]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.012   ; required because of AccumulatorQuality=0]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Applying CVar settings from Section [TextureQuality@2] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:4]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:1]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:800]]
+[2021.03.13-20.43.11:404][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.13-20.43.11:405][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Scalability.ini]
+[2021.03.13-20.43.11:405][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.13-20.43.11:406][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Config/Windows/Engine.ini]
+[2021.03.13-20.43.11:407][  0]LogInit: Computer: LAPTOP-4ORC3IJI
+[2021.03.13-20.43.11:407][  0]LogInit: User: DED108
+[2021.03.13-20.43.11:407][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.03.13-20.43.11:407][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.13-20.43.11:407][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2021.03.13-20.43.11:407][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.13-20.43.11:407][  0]LogMemory: Process Physical Memory: 118.36 MB used, 118.36 MB peak
+[2021.03.13-20.43.11:407][  0]LogMemory: Process Virtual Memory: 122.05 MB used, 122.05 MB peak
+[2021.03.13-20.43.11:407][  0]LogMemory: Physical Memory: 11297.54 MB used,  5039.24 MB free, 16336.78 MB total
+[2021.03.13-20.43.11:407][  0]LogMemory: Virtual Memory: 5206.69 MB used,  134212520.00 MB free, 134217728.00 MB total
+[2021.03.13-20.43.11:420][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.13-20.43.11:535][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.13-20.43.11:537][  0]LogInit: Using OS detected language (es-ES).
+[2021.03.13-20.43.11:537][  0]LogInit: Using OS detected locale (es-MX).
+[2021.03.13-20.43.11:539][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2021.03.13-20.43.11:625][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.13-20.43.11:686][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.13-20.43.11:686][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.13-20.43.11:887][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.13-20.43.11:887][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.13-20.43.11:887][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.13-20.43.11:887][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.13-20.43.11:974][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2021.03.13-20.43.11:974][  0]LogD3D11RHI:       6052/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.13-20.43.11:979][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.13-20.43.11:979][  0]LogD3D11RHI:       0/0/8168 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.13-20.43.11:979][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.13-20.43.11:993][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.13-20.43.11:994][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.13-20.43.11:994][  0]LogWindows: EnumDisplayDevices:
+[2021.03.13-20.43.11:994][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2021.03.13-20.43.11:995][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.03.13-20.43.11:995][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.03.13-20.43.11:996][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2021.03.13-20.43.11:996][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.03.13-20.43.11:996][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2021.03.13-20.43.11:996][  0]LogD3D11RHI:   Driver Version: 456.71 (internal:27.21.14.5671, unified:456.71)
+[2021.03.13-20.43.11:996][  0]LogD3D11RHI:      Driver Date: 9-30-2020
+[2021.03.13-20.43.11:996][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2021.03.13-20.43.12:057][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.13-20.43.12:057][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.13-20.43.12:058][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.13-20.43.12:082][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.13-20.43.12:611][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.13-20.43.12:651][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.13-20.43.12:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.13-20.43.12:688][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.13-20.43.12:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.13-20.43.12:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.13-20.43.12:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.13-20.43.12:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.13-20.43.12:759][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.13-20.43.12:772][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.13-20.43.12:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.13-20.43.12:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.13-20.43.12:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.13-20.43.12:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.13-20.43.12:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.13-20.43.12:867][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.13-20.43.12:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.13-20.43.12:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.13-20.43.12:908][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.13-20.43.12:908][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.13-20.43.12:922][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.13-20.43.13:022][  0]LogShaderCompilers: Guid format shader working directory is -6 characters bigger than the processId version (../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/Intermediate/Shaders/WorkingDirectory/22768/).
+[2021.03.13-20.43.13:022][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/'.
+[2021.03.13-20.43.13:023][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.13-20.43.13:023][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.13-20.43.13:023][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.13-20.43.14:221][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.13-20.43.14:325][  0]LogDerivedDataCache: Loaded boot cache 0.10s 79MB C:/Users/DED108/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.13-20.43.14:325][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/DED108/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.13-20.43.14:325][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.13-20.43.14:325][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.13-20.43.14:325][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.13-20.43.14:325][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.13-20.43.14:346][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.13-20.43.14:346][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.13-20.43.14:346][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.13-20.43.14:348][  0]LogDerivedDataCache: Using Local data cache path C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.13-20.43.14:348][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.13-20.43.14:348][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.13-20.43.14:934][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.13-20.43.14:934][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.13-20.43.14:970][  0]LogAssetRegistry: FAssetRegistry took 0.0036 seconds to start up
+[2021.03.13-20.43.15:342][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.13-20.43.15:597][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.13-20.43.15:597][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.13-20.43.15:597][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.13-20.43.15:597][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.13-20.43.15:597][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.13-20.43.15:620][  0]LogNetVersion: CasaRV_CFE 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 1481573447)
+[2021.03.13-20.43.16:633][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002BAE23B6900), frame # 0
+[2021.03.13-20.43.16:633][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BAE223AAC0), frame # 0
+[2021.03.13-20.43.16:635][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BAE23A6400), frame # 0
+[2021.03.13-20.43.16:932][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.286517 seconds
+[2021.03.13-20.43.16:941][  0]LogUObjectArray: 15913 objects as part of root set at end of initial load.
+[2021.03.13-20.43.16:941][  0]LogUObjectAllocator: 3964304 out of 0 bytes used by permanent object pool.
+[2021.03.13-20.43.16:941][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.13-20.43.17:775][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.13-20.43.17:782][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.13-20.43.17:973][  0]SourceControl: El control de código fuente está desactivado
+[2021.03.13-20.43.17:989][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:989][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.13-20.43.17:989][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:989][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.13-20.43.17:989][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:989][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:990][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.13-20.43.17:995][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:996][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.13-20.43.17:997][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:997][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.13-20.43.17:997][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.17:997][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.13-20.43.18:001][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:001][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.13-20.43.18:001][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:001][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:002][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.13-20.43.18:003][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:003][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.13-20.43.18:016][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:016][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:017][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.13-20.43.18:018][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:018][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.13-20.43.18:018][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.18:018][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.13-20.43.18:428][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.13-20.43.18:457][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.13-20.43.18:457][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.13-20.43.18:578][  0]LogOcInput: OculusInput pre-init called
+[2021.03.13-20.43.18:979][  0]LogEngine: Initializing Engine...
+[2021.03.13-20.43.18:980][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.13-20.43.18:980][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.13-20.43.18:982][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.13-20.43.19:485][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.13-20.43.19:499][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.13-20.43.19:499][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BAE6C4E200), frame # 0
+[2021.03.13-20.43.19:499][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BAE6C9D440), frame # 0
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.13-20.43.19:534][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.13-20.43.19:534][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.13-20.43.19:534][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.13-20.43.19:563][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.13-20.43.19:563][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.13-20.43.19:631][  0]LogAudioMixer: Display: Using Audio Device Audífono de los auriculares con micrófono (HyperX Virtual Surround Sound)
+[2021.03.13-20.43.19:635][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.13-20.43.19:638][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.13-20.43.19:638][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.13-20.43.19:640][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.13-20.43.19:641][  0]LogInit: FAudioDevice initialized.
+[2021.03.13-20.43.19:642][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.13-20.43.19:879][  0]LogDerivedDataCache: Saved boot cache 0.24s 98MB C:/Users/DED108/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.13-20.43.19:889][  0]LogInit: Texture streaming: Enabled
+[2021.03.13-20.43.19:914][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.13-20.43.19:914][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.13-20.43.19:916][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.13-20.43.20:047][  0]LogInit: Transaction tracking system initialized
+[2021.03.13-20.43.20:080][  0]BlueprintLog: New page: Cargar el editor
+[2021.03.13-20.43.20:179][  0]LocalizationService: Localization service is disabled
+[2021.03.13-20.43.20:606][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.13-20.43.20:606][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.13-20.43.20:813][  0]LogFileCache: Scanning file cache for directory 'D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/' took 0.01s
+[2021.03.13-20.43.21:093][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.21:093][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Programs/Git/cmd/git.exe version
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.21:094][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2021.03.13-20.43.21:095][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.21:095][  0]LogWindows: Warning: URL: C:\Users\DED108\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2021.03.13-20.43.21:095][  0]LogWindows: Warning: CreateProc failed: El sistema no puede encontrar el archivo especificado. (0x00000002)
+[2021.03.13-20.43.21:095][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2021.03.13-20.43.21:095][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.127
+[2021.03.13-20.43.21:095][  0]Cmd: MAP LOAD FILE="../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/ModernKitchen/Maps/ComponentesNuevos.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.13-20.43.21:127][  0]LightingResults: New page: Diseñar la iluminación
+[2021.03.13-20.43.21:128][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.13-20.43.21:128][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.13-20.43.21:128][  0]MapCheck: New page: Revisión del mapa
+[2021.03.13-20.43.21:128][  0]LightingResults: New page: Diseñar la iluminación
+[2021.03.13-20.43.21:139][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002BAE6C4E200), frame # 0
+[2021.03.13-20.43.21:139][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002BAE6C9D440), frame # 0
+[2021.03.13-20.43.21:140][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.03.13-20.43.24:658][  0]LogLinker: Warning: Asset '../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/Materials/PP_Outliner_Inst.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.13-20.43.24:678][  0]LogLinker: Warning: Asset '../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/Materials/PP_Outliner_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.13-20.43.24:718][  0]LogLinker: Warning: Asset '../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.13-20.43.24:735][  0]LogLinker: Warning: Asset '../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.13-20.43.24:781][  0]LogLinker: Warning: Asset '../../../../../../Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/Materials/MF_SampleSceneTextureNeighbourUVs.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: a (AutoDXT, 512X512)
+[2021.03.13-20.43.32:759][  0]LogTexture: Display: Building textures: WhiteIsland_Steel_RoughnessAOMetallic (AutoDXT, 2048X2048)
+[2021.03.13-20.43.32:759][  0]LogMaterial: Display: Missing cached shader map for material PP_Outliner_M, compiling. 
+[2021.03.13-20.43.32:860][  0]LogTexture: Display: Building textures: WhiteIsland_Steel_BaseColor (AutoDXT, 2048X2048)
+[2021.03.13-20.43.32:862][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2021.03.13-20.43.32:862][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2021.03.13-20.43.32:862][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.03.13-20.43.32:863][  0]LogTexture: Display: Building textures: WhiteIsland_Steel_Normal (BC5, 2048X2048)
+[2021.03.13-20.43.32:863][  0]LogMaterial: Display: Missing cached shader map for material M_Water_Ocean, compiling. 
+[2021.03.13-20.43.33:182][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 43
+[2021.03.13-20.43.33:182][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 34
+[2021.03.13-20.43.33:182][  0]LogMaterial: Display: Missing cached shader map for material M_Metal_Chrome, compiling. 
+[2021.03.13-20.43.33:221][  0]LogMaterial: Display: Missing cached shader map for material M_Ground_Grass, compiling. 
+[2021.03.13-20.43.33:249][  0]LogTexture: Display: Building textures: FuseBoxWall_SPEC (AutoDXT, 1024X1024)
+[2021.03.13-20.43.33:249][  0]LogMaterial: Display: Missing cached shader map for material M_Concrete_Poured, compiling. 
+[2021.03.13-20.43.33:299][  0]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_Old, compiling. 
+[2021.03.13-20.43.33:731][  0]LogTexture: Display: Building textures: FuseBoxWall_NRM (BC5, 1024X1024)
+[2021.03.13-20.43.33:731][  0]LogTexture: Display: Building textures: FuseBoxWall_Metallic (AutoDXT, 2048X2048)
+[2021.03.13-20.43.33:731][  0]LogMaterial: Display: Missing cached shader map for material M_Brick_Clay_New, compiling. 
+[2021.03.13-20.43.33:779][  0]LogTexture: Display: Building textures: FuseBoxWall_NoAO (AutoDXT, 2048X2048)
+[2021.03.13-20.43.33:779][  0]LogMaterial: Display: Missing cached shader map for material M_Socket, compiling. 
+[2021.03.13-20.43.33:828][  0]LogMaterial: Display: Missing cached shader map for material PotCover_M, compiling. 
+[2021.03.13-20.43.33:893][  0]LogMaterial: Display: Missing cached shader map for material M_WoodFloor_MAT, compiling. 
+[2021.03.13-20.43.33:975][  0]LogMaterial: Display: Missing cached shader map for material CharcoalPaint, compiling. 
+[2021.03.13-20.43.34:015][  0]LogMaterial: Display: Missing cached shader map for material BrushedMetal, compiling. 
+[2021.03.13-20.43.34:070][  0]LogTexture: Display: Building textures: FuseBoxWall (AutoDXT, 2048X2048)
+[2021.03.13-20.43.34:070][  0]LogStaticMesh: Generando la malla estática contacto...
+[2021.03.13-20.43.34:092][  0]LogStaticMesh: Built static mesh [0.02s] /Game/VirtualRealityBP/Blueprints/Electrodomestico/Meshes/contacto.contacto
+[2021.03.13-20.43.35:089][  0]LogTexture: Display: Building textures: Various0743_M (AutoDXT, 1600X1196)
+[2021.03.13-20.43.35:089][  0]LogStaticMesh: Generando la malla estática Enchufe...
+[2021.03.13-20.43.36:421][  0]LogTexture: Display: Building textures: OutdoorFurniture_D (AutoDXT, 2048X2048)
+[2021.03.13-20.43.36:422][  0]LogStaticMesh: Built static mesh [1.33s] /Game/VirtualRealityBP/Blueprints/Electrodomestico/Meshes/Enchufe.Enchufe
+[2021.03.13-20.43.36:793][  0]LogTexture: Display: Building textures: OfficeChair_N (BGRA8, 645X645)
+[2021.03.13-20.43.36:793][  0]LogTexture: Display: Building textures: OfficeChair_D (BGRA8, 645X645)
+[2021.03.13-20.43.36:793][  0]LogTexture: Display: Building textures: wf8500nhw_yle__1__16865 (BGRA8, 2252X686)
+[2021.03.13-20.43.36:793][  0]LogMaterial: Display: Missing cached shader map for material NEMA_5_15___Male_Plug_head_and_wire_stump_Plastic_Black, compiling. 
+[2021.03.13-20.43.36:806][  0]LogMaterial: Display: Missing cached shader map for material NEMA_5_15___Male_Plug_head_and_wire_stump_Metal, compiling. 
+[2021.03.13-20.43.36:885][  0]LogTexture: Display: Building textures: wf8500nhw_yle__1__16865_logo (BGRA8, 2252X686)
+[2021.03.13-20.43.36:885][  0]LogMaterial: Display: Missing cached shader map for material 13_-_Brushed_Metal, compiling. 
+[2021.03.13-20.43.36:910][  0]LogMaterial: Display: Missing cached shader map for material 03_-_Default, compiling. 
+[2021.03.13-20.43.36:931][  0]LogMaterial: Display: Missing cached shader map for material 01_-_Default, compiling. 
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Wooden_door_n (BGRA8, 257X492)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Wooden_door_d (BGRA8, 257X492)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: MainBody_bump (BGRA8, 4096X3890)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: MainBody (BGRA8, 4096X3890)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: picnicTable_Ptable_MetallicSmoothness (AutoDXT, 1024X1024)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: picnicTable_Ptable_Normal (BC5, 1024X1024)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: picnicTable_Ptable_AlbedoTransparency (AutoDXT, 1024X1024)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Metals_Ornamental_Metals_Aluminum_Brushed (AutoDXT, 1024X1024)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: WOOD (AutoDXT, 1024X1024)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: texture-light-fabric_1194-6873 (BGRA8, 338X338)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: JV01_03_Gradient (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: foco_ahorrador_base (BGRA8, 783X771)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Handle_Roughness (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Handle_Normal_DirectX (BC5, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Handle_Normal (BC5, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Handle_Metallic (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Handle_Mixed_AO (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Handle_Height (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Handle_Base_Color (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Glass_Roughness (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Glass_Normal_DirectX (BC5, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Glass_Normal (BC5, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Glass_Mixed_AO (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Glass_Height (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Glass_Metallic (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: Glass_Base_Color (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:813][  0]LogTexture: Display: Building textures: DoorBase_Roughness (AutoDXT, 2048X2048)
+[2021.03.13-20.43.44:814][  0]LogStaticMesh: Generando la malla estática RefrigeradorViejo...
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: DoorBase_Normal_DirectX (BC5, 2048X2048)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: DoorBase_Normal (BC5, 2048X2048)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: DoorBase_Mixed_AO (AutoDXT, 2048X2048)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: DoorBase_Metallic (AutoDXT, 2048X2048)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: DoorBase_Height (AutoDXT, 2048X2048)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: DoorBase_Base_Color (AutoDXT, 2048X2048)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: MedidorPng (BGRA8, 349X352)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: on (BGRA8, 550X550)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: off (BGRA8, 550X550)
+[2021.03.13-20.43.55:595][  0]LogTexture: Display: Building textures: TextMedidor (BGRA8, 173X47)
+[2021.03.13-20.43.55:595][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 391
+[2021.03.13-20.43.55:595][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 381
+[2021.03.13-20.43.55:595][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 371
+[2021.03.13-20.43.55:595][  0]LogStaticMesh: Built static mesh [10.78s] /Game/ModernKitchen/StaticMeshes/Meshes/RefrigeradorViejo.RefrigeradorViejo
+[2021.03.13-20.43.57:539][  0]LogMaterial: Display: Missing cached shader map for material contactoDeLuz, compiling. 
+[2021.03.13-20.43.57:629][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda AbrirRefri...
+[2021.03.13-20.43.57:644][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Nevera/AbrirRefri.AbrirRefri will be modified from 40 to 40.
+[2021.03.13-20.43.57:794][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 12452 while cooking SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Nevera/AbrirRefri.AbrirRefri.
+[2021.03.13-20.43.57:794][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda microwaveInicio...
+[2021.03.13-20.43.57:813][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Microondas/microwaveInicio.microwaveInicio will be modified from 40 to 40.
+[2021.03.13-20.43.57:993][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 932376 while cooking SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Microondas/microwaveInicio.microwaveInicio.
+[2021.03.13-20.43.57:993][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda MicrowaveDurante...
+[2021.03.13-20.43.58:045][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Microondas/MicrowaveDurante.MicrowaveDurante will be modified from 40 to 40.
+[2021.03.13-20.43.58:540][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2887528 while cooking SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Microondas/MicrowaveDurante.MicrowaveDurante.
+[2021.03.13-20.43.58:547][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda compresorRefri...
+[2021.03.13-20.43.58:558][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Nevera/compresorRefri.compresorRefri will be modified from 40 to 40.
+[2021.03.13-20.43.59:162][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 3617280 while cooking SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Nevera/compresorRefri.compresorRefri.
+[2021.03.13-20.43.59:169][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda CerrarRefri...
+[2021.03.13-20.43.59:209][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Nevera/CerrarRefri.CerrarRefri will be modified from 40 to 40.
+[2021.03.13-20.43.59:283][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 388588 while cooking SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Nevera/CerrarRefri.CerrarRefri.
+[2021.03.13-20.43.59:283][  0]LogAudioDerivedData: Display: Generando el formato de audio comprimido OGG onda MicrowaveFin...
+[2021.03.13-20.43.59:347][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Microondas/MicrowaveFin.MicrowaveFin will be modified from 40 to 40.
+[2021.03.13-20.43.59:454][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 543744 while cooking SoundWave /Game/VirtualRealityBP/Blueprints/Electrodomestico/Sounds/Microondas/MicrowaveFin.MicrowaveFin.
+[2021.03.13-20.43.59:456][  0]LogMaterial: Display: Missing cached shader map for material Steel, compiling. 
+[2021.03.13-20.43.59:998][  0]LogStaticMesh: Generando la malla estática Foco...
+[2021.03.13-20.44.00:955][  0]LogStaticMesh: Built static mesh [0.96s] /Game/VirtualRealityBP/Blueprints/Electrodomestico/Meshes/Foco.Foco
+[2021.03.13-20.44.01:275][  0]LogStaticMesh: Generando la malla estática Wooden_door...
+[2021.03.13-20.44.01:448][  0]LogStaticMesh: Built static mesh [0.17s] /Game/ModernKitchen/StaticMeshes/Meshes/Wooden_door.Wooden_door
+[2021.03.13-20.44.01:470][  0]LogStaticMesh: Generando la malla estática WineGlass...
+[2021.03.13-20.44.01:846][  0]LogStaticMesh: Built static mesh [0.38s] /Game/ModernKitchen/StaticMeshes/Meshes/WineGlass.WineGlass
+[2021.03.13-20.44.01:939][  0]LogStaticMesh: Generando la malla estática WhiteIsland...
+[2021.03.13-20.44.02:054][  0]LogStaticMesh: Built static mesh [0.12s] /Game/ModernKitchen/StaticMeshes/Meshes/WhiteIsland.WhiteIsland
+[2021.03.13-20.44.02:118][  0]LogStaticMesh: Generando la malla estática WallOven...
+[2021.03.13-20.44.03:744][  0]LogStaticMesh: Built static mesh [1.63s] /Game/ModernKitchen/StaticMeshes/Meshes/WallOven.WallOven
+[2021.03.13-20.44.03:877][  0]LogMaterial: Display: Missing cached shader map for material Material_408, compiling. 
+[2021.03.13-20.44.03:982][  0]LogStaticMesh: Generando la malla estática WallFuseBox...
+[2021.03.13-20.44.04:087][  0]LogStaticMesh: Built static mesh [0.10s] /Game/ModernKitchen/StaticMeshes/Meshes/WallFuseBox.WallFuseBox
+[2021.03.13-20.44.04:106][  0]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.03.13-20.44.04:153][  0]LogStaticMesh: Generando la malla estática TelevisiónVieja...
+[2021.03.13-20.44.04:159][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ModernKitchen/StaticMeshes/Meshes/TelevisiónVieja.TelevisiónVieja
+[2021.03.13-20.44.04:447][  0]LogStaticMesh: Generando la malla estática TazaDeBano...
+[2021.03.13-20.44.04:886][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 462
+[2021.03.13-20.44.04:886][  0]LogStaticMesh: Built static mesh [0.44s] /Game/ModernKitchen/StaticMeshes/Meshes/TazaDeBano.TazaDeBano
+[2021.03.13-20.44.05:058][  0]LogStaticMesh: Generando la malla estática Stovetop...
+[2021.03.13-20.44.08:243][  0]LogStaticMesh: Built static mesh [3.19s] /Game/ModernKitchen/StaticMeshes/Meshes/Stovetop.Stovetop
+[2021.03.13-20.44.08:918][  0]LogStaticMesh: Generando la malla estática SmallTrashCan...
+[2021.03.13-20.44.08:957][  0]LogStaticMesh: Built static mesh [0.04s] /Game/ModernKitchen/StaticMeshes/Meshes/SmallTrashCan.SmallTrashCan
+[2021.03.13-20.44.08:981][  0]LogStaticMesh: Generando la malla estática SmallPot...
+[2021.03.13-20.44.09:080][  0]LogStaticMesh: Built static mesh [0.10s] /Game/ModernKitchen/StaticMeshes/Meshes/SmallPot.SmallPot
+[2021.03.13-20.44.09:152][  0]LogStaticMesh: Generando la malla estática SillonIndividual...
+[2021.03.13-20.44.09:190][  0]LogStaticMesh: Built static mesh [0.04s] /Game/ModernKitchen/StaticMeshes/Meshes/SillonIndividual.SillonIndividual
+[2021.03.13-20.44.09:200][  0]LogMaterial: Display: Missing cached shader map for material WickerLoveSeat_MAT, compiling. 
+[2021.03.13-20.44.09:277][  0]LogStaticMesh: Generando la malla estática SillonDoble...
+[2021.03.13-20.44.09:341][  0]LogStaticMesh: Built static mesh [0.06s] /Game/ModernKitchen/StaticMeshes/Meshes/SillonDoble.SillonDoble
+[2021.03.13-20.44.09:357][  0]LogMaterial: Display: Missing cached shader map for material OfficeChair_MAT, compiling. 
+[2021.03.13-20.44.09:413][  0]LogStaticMesh: Generando la malla estática SillaRuedas...
+[2021.03.13-20.44.09:457][  0]LogStaticMesh: Built static mesh [0.04s] /Game/ModernKitchen/StaticMeshes/Meshes/SillaRuedas.SillaRuedas
+[2021.03.13-20.44.09:466][  0]LogMaterial: Display: Missing cached shader map for material white, compiling. 
+[2021.03.13-20.44.09:505][  0]LogMaterial: Display: Missing cached shader map for material panel, compiling. 
+[2021.03.13-20.44.09:540][  0]LogMaterial: Display: Missing cached shader map for material logo, compiling. 
+[2021.03.13-20.44.09:575][  0]LogMaterial: Display: Missing cached shader map for material WineGlass_M, compiling. 
+[2021.03.13-20.44.09:941][  0]LogStaticMesh: Generando la malla estática samsung...
+[2021.03.13-20.44.10:536][  0]LogStaticMesh: Built static mesh [0.59s] /Game/ModernKitchen/StaticMeshes/Meshes/samsung.samsung
+[2021.03.13-20.44.10:655][  0]LogStaticMesh: Generando la malla estática RejaPeq...
+[2021.03.13-20.44.10:673][  0]LogStaticMesh: Built static mesh [0.02s] /Game/ModernKitchen/StaticMeshes/Meshes/RejaPeq.RejaPeq
+[2021.03.13-20.44.10:677][  0]LogMaterial: Display: Missing cached shader map for material Cube_3Mat, compiling. 
+[2021.03.13-20.44.10:709][  0]LogStaticMesh: Generando la malla estática Reja...
+[2021.03.13-20.44.10:742][  0]LogStaticMesh: Built static mesh [0.03s] /Game/ModernKitchen/StaticMeshes/Meshes/Reja.Reja
+[2021.03.13-20.44.10:772][  0]LogMaterial: Display: Missing cached shader map for material Plastic, compiling. 
+[2021.03.13-20.44.10:800][  0]LogMaterial: Display: Missing cached shader map for material Chrome, compiling. 
+[2021.03.13-20.44.10:854][  0]LogMaterial: Display: Missing cached shader map for material Body, compiling. 
+[2021.03.13-20.44.10:878][  0]LogMaterial: Display: Missing cached shader map for material Black, compiling. 
+[2021.03.13-20.44.10:973][  0]LogStaticMesh: Generando la malla estática Radio...
+[2021.03.13-20.44.11:106][  0]LogStaticMesh: Built static mesh [0.14s] /Game/ModernKitchen/StaticMeshes/Meshes/Radio.Radio
+[2021.03.13-20.44.11:135][  0]LogStaticMesh: Generando la malla estática Pot_Lid...
+[2021.03.13-20.44.11:564][  0]LogStaticMesh: Built static mesh [0.43s] /Game/ModernKitchen/StaticMeshes/Meshes/Pot_Lid.Pot_Lid
+[2021.03.13-20.44.11:630][  0]LogStaticMesh: Generando la malla estática Pot...
+[2021.03.13-20.44.11:812][  0]LogStaticMesh: Built static mesh [0.18s] /Game/ModernKitchen/StaticMeshes/Meshes/Pot.Pot
+[2021.03.13-20.44.11:840][  0]LogStaticMesh: Generando la malla estática Plate...
+[2021.03.13-20.44.11:998][  0]LogStaticMesh: Built static mesh [0.16s] /Game/ModernKitchen/StaticMeshes/Meshes/Plate.Plate
+[2021.03.13-20.44.12:024][  0]LogMaterial: Display: Missing cached shader map for material Ptable, compiling. 
+[2021.03.13-20.44.12:053][  0]LogStaticMesh: Generando la malla estática picnicTable...
+[2021.03.13-20.44.12:077][  0]LogStaticMesh: Built static mesh [0.02s] /Game/ModernKitchen/StaticMeshes/Meshes/picnicTable.picnicTable
+[2021.03.13-20.44.12:163][  0]LogStaticMesh: Generando la malla estática Peinador...
+[2021.03.13-20.44.12:334][  0]LogStaticMesh: Built static mesh [0.17s] /Game/ModernKitchen/StaticMeshes/Meshes/Peinador.Peinador
+[2021.03.13-20.44.12:358][  0]LogMaterial: Display: Missing cached shader map for material Material__0, compiling. 
+[2021.03.13-20.44.12:396][  0]LogMaterial: Display: Missing cached shader map for material Mate4rial__0, compiling. 
+[2021.03.13-20.44.12:425][  0]LogMaterial: Display: Missing cached shader map for material Alluminium_Notebook_body, compiling. 
+[2021.03.13-20.44.12:450][  0]LogMaterial: Display: Missing cached shader map for material Alluminium_No332tebook_body, compiling. 
+[2021.03.13-20.44.12:481][  0]LogMaterial: Display: Missing cached shader map for material Alluminium_32No332tebook_body, compiling. 
+[2021.03.13-20.44.12:619][  0]LogStaticMesh: Generando la malla estática PC...
+[2021.03.13-20.44.12:790][  0]LogStaticMesh: Built static mesh [0.17s] /Game/ModernKitchen/StaticMeshes/Meshes/PC.PC
+[2021.03.13-20.44.12:819][  0]LogMaterial: Display: Missing cached shader map for material ChromeMate, compiling. 
+[2021.03.13-20.44.12:855][  0]LogStaticMesh: Generando la malla estática Pasa-Manos...
+[2021.03.13-20.44.12:865][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ModernKitchen/StaticMeshes/Meshes/Pasa-Manos.Pasa-Manos
+[2021.03.13-20.44.12:887][  0]LogStaticMesh: Generando la malla estática Pantry...
+[2021.03.13-20.44.12:922][  0]LogStaticMesh: Built static mesh [0.04s] /Game/ModernKitchen/StaticMeshes/Meshes/Pantry.Pantry
+[2021.03.13-20.44.12:926][  0]LogMaterial: Display: Missing cached shader map for material M_MonitorP¨C_3, compiling. 
+[2021.03.13-20.44.12:954][  0]LogMaterial: Display: Missing cached shader map for material M_MonitorPC_6, compiling. 
+[2021.03.13-20.44.12:980][  0]LogMaterial: Display: Missing cached shader map for material M_MonitorPC_5, compiling. 
+[2021.03.13-20.44.13:005][  0]LogMaterial: Display: Missing cached shader map for material M_MonitorPC_2, compiling. 
+[2021.03.13-20.44.13:032][  0]LogMaterial: Display: Missing cached shader map for material M_MonitorPC_1, compiling. 
+[2021.03.13-20.44.13:057][  0]LogMaterial: Display: Missing cached shader map for material M_MonitorPC4, compiling. 
+[2021.03.13-20.44.13:102][  0]LogStaticMesh: Generando la malla estática monitorPC...
+[2021.03.13-20.44.13:124][  0]LogStaticMesh: Built static mesh [0.02s] /Game/ModernKitchen/StaticMeshes/Meshes/monitorPC.monitorPC
+[2021.03.13-20.44.13:200][  0]LogStaticMesh: Generando la malla estática Mesita...
+[2021.03.13-20.44.13:405][  0]LogStaticMesh: Built static mesh [0.21s] /Game/ModernKitchen/StaticMeshes/Meshes/Mesita.Mesita
+[2021.03.13-20.44.13:428][  0]LogMaterial: Display: Missing cached shader map for material M_Mesa_TV, compiling. 
+[2021.03.13-20.44.13:478][  0]LogStaticMesh: Generando la malla estática Mesa_TV...
+[2021.03.13-20.44.13:520][  0]LogStaticMesh: Built static mesh [0.04s] /Game/ModernKitchen/StaticMeshes/Meshes/Mesa_TV.Mesa_TV
+[2021.03.13-20.44.13:527][  0]LogMaterial: Display: Missing cached shader map for material GreyMarble, compiling. 
+[2021.03.13-20.44.13:555][  0]LogMaterial: Display: Missing cached shader map for material Cupboards_M, compiling. 
+[2021.03.13-20.44.13:590][  0]LogStaticMesh: Generando la malla estática MarbleCountertop...
+[2021.03.13-20.44.14:207][  0]LogStaticMesh: Built static mesh [0.62s] /Game/ModernKitchen/StaticMeshes/Meshes/MarbleCountertop.MarbleCountertop
+[2021.03.13-20.44.14:299][  0]LogMaterial: Display: Missing cached shader map for material Porcelana, compiling. 
+[2021.03.13-20.44.14:379][  0]LogStaticMesh: Generando la malla estática Lavamanos...
+[2021.03.13-20.44.14:432][  0]LogStaticMesh: Built static mesh [0.05s] /Game/ModernKitchen/StaticMeshes/Meshes/Lavamanos.Lavamanos
+[2021.03.13-20.44.14:452][  0]LogMaterial: Display: Missing cached shader map for material M_lampara_tela, compiling. 
+[2021.03.13-20.44.14:481][  0]LogMaterial: Display: Missing cached shader map for material M_focoAhorrador, compiling. 
+[2021.03.13-20.44.15:355][  0]LogStaticMesh: Generando la malla estática lampara...
+[2021.03.13-20.44.17:000][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1220
+[2021.03.13-20.44.17:000][  0]LogStaticMesh: Built static mesh [1.65s] /Game/ModernKitchen/StaticMeshes/Meshes/lampara.lampara
+[2021.03.13-20.44.17:370][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1210
+[2021.03.13-20.44.17:370][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/temp.F38C2CEB41317B3DCC3DCDAD6E995F49 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.17:370][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/temp.F38C2CEB41317B3DCC3DCDAD6E995F49! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.17:370][  0]LogMaterial: Display: Missing cached shader map for material M_lampara_cuerpo, compiling. 
+[2021.03.13-20.44.17:398][  0]LogMaterial: Display: Missing cached shader map for material M_focoAhorrador_base, compiling. 
+[2021.03.13-20.44.17:424][  0]LogMaterial: Display: Missing cached shader map for material Blade, compiling. 
+[2021.03.13-20.44.17:447][  0]LogStaticMesh: Generando la malla estática Knife_low...
+[2021.03.13-20.44.17:588][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/temp.AE0AF1D642944AC4270827905786EF84 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.17:588][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/0/temp.AE0AF1D642944AC4270827905786EF84! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.17:588][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_2C3C700E4E9A1EC26__177D9E658E8DA415C29F6B07C3B64BB0907268C3.
+[2021.03.13-20.44.17:588][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_2C3C700E4E9A1EC26__177D9E658E8DA415C29F6B07C3B64BB0907268C3 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.17:588][  0]LogStaticMesh: Built static mesh [0.14s] /Game/ModernKitchen/StaticMeshes/Meshes/Knife_low.Knife_low
+[2021.03.13-20.44.17:601][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/temp.151CEFD743BE69EE8BEC09A93F7F0D61 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.17:601][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/temp.151CEFD743BE69EE8BEC09A93F7F0D61! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.17:601][  0]LogMaterial: Display: Missing cached shader map for material StainlessSteelBrushed, compiling. 
+[2021.03.13-20.44.17:633][  0]LogStaticMesh: Generando la malla estática KitchenFaucet...
+[2021.03.13-20.44.19:413][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/temp.233A4F8D42A2426C530FBA8AF29FA57A (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:413][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/4/6/temp.233A4F8D42A2426C530FBA8AF29FA57A! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:413][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__508570D8C890418F943F27ABF9DB4FFE3FDB6583.
+[2021.03.13-20.44.19:413][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__508570D8C890418F943F27ABF9DB4FFE3FDB6583 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.19:413][  0]LogStaticMesh: Built static mesh [1.78s] /Game/ModernKitchen/StaticMeshes/Meshes/KitchenFaucet.KitchenFaucet
+[2021.03.13-20.44.19:626][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/temp.BB1F3DF8452189FAA23234ACAF6BF564 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:626][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/temp.BB1F3DF8452189FAA23234ACAF6BF564! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:626][  0]LogMaterial: Display: Missing cached shader map for material KettleT_M, compiling. 
+[2021.03.13-20.44.19:674][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/8/temp.418167B943835CF031D2A4990C4238B9 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:674][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/8/temp.418167B943835CF031D2A4990C4238B9! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:674][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/temp.FE29113542FE2F1A6D6EA29D47D2734E (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:675][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/5/9/temp.FE29113542FE2F1A6D6EA29D47D2734E! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.19:675][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__973FD1092606AC8E385B6A3BB481C2B72743D0F3.
+[2021.03.13-20.44.19:675][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__973FD1092606AC8E385B6A3BB481C2B72743D0F3 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.19:675][  0]LogMaterial: Display: Missing cached shader map for material KettleH_M, compiling. 
+[2021.03.13-20.44.19:709][  0]LogMaterial: Display: Missing cached shader map for material KettleB_M, compiling. 
+[2021.03.13-20.44.19:739][  0]LogStaticMesh: Generando la malla estática Kettle...
+[2021.03.13-20.44.20:491][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/8/temp.051EB4144FAB145F5EB56DB65A6ECBE9 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.20:491][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/4/8/temp.051EB4144FAB145F5EB56DB65A6ECBE9! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.20:491][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_9C22127F44EFF198E__7EF91640D8C8696D00B98AEEECA7A91538331D82.
+[2021.03.13-20.44.20:491][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_9C22127F44EFF198E__7EF91640D8C8696D00B98AEEECA7A91538331D82 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.20:492][  0]LogStaticMesh: Built static mesh [0.75s] /Game/ModernKitchen/StaticMeshes/Meshes/Kettle.Kettle
+[2021.03.13-20.44.20:608][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/4/temp.722BACE242BB8E250ADB829625730302 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.20:608][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/4/temp.722BACE242BB8E250ADB829625730302! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.20:608][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/temp.F46192DC4FDDECB98570E286BB561681 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.20:608][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/temp.F46192DC4FDDECB98570E286BB561681! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.20:608][  0]LogMaterial: Display: Missing cached shader map for material WoodenBarStool, compiling. 
+[2021.03.13-20.44.20:639][  0]LogStaticMesh: Generando la malla estática GrottoBarStool...
+[2021.03.13-20.44.21:749][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/4/temp.D9B19999489E8570B6DCFCAF40F6EB0D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:749][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/4/temp.D9B19999489E8570B6DCFCAF40F6EB0D! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:749][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__DA586E67232ECF4F308BE2AE8787C1FD40578181.
+[2021.03.13-20.44.21:749][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__DA586E67232ECF4F308BE2AE8787C1FD40578181 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.21:749][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/temp.7EB42E6F43EE3BEEAED9DF8CE9672DAB (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:749][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/1/5/temp.7EB42E6F43EE3BEEAED9DF8CE9672DAB! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:749][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_FC89E9E8411696B31__9DF61F27A66323857FE981003C0FB1C182287971.
+[2021.03.13-20.44.21:749][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_FC89E9E8411696B31__9DF61F27A66323857FE981003C0FB1C182287971 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.21:749][  0]LogStaticMesh: Built static mesh [1.11s] /Game/ModernKitchen/StaticMeshes/Meshes/GrottoBarStool.GrottoBarStool
+[2021.03.13-20.44.21:937][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/temp.EE9B558F4768DC6D3C7B53825F28FA70 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:937][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/temp.EE9B558F4768DC6D3C7B53825F28FA70! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:937][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1392
+[2021.03.13-20.44.21:937][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/temp.09BABEAD489372CB916BADAF52440F32 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:937][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/temp.09BABEAD489372CB916BADAF52440F32! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:937][  0]LogMaterial: Display: Missing cached shader map for material Handle, compiling. 
+[2021.03.13-20.44.21:962][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/temp.1FA760A84823341F05F71A8126F2FC44 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:962][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/8/temp.1FA760A84823341F05F71A8126F2FC44! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.21:962][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__DA7E62E081ADAF234CD37E48A2C03D80969D4F2B.
+[2021.03.13-20.44.21:962][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__DA7E62E081ADAF234CD37E48A2C03D80969D4F2B to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.21:962][  0]LogMaterial: Display: Missing cached shader map for material Glass, compiling. 
+[2021.03.13-20.44.21:988][  0]LogMaterial: Display: Missing cached shader map for material DoorBase, compiling. 
+[2021.03.13-20.44.22:021][  0]LogStaticMesh: Generando la malla estática Door...
+[2021.03.13-20.44.22:040][  0]LogStaticMesh: Built static mesh [0.02s] /Game/ModernKitchen/StaticMeshes/Meshes/Door.Door
+[2021.03.13-20.44.22:059][  0]LogStaticMesh: Generando la malla estática CounterTop_Surface...
+[2021.03.13-20.44.22:080][  0]LogStaticMesh: Built static mesh [0.02s] /Game/ModernKitchen/StaticMeshes/Meshes/CounterTop_Surface.CounterTop_Surface
+[2021.03.13-20.44.22:081][  0]LogStaticMesh: Generando la malla estática CounterTop_CabinetDoor...
+[2021.03.13-20.44.22:102][  0]LogStaticMesh: Built static mesh [0.02s] /Game/ModernKitchen/StaticMeshes/Meshes/CounterTop_CabinetDoor.CounterTop_CabinetDoor
+[2021.03.13-20.44.22:104][  0]LogStaticMesh: Generando la malla estática CounterTop_Body...
+[2021.03.13-20.44.22:117][  0]LogStaticMesh: Built static mesh [0.01s] /Game/ModernKitchen/StaticMeshes/Meshes/CounterTop_Body.CounterTop_Body
+[2021.03.13-20.44.22:138][  0]LogStaticMesh: Generando la malla estática CircularFruitBowl...
+[2021.03.13-20.44.23:019][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/temp.BF875CA045E42140A8DA7C8048447106 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:020][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/2/2/temp.BF875CA045E42140A8DA7C8048447106! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:020][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_592E3CB043D9B537B__37BCF41B2ED0D09EBFC0357871D8A657A8995F87.
+[2021.03.13-20.44.23:020][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_592E3CB043D9B537B__37BCF41B2ED0D09EBFC0357871D8A657A8995F87 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.23:020][  0]LogStaticMesh: Built static mesh [0.88s] /Game/ModernKitchen/StaticMeshes/Meshes/CircularFruitBowl.CircularFruitBowl
+[2021.03.13-20.44.23:188][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/temp.E231D2CB49767A4D3DFCF2A3912DBECE (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:188][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/temp.E231D2CB49767A4D3DFCF2A3912DBECE! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:188][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/temp.010111834393893791320CA83F9BDF30 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:188][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/temp.010111834393893791320CA83F9BDF30! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:188][  0]LogStaticMesh: Generando la malla estática ChoppingBoard_low...
+[2021.03.13-20.44.23:324][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/temp.5839A4BD4A578453FB87B0833254312D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:324][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/7/temp.5839A4BD4A578453FB87B0833254312D! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:324][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__16237D64EB879F53751AC2C2AB531F57F24236D2.
+[2021.03.13-20.44.23:324][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__16237D64EB879F53751AC2C2AB531F57F24236D2 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.23:324][  0]LogStaticMesh: Built static mesh [0.14s] /Game/ModernKitchen/StaticMeshes/Meshes/ChoppingBoard_low.ChoppingBoard_low
+[2021.03.13-20.44.23:339][  0]LogMaterial: Display: Missing cached shader map for material Mat_7, compiling. 
+[2021.03.13-20.44.23:375][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/temp.579A48324E6B5737F2A5C3B324BE7535 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:375][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/8/4/temp.579A48324E6B5737F2A5C3B324BE7535! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.23:375][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_BC1F59F84422693A5__C38D45A52E27A16D1271524E70FEFE5A8CF0A65A.
+[2021.03.13-20.44.23:375][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_BC1F59F84422693A5__C38D45A52E27A16D1271524E70FEFE5A8CF0A65A to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.23:375][  0]LogMaterial: Display: Missing cached shader map for material Mat_2_3, compiling. 
+[2021.03.13-20.44.23:405][  0]LogMaterial: Display: Missing cached shader map for material Mat_2_2, compiling. 
+[2021.03.13-20.44.23:434][  0]LogMaterial: Display: Missing cached shader map for material Mat_1, compiling. 
+[2021.03.13-20.44.23:465][  0]LogMaterial: Display: Missing cached shader map for material Fabric_12_5, compiling. 
+[2021.03.13-20.44.23:499][  0]LogMaterial: Display: Missing cached shader map for material Fabric_12, compiling. 
+[2021.03.13-20.44.24:731][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1598
+[2021.03.13-20.44.24:731][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/temp.FCF7D81A46D607A6EA053489389F3677 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.24:731][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/temp.FCF7D81A46D607A6EA053489389F3677! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.24:731][  0]LogStaticMesh: Generando la malla estática Cama...
+[2021.03.13-20.44.28:472][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/temp.FA09247344B4CBAD0E469282050D9087 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.28:472][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/8/9/temp.FA09247344B4CBAD0E469282050D9087! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.28:472][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_113D24A46CBA7A3A0D20F6C2F8710D58.
+[2021.03.13-20.44.28:472][  0]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_113D24A46CBA7A3A0D20F6C2F8710D58 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.28:472][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1588
+[2021.03.13-20.44.28:472][  0]LogStaticMesh: Built static mesh [3.74s] /Game/ModernKitchen/StaticMeshes/Meshes/Cama.Cama
+[2021.03.13-20.44.29:119][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/temp.D53C9AB349697A02EDD8C9B4447E52A6 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:119][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/temp.D53C9AB349697A02EDD8C9B4447E52A6! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:119][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/temp.3A4539FF469097EFBECAB99C637FA949 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:119][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/0/4/4/temp.3A4539FF469097EFBECAB99C637FA949! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:119][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__D1650BFD0FC980C0DC03EC007EA2FBDD13FAB7F2.
+[2021.03.13-20.44.29:119][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__D1650BFD0FC980C0DC03EC007EA2FBDD13FAB7F2 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:119][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/8/temp.27DCA13F44A9B32B0B966694C71501FB (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:120][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/8/temp.27DCA13F44A9B32B0B966694C71501FB! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:120][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/8/temp.A4628F0744DBC7B1F9F7A792DE8C2889 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:120][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/8/temp.A4628F0744DBC7B1F9F7A792DE8C2889! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:120][  0]LogStaticMesh: Generando la malla estática Buró2...
+[2021.03.13-20.44.29:257][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/temp.05383D644A19CF177B154C8CEB6449B5 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:257][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/temp.05383D644A19CF177B154C8CEB6449B5! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:257][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/8/temp.A747A55441B1786A5B6A5A8B80A8E059 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:257][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/8/temp.A747A55441B1786A5B6A5A8B80A8E059! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:258][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_1DE48F86463C72053161538BF955720__9A9B5D86CEAAD4F364010768D7C1CCB22FDA6CBE.
+[2021.03.13-20.44.29:258][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_1DE48F86463C72053161538BF955720__9A9B5D86CEAAD4F364010768D7C1CCB22FDA6CBE to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:258][  0]LogStaticMesh: Built static mesh [0.14s] /Game/ModernKitchen/StaticMeshes/Meshes/Buró2.Buró2
+[2021.03.13-20.44.29:272][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/temp.837F5CE44C7EDD9B6CF43DB481B45543 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:272][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/temp.837F5CE44C7EDD9B6CF43DB481B45543! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:272][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/temp.1DBA67EB4975DCC7072E20972F5F96C4 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:272][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/temp.3BBA355B4904AAFDD3AFC38B36EC6267 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:272][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/temp.1DBA67EB4975DCC7072E20972F5F96C4! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:272][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/temp.3BBA355B4904AAFDD3AFC38B36EC6267! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:272][  0]LogMaterial: Display: Missing cached shader map for material M_Wood_Oak, compiling. 
+[2021.03.13-20.44.29:352][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/8/temp.C70ECD894B3BEA20F6200BB962F2AB10 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:352][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/1/8/temp.C70ECD894B3BEA20F6200BB962F2AB10! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:352][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_1DE48F86463C72053__3C8A26C8BAA29D9531DEC943689F6D98AE6D8434.
+[2021.03.13-20.44.29:352][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_1DE48F86463C72053__3C8A26C8BAA29D9531DEC943689F6D98AE6D8434 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:352][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/temp.A57ED5A6432D2E837E26F2B580C88658 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:352][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/temp.A57ED5A6432D2E837E26F2B580C88658! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:352][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_77826EF981A2BC65D09C3F10FC8BAC5B.
+[2021.03.13-20.44.29:352][  0]LogDerivedDataCache: Display: Failed to write MESHDATAKEY_STATICMESH_940C97E946F545F5834146D0D58828BF_77826EF981A2BC65D09C3F10FC8BAC5B to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:352][  0]LogStaticMesh: Generando la malla estática Buró...
+[2021.03.13-20.44.29:493][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/8/temp.88AC88F340434F1FEB28FA9F9D560B6C (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:493][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/5/8/temp.88AC88F340434F1FEB28FA9F9D560B6C! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:493][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/temp.9649F77041A028F44EE64AB9BB529C9C (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:493][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/5/6/8/temp.9649F77041A028F44EE64AB9BB529C9C! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:493][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__C946C1AEFC8273A405CA249EF371BAEB06EE36FA.
+[2021.03.13-20.44.29:494][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__C946C1AEFC8273A405CA249EF371BAEB06EE36FA to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:494][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/temp.A644C74947084E1A62CE50B0EC3967E4 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:494][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/4/6/temp.A644C74947084E1A62CE50B0EC3967E4! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:494][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/temp.A5DCECBB45ED2C88B4BF369D3AB09711 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:494][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/9/3/temp.A5DCECBB45ED2C88B4BF369D3AB09711! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:494][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_4059B13C4658C3857A62EB883046E88__02C5CEF69E12A11EDC5AF1A8C1550103D4F59081.
+[2021.03.13-20.44.29:494][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_4059B13C4658C3857A62EB883046E88__02C5CEF69E12A11EDC5AF1A8C1550103D4F59081 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:494][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_4059B13C4658C3857__61B82B5BC5552FF1DA8FFE9566F533AF4F9E3A7F.
+[2021.03.13-20.44.29:494][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_4059B13C4658C3857__61B82B5BC5552FF1DA8FFE9566F533AF4F9E3A7F to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:494][  0]LogStaticMesh: Built static mesh [0.14s] /Game/ModernKitchen/StaticMeshes/Meshes/Buró.Buró
+[2021.03.13-20.44.29:668][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/temp.9CFBFF2948718EBEF5D9938854F4B313 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:668][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/temp.9CFBFF2948718EBEF5D9938854F4B313! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:668][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.51C681A24DC4D2FDF59246AD21EA5C4B (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:668][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.51C681A24DC4D2FDF59246AD21EA5C4B! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:668][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/temp.1C5C34B64FC3A3248131219CA53ADBDD (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:668][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/temp.1C5C34B64FC3A3248131219CA53ADBDD! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:668][  0]LogStaticMesh: Generando la malla estática Bowl...
+[2021.03.13-20.44.29:825][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1607
+[2021.03.13-20.44.29:825][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:825][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/1C3EC2C694034B59ADA1A0597D9C1EB34' (Free Disk Space: 0.
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/temp.C49B5946419FFB74E60945AAB25C28AA (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/9/1/temp.C49B5946419FFB74E60945AAB25C28AA! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:826][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__427AE108A7D45446D021E6B11363F3D359AAA780.
+[2021.03.13-20.44.29:826][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__427AE108A7D45446D021E6B11363F3D359AAA780 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.5D624EED4C859AD62E90D7B3EAF3CF92 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/3/3/temp.5D624EED4C859AD62E90D7B3EAF3CF92! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:826][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/temp.885625BA48BF884250E32ABB7592B230 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:826][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_CBC48554441D83AD5132A788B09C46E__735FE260343B0FCC2FD78E2FD7F6E31A3586C10E.
+[2021.03.13-20.44.29:827][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_CBC48554441D83AD5132A788B09C46E__735FE260343B0FCC2FD78E2FD7F6E31A3586C10E to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:827][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/3/9/1/temp.885625BA48BF884250E32ABB7592B230! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:827][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_CBC48554441D83AD5__C7E504C2D47DB275DF3DBCB7F2E5E372A55B4FC1.
+[2021.03.13-20.44.29:827][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_CBC48554441D83AD5__C7E504C2D47DB275DF3DBCB7F2E5E372A55B4FC1 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.29:827][  0]LogStaticMesh: Built static mesh [0.16s] /Game/ModernKitchen/StaticMeshes/Meshes/Bowl.Bowl
+[2021.03.13-20.44.29:909][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/temp.11A2128A4DC26F0229CCB99561B0BA46 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:910][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/temp.11A2128A4DC26F0229CCB99561B0BA46! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:910][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/9/temp.799AE1BB4FAC358C0FD4949B1F071605 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:910][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/9/temp.799AE1BB4FAC358C0FD4949B1F071605! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:910][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.598266AE44E8AEFA137711920FDEB942 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:910][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.598266AE44E8AEFA137711920FDEB942! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.29:910][  0]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2021.03.13-20.44.29:915][  0]LogMaterial: Display: Missing cached shader map for material M_LightStage_Skybox_Master, compiling. 
+[2021.03.13-20.44.29:926][  0]LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling. 
+[2021.03.13-20.44.30:126][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/temp.3D118F314BBA335B2526E38560794F40 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:126][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/5/9/temp.3D118F314BBA335B2526E38560794F40! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:126][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__93BDC3D59EADF69BEC20786903E8CB3F5FE32652.
+[2021.03.13-20.44.30:126][  0]LogDerivedDataCache: Display: Failed to write STATICMESH_F9378A28F161444987BACE79B2590E57_228332BAE0224DD294E232B87D83948FQu__93BDC3D59EADF69BEC20786903E8CB3F5FE32652 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:127][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/9/temp.3328A45E41AF5E91D8D7E7BF3AF62109 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:127][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/9/temp.3328A45E41AF5E91D8D7E7BF3AF62109! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:127][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.E58145014F794583B185FFAABA11E936 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:127][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_B57E8B7349D796E9CE1AE88EBAE76EE__93962A0C9A13CBBF11CAEA0FC5461E165511F372.
+[2021.03.13-20.44.30:127][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_B57E8B7349D796E9CE1AE88EBAE76EE__93962A0C9A13CBBF11CAEA0FC5461E165511F372 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:127][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/7/4/temp.E58145014F794583B185FFAABA11E936! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:127][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_B57E8B7349D796E9C__3929C82474D3BA7841C80B5533386215DDEA4BA2.
+[2021.03.13-20.44.30:127][  0]LogDerivedDataCache: Display: Failed to write NavCollision_2EE6412E1E884D1AAA7F79FF760363BC_NavCollision_X_B57E8B7349D796E9C__3929C82474D3BA7841C80B5533386215DDEA4BA2 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:127][  0]LogMaterial: Display: Missing cached shader map for material M_TeleportPreviews, compiling. 
+[2021.03.13-20.44.30:149][  0]LogMaterial: Display: Missing cached shader map for material M_SplineArcMat, compiling. 
+[2021.03.13-20.44.30:174][  0]LogMaterial: Display: Missing cached shader map for material M_ArcEndpoint, compiling. 
+[2021.03.13-20.44.30:234][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Grab.MannequinHand_Right_Grab
+[2021.03.13-20.44.30:234][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_CanGrab.MannequinHand_Right_CanGrab
+[2021.03.13-20.44.30:264][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.1475C76548D52E270F1A0281502B7864 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:265][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.1475C76548D52E270F1A0281502B7864! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:265][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/temp.94DBC8FA4FF3A6FE3D60DDB9BE06CF04 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:265][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/temp.94DBC8FA4FF3A6FE3D60DDB9BE06CF04! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:265][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/temp.87633C384CB158BEFED8DE96E2352828 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:265][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/temp.87633C384CB158BEFED8DE96E2352828! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:265][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.CA93F20544A34C503A12C1AE6ABC633F (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:265][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.CA93F20544A34C503A12C1AE6ABC633F! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:272][  0]LogAIModule: Creating AISystem for world ComponentesNuevos
+[2021.03.13-20.44.30:272][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002BB0816BE00), frame # 0
+[2021.03.13-20.44.30:272][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002BB115DDE40), frame # 0
+[2021.03.13-20.44.30:511][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/5/temp.3DF9E2BE4AA2EADB333843996094307B (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:511][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/5/temp.3DF9E2BE4AA2EADB333843996094307B! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:511][  0]LogDerivedDataCache: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_5A77BC1B4EB5B513374789B66778446A__1_0_0_0_2_13315_0.udd.
+[2021.03.13-20.44.30:511][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.36A24A4C41D94D17F4E723AA658ED3C9 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:511][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/temp.DB13BFF04BF3E08CB073899E556D9C1A (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:511][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/4/7/4/temp.DB13BFF04BF3E08CB073899E556D9C1A! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:511][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/0/0/temp.36A24A4C41D94D17F4E723AA658ED3C9! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_27CDA8B5460691436FAF43B20DBC9811__1_0_0_0_3_13315_0.
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_E73522AC4962C22D69365A9D5709BD4B__1_0_0_0_3_13315_0.
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_27CDA8B5460691436FAF43B20DBC9811__1_0_0_0_3_13315_0 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_E73522AC4962C22D69365A9D5709BD4B__1_0_0_0_3_13315_0 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:512][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/temp.E819CAF043665BD11FCCBD85A7A93CAA (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/temp.E819CAF043665BD11FCCBD85A7A93CAA! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/temp.34C19EB842E7A3D7F76853B2C84A9EA5 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/temp.34C19EB842E7A3D7F76853B2C84A9EA5! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/temp.4B8DE8DC4CBA73C7F96925B6016D7E8E (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.D478BB07493752C163960D9BCF48621F (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/0/9/temp.4B8DE8DC4CBA73C7F96925B6016D7E8E! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/1/0/2/temp.D478BB07493752C163960D9BCF48621F! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_D2C16A2542A54208CF70B1A753B64D84__1_0_0_0_3_13315_0.
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_D2C16A2542A54208CF70B1A753B64D84__1_0_0_0_3_13315_0 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_C68757A142A677FE92C58896D1CAFE90__1_0_0_0_3_13315_0.
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_C68757A142A677FE92C58896D1CAFE90__1_0_0_0_3_13315_0 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:512][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/7/temp.DE9E590245C8CD3787E450AC34B3BBAA (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:512][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/7/temp.DE9E590245C8CD3787E450AC34B3BBAA! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:513][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/0/temp.F48E66774438E464AFE95C8A7277EE10 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:513][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/0/temp.F48E66774438E464AFE95C8A7277EE10! Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:673][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/5/temp.0B5A577241BBBCBDDBAC84B5C01B4D76 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:673][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/8/5/temp.0B5A577241BBBCBDDBAC84B5C01B4D76! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy AnimSeq_D8E26604610C43A4A2DCB8A690657705_0_5F0BB7DF48ED3F1037BD0D9F15ACD0A7CC5__D26C7D32C21F35B8EE703EF14394462DBE2DAF15.
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Display: Failed to write AnimSeq_D8E26604610C43A4A2DCB8A690657705_0_5F0BB7DF48ED3F1037BD0D9F15ACD0A7CC5__D26C7D32C21F35B8EE703EF14394462DBE2DAF15 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache: Move collision, attempt at redundant update, OK C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/6/7/5/PHYSX_A08609EF508D460CBB6710540B03AACF_PHYSXPC_5A77BC1B4EB5B513374789B66778446A__1_0_0_0_2_13315_0.udd.
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_5A77BC1B4EB5B513374789B66778446A__1_0_0_0_2_13315_0.
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Display: Failed to write PhysX_A08609EF508D460CBB6710540B03AACF_PhysXPC_5A77BC1B4EB5B513374789B66778446A__1_0_0_0_2_13315_0 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:674][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/temp.D20834A0419946103196A19F0FFE9C0D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/2/2/0/temp.D20834A0419946103196A19F0FFE9C0D! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy AnimSeq_D8E26604610C43A4A2DCB8A690657705_0_25E5154C4CF66B641C121FAE20433021CC5__D6D8E5DD3D40A5361F1AFAB1051371B92547D6D3.
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Display: Failed to write AnimSeq_D8E26604610C43A4A2DCB8A690657705_0_25E5154C4CF66B641C121FAE20433021CC5__D6D8E5DD3D40A5361F1AFAB1051371B92547D6D3 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:674][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/temp.02B0640545EA6376723D07850388A272 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/9/4/5/temp.02B0640545EA6376723D07850388A272! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_EEC7Ef19B1AF435984C9604C80FF9350_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___ABF7535FEB351B43D162E49C5CA90D35243956B9.
+[2021.03.13-20.44.30:674][  0]LogDerivedDataCache: Display: Failed to write MATSM_EEC7Ef19B1AF435984C9604C80FF9350_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___ABF7535FEB351B43D162E49C5CA90D35243956B9 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:674][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.13-20.44.30:718][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/7/temp.CF80E3EE43335146397BC6BFF0F1C2BB (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:718][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/7/6/7/temp.CF80E3EE43335146397BC6BFF0F1C2BB! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:718][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_EEC7Ef19B1AF435984C9604C80FF9350_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___B22D4D45D6CB6DCCF02AFC10D0CB893EC17A2665.
+[2021.03.13-20.44.30:718][  0]LogDerivedDataCache: Display: Failed to write MATSM_EEC7Ef19B1AF435984C9604C80FF9350_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___B22D4D45D6CB6DCCF02AFC10D0CB893EC17A2665 to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:718][  0]LogFileManager: Error: Error writing to file: C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/0/temp.7FC3CE6C4EC43A7FBA8774B96DD81220 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:719][  0]LogDerivedDataCache: Warning: FFileSystemDerivedDataBackend: Could not write temp file C:/Users/DED108/AppData/Local/UnrealEngine/Common/DerivedDataCache/8/8/0/temp.7FC3CE6C4EC43A7FBA8774B96DD81220! Error: 112 (Espacio en disco insuficiente.)
+[2021.03.13-20.44.30:719][  0]LogDerivedDataCache: Warning: HierarchicalDerivedDataBackend: Put failed, keeping in memory copy MATSM_EEC7Ef19B1AF435984C9604C80FF9350_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___3EA5A30552516415049FE73E6AF657102336784F.
+[2021.03.13-20.44.30:719][  0]LogDerivedDataCache: Display: Failed to write MATSM_EEC7Ef19B1AF435984C9604C80FF9350_PCD3D_SM5_8__BC5N_NoCCBN_NoIris_DEV_SL___3EA5A30552516415049FE73E6AF657102336784F to HierarchicalDerivedDataBackend. Error: 0 (La operación se completó correctamente.)
+[2021.03.13-20.44.30:724][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.03.13-20.44.30:742][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.13-20.44.30:742][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2021.03.13-20.44.30:742][  0]LogFileHelpers: Loading map 'ComponentesNuevos' took 69.648
+[2021.03.13-20.44.30:745][  0]LogUnrealEdMisc: Total Editor Startup Time, took 82.778
+[2021.03.13-20.44.30:963][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-20.44.30:976][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-20.44.30:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-20.44.31:007][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.13-20.44.31:035][  0]LogCollectionManager: Loaded 0 collections in 0.018781 seconds
+[2021.03.13-20.44.31:087][  0]LogFileCache: Scanning file cache for directory 'D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Saved/Collections/' took 0.00s
+[2021.03.13-20.44.31:087][  0]LogFileCache: Scanning file cache for directory 'D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/Developers/DED108/Collections/' took 0.00s
+[2021.03.13-20.44.31:087][  0]LogFileCache: Scanning file cache for directory 'D:/Jerson/Recursos/CFE_CasaRV/CasaCFE/Content/Collections/' took 0.00s
+[2021.03.13-20.44.31:087][  0]LogContentBrowser: Native class hierarchy populated in 0.0203 seconds. Added 3427 classes and 821 folders.
+[2021.03.13-20.44.31:146][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.03.13-20.44.31:884][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1686
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:884][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:885][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogFileManager: Error: Error flushing file: C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D (Espacio en disco insuficiente.)
+[2021.03.13-20.44.31:886][  0]LogShaderCompilers: Error: Could not write the shader compiler transfer filename to 'C:/Users/DED108/AppData/Local/Temp/UnrealShaderWorkingDir/46241256453740CCDD75D49998039337/3E555CC78404EC5DA39374382C88F871D' (Free Disk Space: 0.
+[2021.03.13-20.44.31:886][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.13-20.44.31:888][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.03.13-20.44.32:904][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.13-20.44.32:907][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.13-20.44.32:926][  0]LogSlate: Took 0.007426 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.13-20.44.33:090][  0]LogRenderer: Reallocating scene render targets to support 1076x572 Format 26 NumSamples 1 (Frame:1).
+[2021.03.13-20.44.34:721][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.13-20.44.34:721][  0]LogLoad: (Engine Initialization) Total time: 86.75 seconds
+[2021.03.13-20.44.34:721][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.13-20.44.34:802][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/VirtualReality/Mannequin/Animations/MannequinHand_Right_Open.MannequinHand_Right_Open
+[2021.03.13-20.44.34:802][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1676
+[2021.03.13-20.44.34:802][  0]LogContentStreaming: Texture pool size now 800 MB
+[2021.03.13-20.44.34:899][  0]LogSlate: Took 0.019724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.13-20.44.35:064][  1]LogAssetRegistry: Asset discovery search completed in 80.0957 seconds
+[2021.03.13-20.44.35:074][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2021.03.13-20.44.37:125][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1666
+[2021.03.13-20.44.37:310][  4]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2021.03.13-20.44.48:791][  4]LogTemp: Resetting audio stream to device id 
+[2021.03.13-20.44.48:843][  4]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.13-20.44.48:843][  4]LogAudioMixer: Display: 1: FrontRight
+[2021.03.13-20.44.49:324][  5]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.13-20.44.50:020][ 30]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.03.13-20.44.50:027][ 30]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.13-20.44.50:027][ 30]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
+[2021.03.13-20.44.50:310][ 30]LogWindows: Error: === Critical error: ===
+[2021.03.13-20.44.50:311][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:311][ 30]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/ShaderCompiler/ShaderCompiler.cpp] [Line: 1144] 
+[2021.03.13-20.44.50:312][ 30]LogWindows: Error: Shader Compiling thread exception:
+[2021.03.13-20.44.50:314][ 30]LogWindows: Error: Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/ShaderCompiler/ShaderCompiler.cpp] [Line: 322] 
+[2021.03.13-20.44.50:314][ 30]LogWindows: Error: ShaderCompileWorker crashed!
+[2021.03.13-20.44.50:314][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:314][ 30]LogWindows: Error: 	Fatal error: [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/GenericPlatform/GenericPlatformMemory.cpp] [Line: 186] 
+[2021.03.13-20.44.50:314][ 30]LogWindows: Error: Ran out of memory allocating 3503215256 bytes with alignment 0
+[2021.03.13-20.44.50:315][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2df1058 ShaderCompileWorker-Core.dll!FGenericPlatformMemory::OnOutOfMemory() []
+[2021.03.13-20.44.50:315][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2e6ee06 ShaderCompileWorker-Core.dll!FMallocTBB::Realloc() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2d5fe52 ShaderCompileWorker-Core.dll!TArray<wchar_t,TSizedDefaultAllocator<32> >::ResizeTo() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2d862ae ShaderCompileWorker-Core.dll!operator<<() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff7414685b6 ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff74146aeee ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff741469c0b ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff741468727 ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff74147a0c3 ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff741475a87 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff7414734ca ShaderCompileWorker.exe!GuardedMain() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff7414737ff ShaderCompileWorker.exe!GuardedMainWrapper() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff741481308 ShaderCompileWorker.exe!wmain() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ff7414825a8 ShaderCompileWorker.exe!__scrt_common_main_seh() []
+[2021.03.13-20.44.50:316][ 30]LogWindows: Error: [Callstack] 0x00007ffa37e37bd4 KERNEL32.DLL!UnknownFunction []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ffa385ece51 ntdll.dll!UnknownFunction []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ffa356a3b29 KERNELBASE.dll!UnknownFunction []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff9e31227d6 ShaderCompileWorker-Core.dll!ReportAssert() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff9e3125bb7 ShaderCompileWorker-Core.dll!FWindowsErrorOutputDevice::Serialize() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2f99b8d ShaderCompileWorker-Core.dll!FOutputDevice::LogfImpl() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2df1080 ShaderCompileWorker-Core.dll!FGenericPlatformMemory::OnOutOfMemory() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2e6ee06 ShaderCompileWorker-Core.dll!FMallocTBB::Realloc() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2d5fe52 ShaderCompileWorker-Core.dll!TArray<wchar_t,TSizedDefaultAllocator<32> >::ResizeTo() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff9e2d862ae ShaderCompileWorker-Core.dll!operator<<() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff7414685b6 ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff74146aeee ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:317][ 30]LogWindows: Error: [Callstack] 0x00007ff741469c0b ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff741468727 ShaderCompileWorker.exe!operator<<() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff74147a0c3 ShaderCompileWorker.exe!FWorkLoop::ProcessInputFromArchive() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff741475a87 ShaderCompileWorker.exe!FWorkLoop::Loop() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff7414734ca ShaderCompileWorker.exe!GuardedMain() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff7414737ff ShaderCompileWorker.exe!GuardedMainWrapper() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff741481308 ShaderCompileWorker.exe!wmain() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff7414825a8 ShaderCompileWorker.exe!__scrt_common_main_seh() []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ffa37e37bd4 KERNEL32.DLL!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ffa385ece51 ntdll.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ffa356a3b29 KERNELBASE.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff99675ec66 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff996762048 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff9964ee52d UE4Editor-Core.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff97db091c9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff97daf2679 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff97db193d5 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff97daec0d8 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff97db22a37 UE4Editor-Engine.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff9967804db UE4Editor-Core.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ff996777eb0 UE4Editor-Core.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ffa37e37bd4 KERNEL32.DLL!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: [Callstack] 0x00007ffa385ece51 ntdll.dll!UnknownFunction []
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:318][ 30]LogWindows: Error: 
+[2021.03.13-20.44.50:346][ 30]LogExit: Executing StaticShutdownAfterError
+[2021.03.13-20.44.50:402][ 30]LogWindows: FPlatformMisc::RequestExit(1)
+[2021.03.13-20.44.50:402][ 30]LogCore: Engine exit requested (reason: Win RequestExit)
+[2021.03.13-20.44.50:424][ 30]Log file closed, 03/13/21 14:44:50
